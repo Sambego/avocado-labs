@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: fakt-web, Helvetica Neue, Hevetica, sans-serif;
+    font-size: 14px;
+    line-height: 2;
+    color: rgba(0, 0, 0, 0.86);
+    background-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+footer {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    font-size: 1.6rem;
+    color: #000;
+}
+
+footer a {
+    height: 2.5rem;
+}
+
+footer a svg {
+    height: 2.5rem;
+    margin-left: 1rem;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>resources</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-590.000000, -683.000000)">
+            <g id="Group-21" transform="translate(591.000000, 684.000000)">
+                <g id="Icons/Section/Resources">
+                    <g id="Group-18">
+                        <circle id="Oval" stroke="#222228" stroke-width="2" cx="26" cy="26" r="26"></circle>
+                        <path d="M11.2426416,17.0985283 L11.2426416,34.9014717 C11.2426416,36.5608541 12.5832719,37.9063998 14.2340023,37.9063998 L37.7659977,37.9063998 C39.4187537,37.9063998 40.7573584,36.5627033 40.7573584,34.9014717 L40.7573584,17.0985283 C40.7573584,15.4391459 39.4167281,14.0936002 37.7659977,14.0936002 L14.2340023,14.0936002 C12.5812463,14.0936002 11.2426416,15.4372967 11.2426416,17.0985283 Z" id="Rectangle-5" stroke="#000000" stroke-width="2"></path>
+                        <path d="M11.2132275,35.9488386 L18.048716,29.11335 C18.8324062,28.3296598 20.1025828,28.3292237 20.8788983,29.1055391 L29.6167899,37.8434307" id="Path-2" stroke="#000000" stroke-width="2"></path>
+                        <path d="M23.6932275,31.7888386 L30.528716,24.95335 C31.3124062,24.1696598 32.5806309,24.1672718 33.3616832,24.9483241 L40.7483251,32.3349659" id="Path-2" stroke="#000000" stroke-width="2"></path>
+                        <circle id="Oval-2" stroke="#EB5424" stroke-width="2" cx="19.24" cy="21.32" r="3.12"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
