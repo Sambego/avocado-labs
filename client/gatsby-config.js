@@ -5,7 +5,7 @@ module.exports = {
         title: `Avocado Labs`,
         siteUrl: `https://avocadolabs.dev`,
         description: `Avocado Labs is a way to keep people connected online and have access to quality talks.`,
-        ogImage: `//cdn.auth0.com/website/avocado-labs/twitter-card.png`,
+        ogImage: `https://cdn.auth0.com/website/avocado-labs/twitter-card.png`,
         twitterCreator: '@Avocado_Labs',
         twitterSite: '@Avocado_Labs',
     },
