@@ -37,13 +37,25 @@ const RecordingPage = ({ data, location }: RecordingPage) => {
               alt: siteMetadata.title,
             },
           ],
+          videos: [
+            {
+              url: `https://www.youtube.com/embed/${video.videoId}`,
+              alt: siteMetadata.title,
+            },
+          ]
           site_name: siteMetadata.title,
         }}
         twitter={{
           handle: siteMetadata.twitterCreator,
           site: siteMetadata.twitterSite,
-          cardType: 'summary_large_image',
+          cardType: 'player',
         }}
+        metaTags={[
+          {
+            name: 'twitter:player',
+            content: `https://www.youtube.com/embed/${video.videoId}`,
+          },
+        ]}
       />
       <BorderedContainer>
         <Container>

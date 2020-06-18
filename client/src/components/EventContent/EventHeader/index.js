@@ -36,7 +36,7 @@ const EventHeader = () => {
               <li>
                 <a href="/code-of-conduct">Code of Conduct</a>
               </li>
-              <li class="login-item">
+              <li className="login-item">
                 {isAuthenticated && (
                   <AvatarContainer>
                     <Avatar src={user.picture} />
