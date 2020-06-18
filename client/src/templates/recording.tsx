@@ -55,6 +55,14 @@ const RecordingPage = ({ data, location }: RecordingPage) => {
             name: 'twitter:player',
             content: `https://www.youtube.com/embed/${video.videoId}`,
           },
+          {
+            name: 'twitter:player:width',
+            content: '435',
+          },
+          {
+            name: 'twitter:player:height',
+            content: `251`,
+          },
         ]}
       />
       <BorderedContainer>
