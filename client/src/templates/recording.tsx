@@ -42,7 +42,7 @@ const RecordingPage = ({ data, location }: RecordingPage) => {
               url: `https://www.youtube.com/embed/${video.videoId}`,
               alt: siteMetadata.title,
             },
-          ]
+          ],
           site_name: siteMetadata.title,
         }}
         twitter={{
