@@ -55,7 +55,7 @@ export async function addAttendee(user: User, webinar: number, token: string) {
     body: JSON.stringify(body),
   })
     .then((response) => response.json())
-    .catch((e) => (error = e))
+    .catch((e) => console.log(e))
 }
 
 export async function checkAttendee(
@@ -76,7 +76,7 @@ export async function checkAttendee(
     }
   )
     .then((response) => response.json())
-    .catch((e) => (error = e))
+    .catch((e) => console.log(e))
 }
 
 export async function getWebinarDetails(
@@ -91,5 +91,5 @@ export async function getWebinarDetails(
     },
   })
     .then((response) => response.json())
-    .catch((e) => (error = e))
+    .catch((e) => console.log(e))
 }

@@ -38,7 +38,9 @@ const RegisterButton = ({ text, link, zoomId }: RegisterButtonType) => {
   }
 
   useEffect(() => {
-    checkIfRegistered(user)
+    if (user && zoomId) {
+      checkIfRegistered(user)
+    }
   }, [user])
 
   if (isAuthenticated && zoomId) {

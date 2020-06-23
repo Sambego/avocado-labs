@@ -22,6 +22,7 @@ type RecordingsPage = {
 const RecordingsPage = ({ data, location }: RecordingsPage) => {
   const siteMetadata = data.site.siteMetadata
   const videos = data.allYoutubeVideo.edges
+
   return (
     <Layout location={location}>
       <Helmet title={siteMetadata.siteTitle} />
@@ -92,7 +93,7 @@ export const pageQuery = graphql`
         twitterSite
       }
     }
-    allYoutubeVideo {
+    allYoutubeVideo(filter: { privacyStatus: { ne: "private" } }) {
       edges {
         node {
           title
@@ -103,6 +104,7 @@ export const pageQuery = graphql`
             url
           }
           videoId
+          privacyStatus
         }
       }
     }
