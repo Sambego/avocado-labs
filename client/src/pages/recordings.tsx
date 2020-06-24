@@ -74,7 +74,6 @@ const RecordingsPage = ({ data, location }: RecordingsPage) => {
           </Grid>
         </Container>
       </BorderedContainer>
-      >
     </Layout>
   )
 }
