@@ -16,17 +16,17 @@ export type RegisterButtonType = {
 }
 
 const RegisterButton = ({ text, link, zoomId }: RegisterButtonType) => {
-  const { isAuthenticated, user, getToken } = useAuth0()
+  const { isAuthenticated, user, getAccessTokenSilently } = useAuth0()
   const [isRegistered, setIsRegistered] = useState(false)
   const [zoomDetails, setZoomDetails] = useState({})
   const handleAddAttendee = async () => {
-    await addAttendee(user, zoomId, await getToken())
+    await addAttendee(user, zoomId, await getAccessTokenSilently())
     setIsRegistered(true)
   }
 
   const checkIfRegistered = async (user) => {
     if (user) {
-      const token = await getToken()
+      const token = await getAccessTokenSilently()
       const response = await checkAttendee(user.email, zoomId, token)
       setIsRegistered(response.isRegistered)
 
