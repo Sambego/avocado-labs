@@ -21,7 +21,7 @@ class Template extends React.Component {
         <footer>
           &copy; {new Date().getFullYear()} Avocado Labs
           &nbsp;&nbsp;|&nbsp;&nbsp; Powered by
-          <a href="https://auth0.com">
+          <a href="https://auth0.com/developers/">
             <BlackLogo />
           </a>
         </footer>
