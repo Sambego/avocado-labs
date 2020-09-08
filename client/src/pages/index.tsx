@@ -113,7 +113,7 @@ export const pageQuery = graphql`
         eventTheme: { name: { eq: "Avocado Labs" } }
         node_locale: { eq: "en" }
       }
-      sort: { order: DESC, fields: eventDate }
+      sort: { order: ASC, fields: eventDate }
     ) {
       edges {
         node {
