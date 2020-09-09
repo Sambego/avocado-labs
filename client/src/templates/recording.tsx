@@ -86,7 +86,7 @@ const RecordingPage = ({ data, location }: RecordingPage) => {
 export default RecordingPage
 
 export const pageQuery = graphql`
-  query VideoById($slug: String!) {
+  query VideoById($id: String!) {
     site {
       siteMetadata {
         title
@@ -95,7 +95,7 @@ export const pageQuery = graphql`
         twitterCreator
       }
     }
-    allYoutubeVideo(filter: { id: { eq: $slug } }) {
+    allYoutubeVideo(filter: { id: { eq: $id } }) {
       edges {
         node {
           title

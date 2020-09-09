@@ -6,6 +6,7 @@ import Layout from '../components/layout'
 import { BorderedContainer, Container } from '../components/styled.js'
 import ReadMoreLink from '../components/EventContent/ReadMoreLink'
 import { formatDate } from '../modules/date'
+import { toSnakeCase } from '../utilities/toSnakeCase'
 
 import {
   Grid,
@@ -65,7 +66,12 @@ const RecordingsPage = ({ data, location }: RecordingsPage) => {
                     {formatDate(`${new Date(video.node.publishedAt)}`)}{' '}
                   </time>
                   <h3> {video.node.title} </h3>
-                  <ReadMoreLink Href={`/recordings/${video.node.id}`} center>
+                  <ReadMoreLink
+                    Href={`/recordings/${encodeURIComponent(
+                      toSnakeCase(video.node.title)
+                    )}`}
+                    center
+                  >
                     Read More
                   </ReadMoreLink>
                 </Details>
