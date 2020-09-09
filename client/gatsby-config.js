@@ -16,6 +16,7 @@ module.exports = {
         'gatsby-plugin-sharp',
         'gatsby-plugin-sitemap',
         'gatsby-plugin-next-seo',
+        'gatsby-plugin-client-side-redirect',
         {
             resolve: `gatsby-source-youtube`,
             options: {

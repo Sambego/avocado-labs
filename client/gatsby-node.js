@@ -2,7 +2,11 @@ const Promise = require('bluebird')
 const path = require('path')
 
 exports.createPages = ({ graphql, actions }) => {
-    const { createPage } = actions
+    const { createPage, createRedirect } = actions
+    const toSnakeCase = (string) =>
+        string.replace(/\s-\s/g, '-').replace(/\s/g, '-').toLowerCase()
+    const generateRecordingSlug = (title) =>
+        encodeURIComponent(toSnakeCase(title))
 
     return new Promise((resolve, reject) => {
         const eventPage = path.resolve('./src/templates/event.tsx')
@@ -21,6 +25,7 @@ exports.createPages = ({ graphql, actions }) => {
             edges {
               node {
                 id
+                title
               }
             }
           }
@@ -52,14 +57,21 @@ exports.createPages = ({ graphql, actions }) => {
                 videos.forEach((video) => {
                     console.log(
                         '---- Creating recording page:',
-                        `/recordings/${video.node.id}/`
+                        `/recordings/${generateRecordingSlug(video.node.title)}/`
                     )
                     createPage({
-                        path: `/recordings/${video.node.id}/`,
+                        path: `/recordings/${generateRecordingSlug(video.node.title)}/`,
                         component: videoPage,
                         context: {
-                            slug: video.node.id,
+                            id: video.node.id,
+                            slug: generateRecordingSlug(video.node.title),
                         },
+                    })
+                    console.log(createRedirect)
+                    createRedirect({
+                        fromPath: `/recordings/${video.node.id}/`,
+                        toPath: `/recordings/${generateRecordingSlug(video.node.title)}/`,
+                        isPermanent: true,
                     })
                 })
             })
