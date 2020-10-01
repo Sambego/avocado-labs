@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import WhiteLogo from './whiteLogo.svg'
-import { useAuth0 } from '@auth0/auth0-react'
 import {
   LogoLink,
   PoweredBy,
@@ -9,14 +8,9 @@ import {
   Header,
   InnerHeader,
   HeaderNav,
-  Button,
-  AvatarContainer,
-  Avatar,
 } from './styled'
 
 const EventHeader = () => {
-  const { isAuthenticated, loginWithRedirect, logout, user } = useAuth0()
-
   return (
     <Header>
       <Container>
@@ -34,25 +28,6 @@ const EventHeader = () => {
               </li>
               <li>
                 <a href="/code-of-conduct"> Code of Conduct </a>
-              </li>
-              <li className="login-item">
-                {isAuthenticated && (
-                  <AvatarContainer>
-                    <Avatar src={user.picture} />
-                    <Button
-                      onClick={() =>
-                        logout({
-                          returnTo: window.location.origin,
-                        })
-                      }
-                    >
-                      Log out
-                    </Button>
-                  </AvatarContainer>
-                )}
-                {!isAuthenticated && (
-                  <Button onClick={() => loginWithRedirect()}> Log in </Button>
-                )}
               </li>
             </ul>
           </HeaderNav>

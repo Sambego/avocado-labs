@@ -85,17 +85,6 @@ export const HeaderNav = styled.nav`
     align-self: center;
   }
 
-  .login-item {
-    padding: 2rem 0;
-
-    display: flex;
-    justify-content: center;
-
-    ${media.md`
-    width: auto;
-    `}
-  }
-
   a {
     color: white;
   }

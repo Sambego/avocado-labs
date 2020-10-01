@@ -2,9 +2,7 @@ import React, { Component } from 'react'
 import ReactMarkdown from 'react-markdown'
 import PropTypes from 'prop-types'
 import { Waypoint } from 'react-waypoint'
-import RegisterButton from '../RegisterButton'
 import EventNavigation from '../EventNavigation'
-import LoginWarning from '../LoginWarning'
 import {
   HeroStyled,
   BottomWaypoint,
@@ -91,12 +89,6 @@ class Hero extends Component {
               <Subtitle>
                 <ReactMarkdown source={heroDescription} />
               </Subtitle>
-              <RegisterButton
-                text={heroButtonText}
-                link={heroButtonLink}
-                zoomId={zoomId}
-              />
-              <LoginWarning />
             </TextContent>
             <MediaContent>
               <img
