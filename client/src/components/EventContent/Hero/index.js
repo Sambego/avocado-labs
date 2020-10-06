@@ -3,6 +3,7 @@ import ReactMarkdown from 'react-markdown'
 import PropTypes from 'prop-types'
 import { Waypoint } from 'react-waypoint'
 import EventNavigation from '../EventNavigation'
+import Button from '../Button'
 import {
   HeroStyled,
   BottomWaypoint,
@@ -74,7 +75,7 @@ class Hero extends Component {
       eventDate,
       zoomId,
     } = this.props
-
+    console.log(this.props)
     return (
       <HeroStyled
         bgColor={eventTheme.bgColor}
@@ -89,6 +90,7 @@ class Hero extends Component {
               <Subtitle>
                 <ReactMarkdown source={heroDescription} />
               </Subtitle>
+              <Button text={heroButtonText} link={heroButtonLink} />
             </TextContent>
             <MediaContent>
               <img
