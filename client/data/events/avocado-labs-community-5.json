@@ -1,0 +1,132 @@
+{
+    "id": "fd2f511f-bf2a-5961-a0df-0bbb0df82d07",
+    "contentfulid": "avocado-labs-community-5",
+    "title": "Bring your drink, bring your questions about Product Security",
+    "metaTags": {
+        "title": "Bring your drink, bring your questions about Product Security",
+        "description": {
+            "description": "Product Security's mission is to help build a more secure product. This encompasses preventing the vulnerabilities from entering the code with Secure Software Development processes, managing vulnerabilities found in the product and educating engineers on security best practices and security threats.  Come and ask all the questions around Product Security! "
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado_eva.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-10-20",
+    "navigationTime": "16:00 CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Community hour",
+    "heroButtonText": "Join us at 16:00 CEST, 20th October",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273922584/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "☕ 🥤 Bring your drink, bring your questions about Product Security🍺🍸",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Product Security's mission is to help build a more secure product. This encompasses preventing the vulnerabilities from entering the code with Secure Software Development processes, managing vulnerabilities found in the product and educating engineers on security best practices and security threats.\n\nCome and ask all the questions around Product Security!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                "name": "Eva Sarafianou",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Eva Sarafianou is a Senior Product Security Engineer at Auth0 and a member of the Node.js Security Ecosystem Working Group. At Auth0 she is working closely with Engineering teams responsible for Auth0's Session Management and Identity Protocols performing security reviews, threat models and integrating security tools into the teams' workflows. She's also working on Auth0’s Vulnerability Management and Bug Bounty program and on the development of security tools and libraries. Eva is passionate about JavaScript security and as a member of the Node.js Security Ecosystem Working Group she helps run the Node.js Ecosystem bug bounty & responsible disclosure program. In the past, Eva worked as a Security Researcher on Cryptography and has presented her work in major conferences like Black Hat and IACR Real World Crypto.\n"
+                },
+                "githubAccount": null,
+                "company": "Auth0",
+                "title": "Senior Product Security Engineer",
+                "twitterAccount": "https://twitter.com/evileve6",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/2UuHQbKXL8yfF7BRVUx5z2/0d32c6d169fe151ebcc391c21a25b097/eva.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Bring your drink, bring your questions about Product Security"
+                    }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-community-5",
+    "parts": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "☕ 🥤 Bring your drink, bring your questions about Product Security🍺🍸",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Product Security's mission is to help build a more secure product. This encompasses preventing the vulnerabilities from entering the code with Secure Software Development processes, managing vulnerabilities found in the product and educating engineers on security best practices and security threats.\n\nCome and ask all the questions around Product Security!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                "name": "Eva Sarafianou",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Eva Sarafianou is a Senior Product Security Engineer at Auth0 and a member of the Node.js Security Ecosystem Working Group. At Auth0 she is working closely with Engineering teams responsible for Auth0's Session Management and Identity Protocols performing security reviews, threat models and integrating security tools into the teams' workflows. She's also working on Auth0’s Vulnerability Management and Bug Bounty program and on the development of security tools and libraries. Eva is passionate about JavaScript security and as a member of the Node.js Security Ecosystem Working Group she helps run the Node.js Ecosystem bug bounty & responsible disclosure program. In the past, Eva worked as a Security Researcher on Cryptography and has presented her work in major conferences like Black Hat and IACR Real World Crypto.\n"
+                },
+                "githubAccount": null,
+                "company": "Auth0",
+                "title": "Senior Product Security Engineer",
+                "twitterAccount": "https://twitter.com/evileve6",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/2UuHQbKXL8yfF7BRVUx5z2/0d32c6d169fe151ebcc391c21a25b097/eva.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Bring your drink, bring your questions about Product Security"
+                    }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "id": "e5569bfd-c91e-5ecf-bec5-47ef9f34b992",
+    "contentfulid": "avocado-labs-community-4",
+    "title": "Why and How We Built Auth0 Marketplace",
+    "metaTags": {
+        "title": "Why and How We Built Auth0 Marketplace",
+        "description": {
+            "description": "Join us on Monday, October 5th as we talk about our strategy behind building the Auth0 Marketplace and the opportunity it delivers.  We'll share industry insights into the global trends of Ecosystems and Marketplace as well as technical decisions we made that are unique to Auth0. In this talk you will learn: How to use Auth0 Marketplace to discover solutions unique to your identity needs Insights into Ecosystem and Marketplace strategies  What we plan to do next"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/community-4.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-10-05",
+    "navigationTime": "09:00 PDT",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Community hour",
+    "heroButtonText": "Join us at 09:00 PDT, 5th October",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273428243/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": " Why and How We Built Auth0 Marketplace",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Join us on Monday, October 5th as we talk about our strategy behind building the Auth0 Marketplace and the opportunity it delivers.\nWe'll share industry insights into the global trends of Ecosystems and Marketplace as well as technical decisions we made that are unique to Auth0. In this talk you will learn:\n- How to use Auth0 Marketplace to discover solutions unique to your identity needs\n- Insights into Ecosystem and Marketplace strategies \n- What we plan to do next"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/1mxugLDbUypYnyITrVw8MT/3f7c8bb331de28f3b89288b4d16c92cf/avocado_entero_1.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                    "name": "Josh Cunningham",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Josh has been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. He’s been working IRL since 2010 as a husband and since 2013 as a dad. At Auth0, Josh co-leads the Marketplace engineering team and partner technical support teams working to make it easy to integrate with our platform.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Engineer, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/50KpeIYbkG7Amb5nQEXReq/d96893d356554236a7dea3e9fe4e43a2/Josh.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Darin LaFramboise",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Darin joined Auth0 in March 2020 as the Principal Product Manager for Ecosystem. He has been in tech for about 12 years now, starting in the e-commerce side in analytics and making his way to enterprise SaaS products. He has a passion for platform ecosystems, a level playing field where someone with a good idea and some working knowledge of code can turn any idea into a sustainable means of income. \n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Principal PM, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2H2VyfY7WVjzj7tmOIHTwt/c6cc3fdb1c2b4d9b360ca36688bd5cdc/Darin_LaFramboise.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Shafiq Shivji",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Shafiq leads Product Marketing for Auth0's Ecosystem and Extensibility domains. He brings vast experience from previous roles as a Product Manager and Sales Engineer working in adjacent SaaS industries like machine learning, web/mobile apps, and communications. He especially enjoys the creative process of conceiving and taking high-impact products to market."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Product Marketing Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5dp8LeOjFEcc4RaJllUvoH/43f5e9790139bf97f13d9f53a476d075/Shafiq.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "09:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "09:05",
+                    "description": {
+                        "description": "Why and How We Built Auth0 Marketplace"
+                    }
+                },
+                { "hour": "09:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-community-4",
+    "parts": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": " Why and How We Built Auth0 Marketplace",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Join us on Monday, October 5th as we talk about our strategy behind building the Auth0 Marketplace and the opportunity it delivers.\nWe'll share industry insights into the global trends of Ecosystems and Marketplace as well as technical decisions we made that are unique to Auth0. In this talk you will learn:\n- How to use Auth0 Marketplace to discover solutions unique to your identity needs\n- Insights into Ecosystem and Marketplace strategies \n- What we plan to do next"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/1mxugLDbUypYnyITrVw8MT/3f7c8bb331de28f3b89288b4d16c92cf/avocado_entero_1.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                    "name": "Josh Cunningham",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Josh has been working on the web since 2007 as an engineer, designer, strategist, user interface consultant, team lead, project manager, and product builder. He’s been working IRL since 2010 as a husband and since 2013 as a dad. At Auth0, Josh co-leads the Marketplace engineering team and partner technical support teams working to make it easy to integrate with our platform.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Engineer, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/50KpeIYbkG7Amb5nQEXReq/d96893d356554236a7dea3e9fe4e43a2/Josh.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Darin LaFramboise",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Darin joined Auth0 in March 2020 as the Principal Product Manager for Ecosystem. He has been in tech for about 12 years now, starting in the e-commerce side in analytics and making his way to enterprise SaaS products. He has a passion for platform ecosystems, a level playing field where someone with a good idea and some working knowledge of code can turn any idea into a sustainable means of income. \n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Principal PM, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2H2VyfY7WVjzj7tmOIHTwt/c6cc3fdb1c2b4d9b360ca36688bd5cdc/Darin_LaFramboise.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Shafiq Shivji",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Shafiq leads Product Marketing for Auth0's Ecosystem and Extensibility domains. He brings vast experience from previous roles as a Product Manager and Sales Engineer working in adjacent SaaS industries like machine learning, web/mobile apps, and communications. He especially enjoys the creative process of conceiving and taking high-impact products to market."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Product Marketing Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5dp8LeOjFEcc4RaJllUvoH/43f5e9790139bf97f13d9f53a476d075/Shafiq.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "09:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "09:05",
+                    "description": {
+                        "description": "Why and How We Built Auth0 Marketplace"
+                    }
+                },
+                { "hour": "09:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

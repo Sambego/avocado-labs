@@ -1,0 +1,140 @@
+{
+    "id": "de96bf7f-b5de-5882-be5f-b752d599eb05",
+    "contentfulid": "avocado-labs-episode-12",
+    "title": "Look! There's a threat model in my DevOps.",
+    "metaTags": {
+        "title": "Look! There's a threat model in my DevOps.",
+        "description": {
+            "description": "\"You can't threat model in a CI/CD DevOps environment!!\" This is a common belief among developers and security professionals alike. With frameworks like STRIDE, DREAD, PASTA, etc. threat modeling is typically viewed as a heavy-weight, time-consuming exercise that is simply not compatible with high-paced development paradigms. As a result, organizations that employ these paradigms commonly scratch threat modeling off their Secure SDLC checklist as simply impossible to implement without breaking their DevOps model. They lose sight of the core purpose of threat modeling and as a result are unable to tailor an approach that fits their development lifecycle.  In this session, we’ll turn those misconceptions about Threat Modeling upside down. We’ll go back to the core purpose of threat modeling. We’ll discuss what components of threat modeling are most crucial, what questions we should be asking and who should be answering them. Ultimately, this will all culminate into presentation of an alternative approach to Threat Modeling. We’ll walk through the details of how to implement this backlog-based approach in any development paradigm and demonstrate that it can be done without affecting our development timelines."
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-12.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-10-13",
+    "navigationTime": "18:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 18:00h CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273090842/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Look! There's a threat model in my DevOps.",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "\"You can't threat model in a CI/CD DevOps environment!!\" This is a common belief among developers and security professionals alike. With frameworks like STRIDE, DREAD, PASTA, etc. threat modeling is typically viewed as a heavy-weight, time-consuming exercise that is simply not compatible with high-paced development paradigms. As a result, organizations that employ these paradigms commonly scratch threat modeling off their Secure SDLC checklist as simply impossible to implement without breaking their DevOps model. They lose sight of the core purpose of threat modeling and as a result are unable to tailor an approach that fits their development lifecycle.\n\nIn this session, we’ll turn those misconceptions about Threat Modeling upside down. We’ll go back to the core purpose of threat modeling. We’ll discuss what components of threat modeling are most crucial, what questions we should be asking and who should be answering them. Ultimately, this will all culminate into presentation of an alternative approach to Threat Modeling. We’ll walk through the details of how to implement this backlog-based approach in any development paradigm and demonstrate that it can be done without affecting our development timelines."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Alyssa Miller",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Alyssa Miller has been a hacker and programmer since her pre-teens when she bought her first computer. While IT was not her original career plan, she ended up working as a developer and later a penetration tester in the financial services industry. As she moved into consulting her focus on defending corporate systems grew to the point where she was advising fortune 100 companies on how to build comprehensive security programs. She’s a security advocate, public speaker and author with a passion for sharing her ideas and knowledge to help improve the ways we defend our digital world. "
+                },
+                "githubAccount": null,
+                "company": "Snyk",
+                "title": "Application Security Advocate",
+                "twitterAccount": "https://twitter.com/AlyssaM_InfoSec",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/4BLXV2V4X693v5wSFvSzYo/cf2e4168533e7c4fa8de8a195b0b0767/AlyssaMiller-Headshot-2020.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Look! There's a threat model in my DevOps - Alyssa Miller\n\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A wit Alyssa Miller" }
+                },
+                { "hour": "18:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-12",
+    "parts": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Look! There's a threat model in my DevOps.",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "\"You can't threat model in a CI/CD DevOps environment!!\" This is a common belief among developers and security professionals alike. With frameworks like STRIDE, DREAD, PASTA, etc. threat modeling is typically viewed as a heavy-weight, time-consuming exercise that is simply not compatible with high-paced development paradigms. As a result, organizations that employ these paradigms commonly scratch threat modeling off their Secure SDLC checklist as simply impossible to implement without breaking their DevOps model. They lose sight of the core purpose of threat modeling and as a result are unable to tailor an approach that fits their development lifecycle.\n\nIn this session, we’ll turn those misconceptions about Threat Modeling upside down. We’ll go back to the core purpose of threat modeling. We’ll discuss what components of threat modeling are most crucial, what questions we should be asking and who should be answering them. Ultimately, this will all culminate into presentation of an alternative approach to Threat Modeling. We’ll walk through the details of how to implement this backlog-based approach in any development paradigm and demonstrate that it can be done without affecting our development timelines."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Alyssa Miller",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Alyssa Miller has been a hacker and programmer since her pre-teens when she bought her first computer. While IT was not her original career plan, she ended up working as a developer and later a penetration tester in the financial services industry. As she moved into consulting her focus on defending corporate systems grew to the point where she was advising fortune 100 companies on how to build comprehensive security programs. She’s a security advocate, public speaker and author with a passion for sharing her ideas and knowledge to help improve the ways we defend our digital world. "
+                },
+                "githubAccount": null,
+                "company": "Snyk",
+                "title": "Application Security Advocate",
+                "twitterAccount": "https://twitter.com/AlyssaM_InfoSec",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/4BLXV2V4X693v5wSFvSzYo/cf2e4168533e7c4fa8de8a195b0b0767/AlyssaMiller-Headshot-2020.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Look! There's a threat model in my DevOps - Alyssa Miller\n\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A wit Alyssa Miller" }
+                },
+                { "hour": "18:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "id": "61596049-7533-5e94-a302-4afe1bcb4d5e",
+    "contentfulid": "avocado-labs-episode-11",
+    "title": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone",
+    "metaTags": {
+        "title": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone",
+        "description": {
+            "description": "n this talk we will show an interesting project we built: an autonomous vehicle powered by NVIDIA Jetson Nano, equipped with a drone, that collects and processes data and uploads it to the Microsoft Azure cloud. We'll explain which technologies we used, challenges we had in building it, how we solved them and hopefully inspire you to build similar projects.  https://blog.stratiteq.com/dragonfly-mini-2000km-mission"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-11.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-09-28",
+    "navigationTime": "16:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 16:00h CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273031234/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this talk we will show an interesting project we built: an autonomous vehicle powered by NVIDIA Jetson Nano, equipped with a drone, that collects and processes data and uploads it to the Microsoft Azure cloud. We'll explain which technologies we used, challenges we had in building it, how we solved them and hopefully inspire you to build similar projects.\n\nhttps://blog.stratiteq.com/dragonfly-mini-2000km-mission"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Goran Vuksic",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Goran works as a Technical manager for Stratiteq, he has 15 years of work experience in IT and wide knowledge about various technologies and programming languages. He worked on various projects for notable clients and projects he worked on have been featured many times on web sites like Forbes, The Next Web, TechCrunch, The Guardian, The Verge, Macworld and others. In the last few years, he attended several hackathons and other competitions on which his skills and work were recognized and awarded. Goran is tech enthusiast, he writes technical blog posts and he likes to share his wide knowledge on different workshops and talks."
+                    },
+                    "githubAccount": null,
+                    "company": "Stratiteq",
+                    "title": "Technical Manager",
+                    "twitterAccount": "https://twitter.com/gvuksic",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/HgfpKqwaLtLbZgtUkHlju/9af9bad889107a7b175f7385dd0ed7b7/Goran.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Yurdaer Dalkic",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Yurdaer works as a software developer for Stratiteq and he has master's degree in computer science. He is fascinated with the development of IoT and Smart City applications. He has knowledge about different programming languages and embedded systems."
+                    },
+                    "githubAccount": null,
+                    "company": "Stratiteq",
+                    "title": "Software Developer",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/4LZUkXYYnScDOWjMrIGagO/f09e0f8f10ccf51311926692ebf91596/y.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Goran & Yurdaer" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-11",
+    "parts": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this talk we will show an interesting project we built: an autonomous vehicle powered by NVIDIA Jetson Nano, equipped with a drone, that collects and processes data and uploads it to the Microsoft Azure cloud. We'll explain which technologies we used, challenges we had in building it, how we solved them and hopefully inspire you to build similar projects.\n\nhttps://blog.stratiteq.com/dragonfly-mini-2000km-mission"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Goran Vuksic",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Goran works as a Technical manager for Stratiteq, he has 15 years of work experience in IT and wide knowledge about various technologies and programming languages. He worked on various projects for notable clients and projects he worked on have been featured many times on web sites like Forbes, The Next Web, TechCrunch, The Guardian, The Verge, Macworld and others. In the last few years, he attended several hackathons and other competitions on which his skills and work were recognized and awarded. Goran is tech enthusiast, he writes technical blog posts and he likes to share his wide knowledge on different workshops and talks."
+                    },
+                    "githubAccount": null,
+                    "company": "Stratiteq",
+                    "title": "Technical Manager",
+                    "twitterAccount": "https://twitter.com/gvuksic",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/HgfpKqwaLtLbZgtUkHlju/9af9bad889107a7b175f7385dd0ed7b7/Goran.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Yurdaer Dalkic",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Yurdaer works as a software developer for Stratiteq and he has master's degree in computer science. He is fascinated with the development of IoT and Smart City applications. He has knowledge about different programming languages and embedded systems."
+                    },
+                    "githubAccount": null,
+                    "company": "Stratiteq",
+                    "title": "Software Developer",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/4LZUkXYYnScDOWjMrIGagO/f09e0f8f10ccf51311926692ebf91596/y.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Building Dragonfly Mini - an autonomous vehicle equipped with a drone"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Goran & Yurdaer" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

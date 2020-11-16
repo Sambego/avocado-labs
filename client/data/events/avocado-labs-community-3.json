@@ -1,0 +1,128 @@
+{
+    "id": "5a964b88-5de9-5272-a914-31ee683937c3",
+    "contentfulid": "avocado-labs-community-3",
+    "title": "Avocado Labs - How I Launched My First Info Product in 2 week",
+    "metaTags": {
+        "title": "Avocado Labs - How I Launched My First Info Product in 2 weeks",
+        "description": {
+            "description": "Will is going to give his experience in launching my first product what I learned and what I could do better. "
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/community-3.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-09-14",
+    "navigationTime": "18:00h",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Community hour",
+    "heroButtonText": "Join us at 09:00h PDT 14th September",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273116140/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "How Will Launched his First Info Product in 2 weeks",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Give his experience launching his first product what he learned and what he could do better. Bring your drink, bring your questions!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Will Johnson",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Self taught developer passionate about helping others reach their goals!\n"
+                },
+                "githubAccount": null,
+                "company": "egghead.io",
+                "title": "Community Engineer",
+                "twitterAccount": "https://twitter.com/willjohnsonio",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/75Ngv2zUHeOFJQ94qLGhAv/0d68a0edfec450220263394b3fe3ff2e/will.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Q&A with Will Johnson" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-community-3",
+    "parts": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "How Will Launched his First Info Product in 2 weeks",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Give his experience launching his first product what he learned and what he could do better. Bring your drink, bring your questions!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Will Johnson",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Self taught developer passionate about helping others reach their goals!\n"
+                },
+                "githubAccount": null,
+                "company": "egghead.io",
+                "title": "Community Engineer",
+                "twitterAccount": "https://twitter.com/willjohnsonio",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/75Ngv2zUHeOFJQ94qLGhAv/0d68a0edfec450220263394b3fe3ff2e/will.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Q&A with Will Johnson" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

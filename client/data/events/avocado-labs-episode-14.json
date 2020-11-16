@@ -1,0 +1,140 @@
+{
+    "id": "62848673-9f35-5a73-b01a-ca731f95a169",
+    "contentfulid": "avocado-labs-episode-14",
+    "title": "Setting Up Feature Flags with React",
+    "metaTags": {
+        "title": "Setting Up Feature Flags with React",
+        "description": {
+            "description": "As developers, we release features daily – but how do you ensure those features are working properly in production before you release them to all your users? If you ask me, the answer is feature flags! Feature flags are beneficial because they allow you to test your code in production, perform canary releases, and even conduct A/B testing. The power of React makes it easy to implement these flags. We will walk through how to easily create a feature flag in the UI, install dependencies with npm, and implement your feature flag in your react app."
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-14.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-11-02",
+    "navigationTime": "19:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 19:00h CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273093630/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Setting Up Feature Flags with React",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "As developers, we release features daily – but how do you ensure those features are working properly in production before you release them to all your users? If you ask me, the answer is feature flags! Feature flags are beneficial because they allow you to test your code in production, perform canary releases, and even conduct A/B testing. The power of React makes it easy to implement these flags. We will walk through how to easily create a feature flag in the UI, install dependencies with npm, and implement your feature flag in your react app."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Talia Nassi",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Talia Nassi is an international keynote speaker who delivers content on all things testing and quality. She is a developer advocate at Split.io where she works closely with engineering teams globally to ship software more efficiently. She is passionate about feature flagging, canary launches, CI/CD, testing in production, and A/B testing. She has spoken at countless conferences internationally, ranging from audiences of 100 to 4000!"
+                },
+                "githubAccount": null,
+                "company": "Split Software",
+                "title": "Setting Up Feature Flags with React",
+                "twitterAccount": "https://twitter.com/talia_nassi",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/dSYcxVPLqSvd3c4mRUyi6/a378a9b4cabc202dabeb5b50473625a6/talia.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Setting Up Feature Flags with React - Talia Nassi\n\n "
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Talia Nassi" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-14",
+    "parts": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Setting Up Feature Flags with React",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "As developers, we release features daily – but how do you ensure those features are working properly in production before you release them to all your users? If you ask me, the answer is feature flags! Feature flags are beneficial because they allow you to test your code in production, perform canary releases, and even conduct A/B testing. The power of React makes it easy to implement these flags. We will walk through how to easily create a feature flag in the UI, install dependencies with npm, and implement your feature flag in your react app."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Talia Nassi",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Talia Nassi is an international keynote speaker who delivers content on all things testing and quality. She is a developer advocate at Split.io where she works closely with engineering teams globally to ship software more efficiently. She is passionate about feature flagging, canary launches, CI/CD, testing in production, and A/B testing. She has spoken at countless conferences internationally, ranging from audiences of 100 to 4000!"
+                },
+                "githubAccount": null,
+                "company": "Split Software",
+                "title": "Setting Up Feature Flags with React",
+                "twitterAccount": "https://twitter.com/talia_nassi",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/dSYcxVPLqSvd3c4mRUyi6/a378a9b4cabc202dabeb5b50473625a6/talia.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Setting Up Feature Flags with React - Talia Nassi\n\n "
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Talia Nassi" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

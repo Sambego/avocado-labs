@@ -1,0 +1,234 @@
+{
+    "id": "7c4ab5ea-3f06-58be-84eb-9d4ac3fd525b",
+    "contentfulid": "avocado-labs-talks-episode-5",
+    "title": "All things JAMStack",
+    "metaTags": {
+        "title": "All things JAMStack",
+        "description": {
+            "description": "In this episode we have a real treat with two amazing speakers, Guillermo Rauch (Vercel) and Cassidy Williams (Netlify)! They will discuss what the reality beyond the hype is, how to use the Jamstack in production and how Nextjs fits in with the Jamstack. "
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-5.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-06-30",
+    "navigationTime": "18:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 18:00h CEST 30th June",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/271374462/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All things JAMStack",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Description: In this episode we have a real treat with two amazing speakers, Guillermo Rauch (Vercel) and Cassidy Williams (Netlify)! They will discuss what the reality beyond the hype is, how to use the Jamstack in production and how Nextjs fits in with the Jamstack. \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Jamstack and the rise of the frontend",
+                    "speaker": [{ "name": "Guillermo Rauch", "company": "Vercel" }],
+                    "description": {
+                        "description": "We've all heard about the rise of Jamstack and serverless, but what's the reality beyond the hype? How do I use the Jamstack in production? Why is Jamstack shifting company's investments towards frontend development, react, design systems and components, instead of the backend? In this talk we'll answer these questions, provide actionable guidance on how to benefit from Jamstack for your next big project, and discuss why Auth0 is perfectly positioned to be the \"A\" in \"JAM\"."
+                    }
+                },
+                {
+                    "title": "Next.js from the ground up",
+                    "speaker": [{ "name": "Cassidy Williams", "company": "Netlify" }],
+                    "description": {
+                        "description": "In this talk, I'll talk about how Next.js fits in with the Jamstack, how to use some of their built-in features, and how to deploy it."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Guillermo Rauch",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Before starting Vercel in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. \nHe's the creator of several popular Node.js open source libraries like socket.io, mongoose and slackin. Prior to Node.js, he was a core developer of the MooToolsfrontend toolkit."
+                    },
+                    "githubAccount": null,
+                    "company": "Vercel",
+                    "title": "CEO",
+                    "twitterAccount": "https://twitter.com/rauchg",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2Nv10kslaRmHegN10YffTQ/aa230e5b846d1c2e93666212041762c2/guillermo.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Cassidy Williams",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Cassidy is a Principal Developer Experience Engineer at Netlify. She's worked for several other places, including CodePen, Amazon, and Venmo, and she's had the honor of working with various non-profits, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community, and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 & Under. As an avid speaker, Cassidy has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and dozens of other technical events. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: \"One can never consent to creep when one feels an impulse to soar.\" She loves mechanical keyboards and karaoke.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Netlify",
+                    "title": "Principal Developer Experience Engineer",
+                    "twitterAccount": "https://twitter.com/cassidoo",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/27ysDsgDQ7JvVIhxzrC4of/cb65de26433d48cfecd611ea3790a5fd/cassidy.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Jamstack and the rise of the frontend - Guillermo Rauch\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Guillermo Rauch" }
+                },
+                {
+                    "hour": "18:40",
+                    "description": {
+                        "description": "Next.js on Netlify - Cassidy Williams"
+                    }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Cassidy Williams" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-talks-episode-5",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All things JAMStack",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Description: In this episode we have a real treat with two amazing speakers, Guillermo Rauch (Vercel) and Cassidy Williams (Netlify)! They will discuss what the reality beyond the hype is, how to use the Jamstack in production and how Nextjs fits in with the Jamstack. \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Jamstack and the rise of the frontend",
+                    "speaker": [{ "name": "Guillermo Rauch", "company": "Vercel" }],
+                    "description": {
+                        "description": "We've all heard about the rise of Jamstack and serverless, but what's the reality beyond the hype? How do I use the Jamstack in production? Why is Jamstack shifting company's investments towards frontend development, react, design systems and components, instead of the backend? In this talk we'll answer these questions, provide actionable guidance on how to benefit from Jamstack for your next big project, and discuss why Auth0 is perfectly positioned to be the \"A\" in \"JAM\"."
+                    }
+                },
+                {
+                    "title": "Next.js from the ground up",
+                    "speaker": [{ "name": "Cassidy Williams", "company": "Netlify" }],
+                    "description": {
+                        "description": "In this talk, I'll talk about how Next.js fits in with the Jamstack, how to use some of their built-in features, and how to deploy it."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Guillermo Rauch",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Before starting Vercel in November 2015, Guillermo was the CTO and co-founder of LearnBoost and Cloudup, acquired by Automattic in 2013. \nHe's the creator of several popular Node.js open source libraries like socket.io, mongoose and slackin. Prior to Node.js, he was a core developer of the MooToolsfrontend toolkit."
+                    },
+                    "githubAccount": null,
+                    "company": "Vercel",
+                    "title": "CEO",
+                    "twitterAccount": "https://twitter.com/rauchg",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2Nv10kslaRmHegN10YffTQ/aa230e5b846d1c2e93666212041762c2/guillermo.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Cassidy Williams",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Cassidy is a Principal Developer Experience Engineer at Netlify. She's worked for several other places, including CodePen, Amazon, and Venmo, and she's had the honor of working with various non-profits, including cKeys and Hacker Fund as their Director of Outreach. She's active in the developer community, and one of Glamour Magazine's 35 Women Under 35 Changing the Tech Industry and LinkedIn's Top Professionals 35 & Under. As an avid speaker, Cassidy has participated in several events including the Grace Hopper Celebration for Women in Computing, TEDx, the United Nations, and dozens of other technical events. She wants to inspire generations of STEM students to be the best they can be, and her favorite quote is from Helen Keller: \"One can never consent to creep when one feels an impulse to soar.\" She loves mechanical keyboards and karaoke.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Netlify",
+                    "title": "Principal Developer Experience Engineer",
+                    "twitterAccount": "https://twitter.com/cassidoo",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/27ysDsgDQ7JvVIhxzrC4of/cb65de26433d48cfecd611ea3790a5fd/cassidy.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Jamstack and the rise of the frontend - Guillermo Rauch\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Guillermo Rauch" }
+                },
+                {
+                    "hour": "18:40",
+                    "description": {
+                        "description": "Next.js on Netlify - Cassidy Williams"
+                    }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Cassidy Williams" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

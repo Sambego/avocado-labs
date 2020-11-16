@@ -1,0 +1,226 @@
+{
+    "id": "e808f2de-c2ab-5c0b-a6f4-ffae9c1d1754",
+    "contentfulid": "avocado-labs-community-2",
+    "title": "Avocado Labs - Bring your drink, bring your Auth0 developer support questions!?",
+    "metaTags": {
+        "title": "Avocado Labs - Bring your drink, bring your Auth0 developer support questions!",
+        "description": {
+            "description": "In this episode we will be answering your developer support questions. To do so we have our Community Lead, Jim Morrison and our Regional support manager for Americas, Jose Antonio Rey! So you know what to do… bring a drink and bring your questions!"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/community-2.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-08-31",
+    "navigationTime": "18:00h",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Community hour",
+    "heroButtonText": "Join us at 09:00h PDT 31st August",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/272674729/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "Bring your drink, bring your Auth0 developer support questions!",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we will be answering your developer support questions. To do so we have our Community Lead, Jim Morrison and our Regional support manager for Americas, Jose Antonio Rey! So you know what to do… bring a drink and bring your questions!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                    "name": "Jim Morrison",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Jim is a collaborative developer who leads the Auth0 Community team and is powered by delivering value to others. He enjoys strategic planning and the motorsport of drifting. An avid reader and always open to new book recommendations"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0 ",
+                    "title": "Community Lead",
+                    "twitterAccount": "https://twitter.com/CodingMorrison",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/3ll45K5U7LY84FPGFhJA1w/2ea64ff361def1e689ab03e93bc22374/Jim_Morrison.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Jose Antonio Rey",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Previously a Sr. Developer Support Engineer, and a former member of the Ubuntu Community Council, Jose has a passion for planes and traveling. Curious by nature, Jose loves learning about anything and everything, so don't hesitate on sending some curious facts his way!"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Regional Support Manager, Americas",
+                    "twitterAccount": "https://twitter.com/JoseeAntonioR",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/3eLOX6EYMcgicjIpRaPDYF/2ce8d2a6d70e67d44b1653413a92378a/Jose_Rey.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Sam Bellen",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Developer Advocate",
+                    "twitterAccount": "https://twitter.com/sambego",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/35ccsiRzGpONMLcUojZ6yD/e3397854fde5be8318c69ef3064a0750/Sam_Bellen.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Ana Cidre",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Ana is a Developer Advocate at Auth0. She has a degree in Fine Arts and a Master in International Business Economics and Management, so she is not your usual software developer. She loves to code and she especially likes Angular. As a very active member of the community, she regularly organises meetups and conferences, like the amazing ngSpain. In Spain, where she’s currently based, she’s an organiser of GDG Vigo and the founder of GalsTech, a group for women in tech from Galicia. Because she is so passionate about diversity, she has also been named a Women Techmaker Ambassador."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Developer Advocate",
+                    "twitterAccount": "https://twitter.com/AnaCidre_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1k7BExAJewaNC1oQV4yFZk/f55785f1de6d1f18904ff3aaf723dfd1/AnaCidre.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Q&A with Jim & Jose!" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-community-2",
+    "parts": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "Bring your drink, bring your Auth0 developer support questions!",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we will be answering your developer support questions. To do so we have our Community Lead, Jim Morrison and our Regional support manager for Americas, Jose Antonio Rey! So you know what to do… bring a drink and bring your questions!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelists",
+            "speakers": [{
+                    "name": "Jim Morrison",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Jim is a collaborative developer who leads the Auth0 Community team and is powered by delivering value to others. He enjoys strategic planning and the motorsport of drifting. An avid reader and always open to new book recommendations"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0 ",
+                    "title": "Community Lead",
+                    "twitterAccount": "https://twitter.com/CodingMorrison",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/3ll45K5U7LY84FPGFhJA1w/2ea64ff361def1e689ab03e93bc22374/Jim_Morrison.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Jose Antonio Rey",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Previously a Sr. Developer Support Engineer, and a former member of the Ubuntu Community Council, Jose has a passion for planes and traveling. Curious by nature, Jose loves learning about anything and everything, so don't hesitate on sending some curious facts his way!"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Regional Support Manager, Americas",
+                    "twitterAccount": "https://twitter.com/JoseeAntonioR",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/3eLOX6EYMcgicjIpRaPDYF/2ce8d2a6d70e67d44b1653413a92378a/Jose_Rey.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Sam Bellen",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Developer Advocate",
+                    "twitterAccount": "https://twitter.com/sambego",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/35ccsiRzGpONMLcUojZ6yD/e3397854fde5be8318c69ef3064a0750/Sam_Bellen.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Ana Cidre",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Ana is a Developer Advocate at Auth0. She has a degree in Fine Arts and a Master in International Business Economics and Management, so she is not your usual software developer. She loves to code and she especially likes Angular. As a very active member of the community, she regularly organises meetups and conferences, like the amazing ngSpain. In Spain, where she’s currently based, she’s an organiser of GDG Vigo and the founder of GalsTech, a group for women in tech from Galicia. Because she is so passionate about diversity, she has also been named a Women Techmaker Ambassador."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Developer Advocate",
+                    "twitterAccount": "https://twitter.com/AnaCidre_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1k7BExAJewaNC1oQV4yFZk/f55785f1de6d1f18904ff3aaf723dfd1/AnaCidre.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Q&A with Jim & Jose!" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

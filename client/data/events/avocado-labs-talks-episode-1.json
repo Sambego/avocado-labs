@@ -1,0 +1,238 @@
+{
+    "id": "26498f2a-f9bf-5227-8c0f-d4abd3d56536",
+    "contentfulid": "avocado-labs-talks-episode-1",
+    "title": "Avocado Labs - Online Talks",
+    "metaTags": {
+        "title": "Avocado Labs - Online Talks",
+        "description": {
+            "description": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. These episodes will be hosted and moderated by our Auth0 developer advocates."
+        },
+        "ogImage": "https://cdn.auth0.com/website/avocado-labs/twitter-card.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-04-21",
+    "navigationTime": "4PM CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online Talks",
+    "heroButtonText": "Join us at 16:00h CEST 21st April",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/270120380/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "A deep dive into the new Angular Ivy compiler",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "It will be 2 months since the release date of Angular 9.0.0. Which brought along a new compiler called Ivy. We’ve had a couple of months to experiment with it and upgrade to it but what exactly does this new compiler do? We are lucky to have the Angular Ivy experts explain this to us today. Starting with Martina Kraus who will explain the core principles of Ivy and then moving on to Manfred Steyer who will take us into the future and show us what Ivy will bring us!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/42TOfrXNpuwyDmURj2HvHF/eaf9fa646868a071703286ed2cafaa86/angular__1_.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "The Rise of a new Engine: Angular Ivy",
+                    "speaker": [{ "name": "Martina Kraus", "company": "Freelancer" }],
+                    "description": {
+                        "description": "This talk will introduce you to the core principles of the new compiler Ivy. You will learn about the component factories and injection, the locality principle and the new features shipped with Ivy. In a hands-on deep dive session, we will figure out why the bundle size will be so much smaller with the new renderer.\nAfter the talk you will have a basic understanding of how to use Ivy and all the new benefits for developing Angular applications."
+                    }
+                },
+                {
+                    "title": "The Future of Angular and Ivy",
+                    "speaker": [
+                        { "name": "Manfred Steyer", "company": "Angular Architects" }
+                    ],
+                    "description": {
+                        "description": "Ivy is primarily associated with smaller bundles and therefore better performance. However, Ivy has much more to offer, and many smart concepts provide the foundation for some much-anticipated future features.\nFind out how Ivy's potential can impact your future architecture. We use a case study to explore a possible future without NgModules but Standalone Components, the use of dynamic components or higher-order components, zone-less change detection, and new possibilities for lazy loading and plug-in systems.\nIn the end, you understand Ivy's potential and how to start preparing for it today."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Martina Kraus",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Martina is a Google Developer Expert in Angular and Web Technologies, as a Senior Frontend developer, she focuses on implementing highly scalable software-solution with WebAssembly and Angular. Besides giving workshops as an Angular Trainer,\nshe founded the JavaScript User group, is a core member of the ngGirls Team and organizes the German Angular conference NG-DE."
+                    },
+                    "githubAccount": null,
+                    "company": "Freelancer",
+                    "title": "Martina is a Google Developer Expert in Angular and Web Technologies",
+                    "twitterAccount": "https://twitter.com/MartinaKraus11",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1oMPzyqkT5dWucq0jLGYUv/3ae0594446ac8f7d5e8d3cf357b22da1/martina.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Manfred Steyer",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Trainer, consultant and programming architect with focus on Angular. Google Developer Expert (GDE) and Trusted Collaborator in the Angular team who writes for O'Reilly, the German Java Magazine, and windows.developer. Regularly speaks at conferences.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Angular Architects",
+                    "title": "Trainer, consultant and programming architect with focus on Angular",
+                    "twitterAccount": "https://twitter.com/ManfredSteyer",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1D4NNQpQV5hcbOAvyuHYIQ/a1f525a03761c06a20237111e2c192c4/steyer-web-500x500.jpg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "The Rise of a new Engine: Angular Ivy- Martina Kraus"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Martina Kraus" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "The Future of Angular and Ivy - Manfred Steyer"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Manfred Steyer" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-talks-episode-1",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "A deep dive into the new Angular Ivy compiler",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "It will be 2 months since the release date of Angular 9.0.0. Which brought along a new compiler called Ivy. We’ve had a couple of months to experiment with it and upgrade to it but what exactly does this new compiler do? We are lucky to have the Angular Ivy experts explain this to us today. Starting with Martina Kraus who will explain the core principles of Ivy and then moving on to Manfred Steyer who will take us into the future and show us what Ivy will bring us!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/42TOfrXNpuwyDmURj2HvHF/eaf9fa646868a071703286ed2cafaa86/angular__1_.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "The Rise of a new Engine: Angular Ivy",
+                    "speaker": [{ "name": "Martina Kraus", "company": "Freelancer" }],
+                    "description": {
+                        "description": "This talk will introduce you to the core principles of the new compiler Ivy. You will learn about the component factories and injection, the locality principle and the new features shipped with Ivy. In a hands-on deep dive session, we will figure out why the bundle size will be so much smaller with the new renderer.\nAfter the talk you will have a basic understanding of how to use Ivy and all the new benefits for developing Angular applications."
+                    }
+                },
+                {
+                    "title": "The Future of Angular and Ivy",
+                    "speaker": [
+                        { "name": "Manfred Steyer", "company": "Angular Architects" }
+                    ],
+                    "description": {
+                        "description": "Ivy is primarily associated with smaller bundles and therefore better performance. However, Ivy has much more to offer, and many smart concepts provide the foundation for some much-anticipated future features.\nFind out how Ivy's potential can impact your future architecture. We use a case study to explore a possible future without NgModules but Standalone Components, the use of dynamic components or higher-order components, zone-less change detection, and new possibilities for lazy loading and plug-in systems.\nIn the end, you understand Ivy's potential and how to start preparing for it today."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Martina Kraus",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Martina is a Google Developer Expert in Angular and Web Technologies, as a Senior Frontend developer, she focuses on implementing highly scalable software-solution with WebAssembly and Angular. Besides giving workshops as an Angular Trainer,\nshe founded the JavaScript User group, is a core member of the ngGirls Team and organizes the German Angular conference NG-DE."
+                    },
+                    "githubAccount": null,
+                    "company": "Freelancer",
+                    "title": "Martina is a Google Developer Expert in Angular and Web Technologies",
+                    "twitterAccount": "https://twitter.com/MartinaKraus11",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1oMPzyqkT5dWucq0jLGYUv/3ae0594446ac8f7d5e8d3cf357b22da1/martina.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Manfred Steyer",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Trainer, consultant and programming architect with focus on Angular. Google Developer Expert (GDE) and Trusted Collaborator in the Angular team who writes for O'Reilly, the German Java Magazine, and windows.developer. Regularly speaks at conferences.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Angular Architects",
+                    "title": "Trainer, consultant and programming architect with focus on Angular",
+                    "twitterAccount": "https://twitter.com/ManfredSteyer",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1D4NNQpQV5hcbOAvyuHYIQ/a1f525a03761c06a20237111e2c192c4/steyer-web-500x500.jpg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "The Rise of a new Engine: Angular Ivy- Martina Kraus"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Martina Kraus" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "The Future of Angular and Ivy - Manfred Steyer"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Manfred Steyer" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

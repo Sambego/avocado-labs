@@ -1,0 +1,230 @@
+{
+    "id": "62e9a989-12ae-5487-8c85-ae8fd592167d",
+    "contentfulid": "avocado-labs-episode-8",
+    "title": "Avocado Labs - All about Azure",
+    "metaTags": {
+        "title": "Avocado Labs - All about Azure",
+        "description": {
+            "description": " In this episode we will learn about different technologies in Azure, starting with cognitive services with the one and only Sherry List! Sherry will teach us how to create a mood analyzer. Then we will move on to learning about how to deploy to the Cloud in minutes with Azure Static Web Apps with the amazing Chris Noring!"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-8.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-08-11",
+    "navigationTime": "18:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 18:00h CEST 4th June",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/272355599/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All about Azure",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": " In this episode we will learn about different technologies in Azure, starting with cognitive services with the one and only Sherry List! Sherry will teach us how to create a mood analyzer. Then we will move on to learning about how to deploy to the Cloud in minutes with Azure Static Web Apps with the amazing Chris Noring!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Mood Analyzer 🤳",
+                    "speaker": [{ "name": "Sherry List ", "company": "Microsoft" }],
+                    "description": {
+                        "description": "Imagine there was an app that could translate our selfies into emojis!!! Well, let’s build this app together!\n\nJoin me in this talk where we have an overview of Artificial Intelligence and Machine Learning and step by step build our app with the help of one Azure CognitiveServices."
+                    }
+                },
+                {
+                    "title": "Deploy to the Cloud in minutes with Azure Static Web Apps",
+                    "speaker": [{ "name": "Chris Noring", "company": "Microsoft" }],
+                    "description": {
+                        "description": "You spend all your time on building that SPA application, it does what it's supposed to and it even looks good, now to deploying it so someone else can use it. Cloud is a almost default nowadays as a platform for your code to live on. It offers scalability and some peace of mind. Back to deploying, I bet you see this being a slow painful process. With Azures new Azure Static Web Service, we are talking <5 minutes from your computer to the Cloud. All you need is your GitHub where your code lives. In this session I will cover the different things this service can do for you but also show how easy it is to deploy.\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Sherry List ",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Sherry works as an Azure Developer Technical Lead at Microsoft. For the past 15 years, she has worked as a web developer in 3 different countries. Apart from her everyday job, she is the Chairwoman of Hack Your Future Denmark, a co-organizer of ngCopenhagen and Women Techmakers Meetup groups, and a co-organizer of two angular conferences in Europe: ngVikings and ngSpain. She loves animals and supports various non-profit animal protection organizations and helps out whenever she can."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Azure Developer Engagement Lead",
+                    "twitterAccount": "https://twitter.com/sherrrylst",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/42eU0QsPq4qCipne1I4ns7/201345fab0ad8a6562877bacbfd47495/sherry.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Chris Noring",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": " My name is Chris Noring. I'm a senior cloud developer advocate at Microsoft. I'm also a Google Developer Expert and an Auth0 ambassador. I've spoken on 70+ conferences and I blog a lot, see https://softchris.github.io/ or https://dev.to/softchris. Usually I cover a lot of JS but I've been known to talk about .NET as well."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Senior Cloud Advocate",
+                    "twitterAccount": "https://twitter.com/chris_noring",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5F2IT2iF2RfrX3FpBjexIW/aa2b663c3091da6a922351979c2bd305/chris-noring.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Mood Analyzer 🤳 - Sherry List" }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Sherry List" }
+                },
+                {
+                    "hour": "18:40",
+                    "description": {
+                        "description": "Deploy to the Cloud in minutes with Azure Static Web Apps - Chris Noring"
+                    }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Chris Noring" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-8",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All about Azure",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": " In this episode we will learn about different technologies in Azure, starting with cognitive services with the one and only Sherry List! Sherry will teach us how to create a mood analyzer. Then we will move on to learning about how to deploy to the Cloud in minutes with Azure Static Web Apps with the amazing Chris Noring!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Mood Analyzer 🤳",
+                    "speaker": [{ "name": "Sherry List ", "company": "Microsoft" }],
+                    "description": {
+                        "description": "Imagine there was an app that could translate our selfies into emojis!!! Well, let’s build this app together!\n\nJoin me in this talk where we have an overview of Artificial Intelligence and Machine Learning and step by step build our app with the help of one Azure CognitiveServices."
+                    }
+                },
+                {
+                    "title": "Deploy to the Cloud in minutes with Azure Static Web Apps",
+                    "speaker": [{ "name": "Chris Noring", "company": "Microsoft" }],
+                    "description": {
+                        "description": "You spend all your time on building that SPA application, it does what it's supposed to and it even looks good, now to deploying it so someone else can use it. Cloud is a almost default nowadays as a platform for your code to live on. It offers scalability and some peace of mind. Back to deploying, I bet you see this being a slow painful process. With Azures new Azure Static Web Service, we are talking <5 minutes from your computer to the Cloud. All you need is your GitHub where your code lives. In this session I will cover the different things this service can do for you but also show how easy it is to deploy.\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Sherry List ",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Sherry works as an Azure Developer Technical Lead at Microsoft. For the past 15 years, she has worked as a web developer in 3 different countries. Apart from her everyday job, she is the Chairwoman of Hack Your Future Denmark, a co-organizer of ngCopenhagen and Women Techmakers Meetup groups, and a co-organizer of two angular conferences in Europe: ngVikings and ngSpain. She loves animals and supports various non-profit animal protection organizations and helps out whenever she can."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Azure Developer Engagement Lead",
+                    "twitterAccount": "https://twitter.com/sherrrylst",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/42eU0QsPq4qCipne1I4ns7/201345fab0ad8a6562877bacbfd47495/sherry.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Chris Noring",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": " My name is Chris Noring. I'm a senior cloud developer advocate at Microsoft. I'm also a Google Developer Expert and an Auth0 ambassador. I've spoken on 70+ conferences and I blog a lot, see https://softchris.github.io/ or https://dev.to/softchris. Usually I cover a lot of JS but I've been known to talk about .NET as well."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Senior Cloud Advocate",
+                    "twitterAccount": "https://twitter.com/chris_noring",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5F2IT2iF2RfrX3FpBjexIW/aa2b663c3091da6a922351979c2bd305/chris-noring.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": { "description": "Mood Analyzer 🤳 - Sherry List" }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Sherry List" }
+                },
+                {
+                    "hour": "18:40",
+                    "description": {
+                        "description": "Deploy to the Cloud in minutes with Azure Static Web Apps - Chris Noring"
+                    }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Chris Noring" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

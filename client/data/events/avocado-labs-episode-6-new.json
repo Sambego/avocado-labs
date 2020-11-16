@@ -1,0 +1,238 @@
+{
+    "id": "b7dcdcd6-2686-5994-90f9-29c2aa67df22",
+    "contentfulid": "avocado-labs-episode-6-new",
+    "title": "Let’s talk about design and accessibility",
+    "metaTags": {
+        "title": "Let’s talk about design and accessibility",
+        "description": {
+            "description": "Why? Because they go hand in hand and most importantly because they are important. As developers we tend to focus on coding and getting XYZ projects done. But that isn’t enough. We need to work well with the design team to be able to have the best result possible, we also need to make sure our project can be accessed by everyone. We have Gift and Elisabeth in this episode who will share their knowledge with us on these topics and help us become better developers!"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-6-new.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-07-16",
+    "navigationTime": "16:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 16:00h CEST 4th June",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/271748235/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Let’s talk about design and accessibility",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Why? Because they go hand in hand and most importantly because they are important. As developers we tend to focus on coding and getting XYZ projects done. But that isn’t enough. We need to work well with the design team to be able to have the best result possible, we also need to make sure our project can be accessed by everyone. We have Gift and Elisabeth in this episode who will share their knowledge with us on these topics and help us become better developers!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "A11y For Everyone: Building Inclusive and Accessible Web Applications",
+                    "speaker": [{ "name": "Gift Egwuenu", "company": "-" }],
+                    "description": {
+                        "description": "Accessibility is a term known to most people, but not everyone is keen to follow its principles. The web today is used by everyone including those with disabilities and with the way we build our applications or websites it segregates people with disabilities. In this talk, I'll be engaging with the audience on how we can improve web accessibility and ways in which we can start taking this action to enable everyone to feel welcome on the web regardless of their abilities. We'll take and look at a site that does not follow accessibility principles and we'll walk through how to fix these violations with accessibility in mind.\n"
+                    }
+                },
+                {
+                    "title": "Designers || Developers - Finally Bridging the Gap",
+                    "speaker": [
+                        { "name": "Elisabeth Engel", "company": "interfacewerk GmbH" }
+                    ],
+                    "description": {
+                        "description": "When designers and developers communicate with each other, it often feels as if they are speaking two different languages not understanding each other’s needs and proceedings. Even though those kinds of problems aren't new, they become even more crucial for companies trying to ensure a consistent user experience over multiple independent applications. So how to bridge this gap? \n\nThe secret union joint to do so is finding your single source of truth: a commonly shared design system showcased by a living style guide. In this session you will learn how to enable every team member to communicate with ease about design changes and their code implications and finally bridge the gap between designers and developers in your company and team. \n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Gift Egwuenu",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Gift Egwuenu is a frontend engineer and technical writer based in Lagos Nigeria, She is passionate about making the web accessible to everyone and also an advocate for building open-source software and developer communities. She enjoys solving complex problems using web technologies. She is also passionate about building communities which led her to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. She is also a co-organizer for Concatenate Conference.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "-",
+                    "title": "Frontend Developer",
+                    "twitterAccount": "https://twitter.com/lauragift_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/6tAXS3EKroJySsOh85jbVc/7fe5bf659b72c370372353af0893c5ac/gift5_irlhir.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Elisabeth Engel",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Elisabeth is a UX & tech innovator and co-organizer of the Munich Usability Testing Dinner. She is passionate about lean management, design thinking and web performance. While exploring new places all around the world, she's always on the hunt for fresh UX & frontend inspirations."
+                    },
+                    "githubAccount": null,
+                    "company": "interfacewerk GmbH",
+                    "title": "UX Lead & Innovation Advocate",
+                    "twitterAccount": "https://twitter.com/_lizzelo_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1E9FtVxJJLcq5WTX7XRTuS/15abebec44e8c6ab123eb296791ccd5c/ElisabethEngelProfile.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "A11y For Everyone: Building Inclusive and Accessible Web Applications - Gift Egwuenu"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Gift Egwuenu" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Designers || Developers - Finally Bridging the Gap - Elisabeth Engel"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Elisabeth Engel" }
+                },
+                { "hour": "17:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-6-new",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Let’s talk about design and accessibility",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Why? Because they go hand in hand and most importantly because they are important. As developers we tend to focus on coding and getting XYZ projects done. But that isn’t enough. We need to work well with the design team to be able to have the best result possible, we also need to make sure our project can be accessed by everyone. We have Gift and Elisabeth in this episode who will share their knowledge with us on these topics and help us become better developers!\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "A11y For Everyone: Building Inclusive and Accessible Web Applications",
+                    "speaker": [{ "name": "Gift Egwuenu", "company": "-" }],
+                    "description": {
+                        "description": "Accessibility is a term known to most people, but not everyone is keen to follow its principles. The web today is used by everyone including those with disabilities and with the way we build our applications or websites it segregates people with disabilities. In this talk, I'll be engaging with the audience on how we can improve web accessibility and ways in which we can start taking this action to enable everyone to feel welcome on the web regardless of their abilities. We'll take and look at a site that does not follow accessibility principles and we'll walk through how to fix these violations with accessibility in mind.\n"
+                    }
+                },
+                {
+                    "title": "Designers || Developers - Finally Bridging the Gap",
+                    "speaker": [
+                        { "name": "Elisabeth Engel", "company": "interfacewerk GmbH" }
+                    ],
+                    "description": {
+                        "description": "When designers and developers communicate with each other, it often feels as if they are speaking two different languages not understanding each other’s needs and proceedings. Even though those kinds of problems aren't new, they become even more crucial for companies trying to ensure a consistent user experience over multiple independent applications. So how to bridge this gap? \n\nThe secret union joint to do so is finding your single source of truth: a commonly shared design system showcased by a living style guide. In this session you will learn how to enable every team member to communicate with ease about design changes and their code implications and finally bridge the gap between designers and developers in your company and team. \n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Gift Egwuenu",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Gift Egwuenu is a frontend engineer and technical writer based in Lagos Nigeria, She is passionate about making the web accessible to everyone and also an advocate for building open-source software and developer communities. She enjoys solving complex problems using web technologies. She is also passionate about building communities which led her to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. She is also a co-organizer for Concatenate Conference.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "-",
+                    "title": "Frontend Developer",
+                    "twitterAccount": "https://twitter.com/lauragift_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/6tAXS3EKroJySsOh85jbVc/7fe5bf659b72c370372353af0893c5ac/gift5_irlhir.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Elisabeth Engel",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Elisabeth is a UX & tech innovator and co-organizer of the Munich Usability Testing Dinner. She is passionate about lean management, design thinking and web performance. While exploring new places all around the world, she's always on the hunt for fresh UX & frontend inspirations."
+                    },
+                    "githubAccount": null,
+                    "company": "interfacewerk GmbH",
+                    "title": "UX Lead & Innovation Advocate",
+                    "twitterAccount": "https://twitter.com/_lizzelo_",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1E9FtVxJJLcq5WTX7XRTuS/15abebec44e8c6ab123eb296791ccd5c/ElisabethEngelProfile.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "A11y For Everyone: Building Inclusive and Accessible Web Applications - Gift Egwuenu"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Gift Egwuenu" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Designers || Developers - Finally Bridging the Gap - Elisabeth Engel"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Elisabeth Engel" }
+                },
+                { "hour": "17:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

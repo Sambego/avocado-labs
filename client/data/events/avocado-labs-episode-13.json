@@ -1,0 +1,139 @@
+{
+    "id": "a4138b35-e6c5-5fdc-b278-ac434dd92c17",
+    "contentfulid": "avocado-labs-episode-13",
+    "title": "Trust: From Zero to Hero",
+    "metaTags": {
+        "description": {
+            "description": "Wouldn’t it be great if everyone behaved securely? Devs writing secure code, no one falling for phishing, people following security best practices with pleasure. A dream Today, our industry is not on the path to achieve that dream. We need to change our technology-first approach to a people-centric one based on trust to get back on track. In this talk, we’ll talk about Security Culture, what trust is, and how to extend and inspire trust. We’ll follow almost exactly the same method that FBI hostage negotiators use on their day today. It doesn’t get more battle tested than that."
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-13.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-10-27",
+    "navigationTime": "16:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 16:00h CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/273092395/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Trust: From Zero to Hero",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Wouldn’t it be great if everyone behaved securely? Devs writing secure code, no one falling for phishing, people following security best practices with pleasure. A dream\nToday, our industry is not on the path to achieve that dream. We need to change our technology-first approach to a people-centric one based on trust to get back on track.\nIn this talk, we’ll talk about Security Culture, what trust is, and how to extend and inspire trust. We’ll follow almost exactly the same method that FBI hostage negotiators use on their day today.\nIt doesn’t get more battle tested than that."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Annybell Villarroel",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "As Security Culture Manager at Auth0, Annybell Villarroel is responsible for building a world-class security culture and awareness program. She aims to help build a security-first mindset through influence, trust, and comedy. \n\nVillarroel is passionate about security and making the internet safer, and leads the Madrid chapter for WoSEC — Women of Security. Based in Madrid, Spain, she can be found tackling her next puzzle challenge or performing calisthenics, and is an absolute fan of corgis."
+                },
+                "githubAccount": null,
+                "company": "Auth0",
+                "title": "Security Culture Manager",
+                "twitterAccount": "https://twitter.com/Annyv2",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/2FH4BwzCWh7wm9aiYoPAaO/db3543e8ff2c330e3e5ad3c67efc0060/anny.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Trust: From Zero to Hero - Annybell Villarroel\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Annybell Villarroel" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-13",
+    "parts": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "Trust: From Zero to Hero",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Wouldn’t it be great if everyone behaved securely? Devs writing secure code, no one falling for phishing, people following security best practices with pleasure. A dream\nToday, our industry is not on the path to achieve that dream. We need to change our technology-first approach to a people-centric one based on trust to get back on track.\nIn this talk, we’ll talk about Security Culture, what trust is, and how to extend and inspire trust. We’ll follow almost exactly the same method that FBI hostage negotiators use on their day today.\nIt doesn’t get more battle tested than that."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Annybell Villarroel",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "As Security Culture Manager at Auth0, Annybell Villarroel is responsible for building a world-class security culture and awareness program. She aims to help build a security-first mindset through influence, trust, and comedy. \n\nVillarroel is passionate about security and making the internet safer, and leads the Madrid chapter for WoSEC — Women of Security. Based in Madrid, Spain, she can be found tackling her next puzzle challenge or performing calisthenics, and is an absolute fan of corgis."
+                },
+                "githubAccount": null,
+                "company": "Auth0",
+                "title": "Security Culture Manager",
+                "twitterAccount": "https://twitter.com/Annyv2",
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/2FH4BwzCWh7wm9aiYoPAaO/db3543e8ff2c330e3e5ad3c67efc0060/anny.png"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Trust: From Zero to Hero - Annybell Villarroel\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Annybell Villarroel" }
+                },
+                { "hour": "16:40", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}
