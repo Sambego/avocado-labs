@@ -75,7 +75,6 @@ class Hero extends Component {
       eventDate,
       zoomId,
     } = this.props
-    console.log(this.props)
     return (
       <HeroStyled
         bgColor={theme.bgColor}
