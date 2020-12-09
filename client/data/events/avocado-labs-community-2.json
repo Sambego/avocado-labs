@@ -77,7 +77,7 @@
                 },
                 {
                     "name": "Sam Bellen",
-                    "linkedInAccount": null,
+                    "linkedInAccount": "https://www.linkedin.com/in/sambellen/",
                     "intro": {
                         "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
                     },
@@ -177,7 +177,7 @@
                 },
                 {
                     "name": "Sam Bellen",
-                    "linkedInAccount": null,
+                    "linkedInAccount": "https://www.linkedin.com/in/sambellen/",
                     "intro": {
                         "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
                     },
