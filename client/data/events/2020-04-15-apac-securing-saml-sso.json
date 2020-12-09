@@ -1,0 +1,178 @@
+{
+    "id": "5d61a571-1556-500e-8285-6d4308a9260a",
+    "contentfulid": "2020-04-15-apac-securing-saml-sso",
+    "title": "Securing SAML SSO solutions from XML Signature Wrapping Attacks",
+    "metaTags": {
+        "title": "Securing SAML SSO solutions from XML Signature Wrapping Attacks",
+        "description": {
+            "description": "Security Assertion Markup Language (SAML) was the de facto standard for implementing Single Sign On (SSO) before OAuth and OpenID Connect took over. SAML is still being used in many enterprise identity federation systems. Since SAML is based on XML messaging, it is vulnerable to XML based security vulnerabilities. During this session, we will be looking at XML signature wrapping attacks, penetration testing the SAML systems and securing your SAML solutions against known XML based vulnerabilities."
+        },
+        "ogImage": null,
+        "twitterSite": null,
+        "twitterCreator": null
+    },
+    "eventDate": "2020-04-15",
+    "navigationTime": "13:00 AEST",
+    "navigationLocation": "Online (APAC Timezones)",
+    "heroTitle": "Securing SAML SSO solutions from XML Signature Wrapping Attacks",
+    "heroButtonText": null,
+    "heroButtonLink": "https://www.meetup.com/Melbourne-Identity-and-Security-Meetup/events/269830019/",
+    "heroDescription": {
+        "heroDescription": "Live stream starts at 12:50 for a 13:00 start ([AEST](https://www.timeanddate.com/time/zones/aest)).",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Live stream starts at 12:50 for a 13:00 start ([AEST](https://www.timeanddate.com/time/zones/aest))."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Online Meetup",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "While this Identity and Security Meetup is an online event to replace the physical ones in Melbourne and Sydney, it is naturally open to anyone around the world.\n\nPlease join the session 5 or 10 minutes prior to the start time to give yourself time to remedy any issues before we begin.\n\nWe value diversity and operate a strict code of conduct, for the comfort of all our members. Please see [our code of conduct](https://auth0.com/events/code-of-conduct).  "
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/29V6fvFLXtt78nlwA745pC/52cd6b83ccc84cdddba112a238989d34/Generic-Header.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Topic",
+            "description": null,
+            "topicsSubsections": [{
+                "title": "Securing SAML SSO solutions from XML Signature Wrapping Attacks",
+                "speaker": [{
+                    "name": "Tharindu Edirisinghe",
+                    "company": "Optus La Trobe Cyber Security Research Hub"
+                }],
+                "description": {
+                    "description": "Security Assertion Markup Language (SAML) was the de facto standard for implementing Single Sign On (SSO) before OAuth and OpenID Connect took over. SAML is still being used in many enterprise identity federation systems. Since SAML is based on XML messaging, it is vulnerable to XML based security vulnerabilities. During this session, we will be looking at XML signature wrapping attacks, penetration testing the SAML systems and securing your SAML solutions against known XML based vulnerabilities."
+                }
+            }],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Tharindu Edirisinghe",
+                "linkedInAccount": "https://au.linkedin.com/in/ediri",
+                "intro": {
+                    "intro": "Tharindu is a PhD research scholar at La Trobe University, working on designing privacy focused software engineering processes for General Data Protection Regulation (GDPR) compliance. Prior to that he worked at WSO2, developing the open source WSO2 Identity Server product and also as a lead in the Platform Security Team. He is a co-founder of Colombo White Hat Security Meetup, the largest cyber security and IAM meetup in Sri Lanka with 1000+ participants."
+                },
+                "githubAccount": null,
+                "company": "Optus La Trobe Cyber Security Research Hub",
+                "title": "PhD Student - Cyber Security",
+                "twitterAccount": null,
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6teMBUeilapYPyinG8oBws/4f7f10684ae76597634436dd950b0c1b/tharindu.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [{
+                    "hour": "12:50",
+                    "description": {
+                        "description": "Live Stream Starts - join early and test your speakers/headphones are working"
+                    }
+                },
+                {
+                    "hour": "13:00",
+                    "description": { "description": "Welcome, News, Intros" }
+                },
+                { "hour": "13:05", "description": { "description": "Talk Begins" } },
+                {
+                    "hour": "13:55",
+                    "description": {
+                        "description": "Close and Invite to Networking Session"
+                    }
+                }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "2020-04-15-apac-securing-saml-sso",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Online Meetup",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "While this Identity and Security Meetup is an online event to replace the physical ones in Melbourne and Sydney, it is naturally open to anyone around the world.\n\nPlease join the session 5 or 10 minutes prior to the start time to give yourself time to remedy any issues before we begin.\n\nWe value diversity and operate a strict code of conduct, for the comfort of all our members. Please see [our code of conduct](https://auth0.com/events/code-of-conduct).  "
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/29V6fvFLXtt78nlwA745pC/52cd6b83ccc84cdddba112a238989d34/Generic-Header.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Topic",
+            "description": null,
+            "topicsSubsections": [{
+                "title": "Securing SAML SSO solutions from XML Signature Wrapping Attacks",
+                "speaker": [{
+                    "name": "Tharindu Edirisinghe",
+                    "company": "Optus La Trobe Cyber Security Research Hub"
+                }],
+                "description": {
+                    "description": "Security Assertion Markup Language (SAML) was the de facto standard for implementing Single Sign On (SSO) before OAuth and OpenID Connect took over. SAML is still being used in many enterprise identity federation systems. Since SAML is based on XML messaging, it is vulnerable to XML based security vulnerabilities. During this session, we will be looking at XML signature wrapping attacks, penetration testing the SAML systems and securing your SAML solutions against known XML based vulnerabilities."
+                }
+            }],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speaker",
+            "speakers": [{
+                "name": "Tharindu Edirisinghe",
+                "linkedInAccount": "https://au.linkedin.com/in/ediri",
+                "intro": {
+                    "intro": "Tharindu is a PhD research scholar at La Trobe University, working on designing privacy focused software engineering processes for General Data Protection Regulation (GDPR) compliance. Prior to that he worked at WSO2, developing the open source WSO2 Identity Server product and also as a lead in the Platform Security Team. He is a co-founder of Colombo White Hat Security Meetup, the largest cyber security and IAM meetup in Sri Lanka with 1000+ participants."
+                },
+                "githubAccount": null,
+                "company": "Optus La Trobe Cyber Security Research Hub",
+                "title": "PhD Student - Cyber Security",
+                "twitterAccount": null,
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6teMBUeilapYPyinG8oBws/4f7f10684ae76597634436dd950b0c1b/tharindu.jpg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [{
+                    "hour": "12:50",
+                    "description": {
+                        "description": "Live Stream Starts - join early and test your speakers/headphones are working"
+                    }
+                },
+                {
+                    "hour": "13:00",
+                    "description": { "description": "Welcome, News, Intros" }
+                },
+                { "hour": "13:05", "description": { "description": "Talk Begins" } },
+                {
+                    "hour": "13:55",
+                    "description": {
+                        "description": "Close and Invite to Networking Session"
+                    }
+                }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

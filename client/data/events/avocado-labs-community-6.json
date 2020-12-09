@@ -1,0 +1,132 @@
+{
+    "id": "5d075d93-cb2e-5ba5-9e63-0d935ee37081",
+    "contentfulid": "avocado-labs-community-6",
+    "title": "Bring your drink, bring your questions about Remote work",
+    "metaTags": {
+        "title": "Bring your drink, bring your questions about Remote work",
+        "description": {
+            "description": "Open conversation/Q&A about adjusting to remote working."
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado_aaron.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-11-11",
+    "navigationTime": "18:00 CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Community hour",
+    "heroButtonText": "11th November, 18:00 CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/274512107/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality content. We will have an hour to discuss the topics that you care about most. All you need to do is bring a drink and your questions to be involved. Everyone is welcome!"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "☕ 🥤 Bring your drink, bring your questions about Remote Work🍺🍸",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Auth0 has always been a remote first company however there are many companies that had to quickly transition and adapt to remote work this year. Aaron will answer your questions about adjusting to working remotely."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelist",
+            "speakers": [{
+                "name": "Aaron Whitlock",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Aaron is a software developer for FedEx. He is partially self-taught but has benefited greatly from coding camps, mentorships and online resources like Udemy. He is passionate about full-stack web development and is currently learning the MEAN stack.\n"
+                },
+                "githubAccount": null,
+                "company": "FedEx",
+                "title": "Software Developer",
+                "twitterAccount": null,
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6pHtOsfzovj1Sb226tq3la/b3847306c0dec6eab0f54b0adff72bb4/aaron.jpeg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Bring your drink, bring your questions about Remote Work "
+                    }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-community-6",
+    "parts": [{
+            "title": "Topic",
+            "overviewSubsections": [{
+                "title": "☕ 🥤 Bring your drink, bring your questions about Remote Work🍺🍸",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Auth0 has always been a remote first company however there are many companies that had to quickly transition and adapt to remote work this year. Aaron will answer your questions about adjusting to working remotely."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Panelist",
+            "speakers": [{
+                "name": "Aaron Whitlock",
+                "linkedInAccount": null,
+                "intro": {
+                    "intro": "Aaron is a software developer for FedEx. He is partially self-taught but has benefited greatly from coding camps, mentorships and online resources like Udemy. He is passionate about full-stack web development and is currently learning the MEAN stack.\n"
+                },
+                "githubAccount": null,
+                "company": "FedEx",
+                "title": "Software Developer",
+                "twitterAccount": null,
+                "picture": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6pHtOsfzovj1Sb226tq3la/b3847306c0dec6eab0f54b0adff72bb4/aaron.jpeg"
+                    }
+                }
+            }],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Bring your drink, bring your questions about Remote Work "
+                    }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

@@ -14,6 +14,7 @@ import {
   Title,
   Subtitle,
 } from './styled'
+import theme from '../../../../data/theme.json'
 
 class Hero extends Component {
   state = {
@@ -65,7 +66,6 @@ class Hero extends Component {
     const { navIsFullyVisible, navIsFixed } = this.state
 
     const {
-      eventTheme,
       heroTitle,
       heroDescription,
       heroButtonText,
@@ -75,13 +75,10 @@ class Hero extends Component {
       eventDate,
       zoomId,
     } = this.props
-    console.log(this.props)
     return (
       <HeroStyled
-        bgColor={eventTheme.bgColor}
-        bgImage={
-          eventTheme.backgroundImage && eventTheme.backgroundImage.file.url
-        }
+        bgColor={theme.bgColor}
+        bgImage={theme.backgroundImage && theme.backgroundImage.file.url}
       >
         <Container>
           <InnerContent>
@@ -94,8 +91,8 @@ class Hero extends Component {
             </TextContent>
             <MediaContent>
               <img
-                src={eventTheme.badgeImage && eventTheme.badgeImage.file.url}
-                alt={eventTheme.badgeImage && eventTheme.badgeImage.fileName}
+                src={theme.badgeImage && theme.badgeImage.file.url}
+                alt={theme.badgeImage && theme.badgeImage.fileName}
               />
             </MediaContent>
           </InnerContent>
@@ -107,7 +104,7 @@ class Hero extends Component {
           navigationTime={navigationTime}
           navigationLocation={navigationLocation}
           navButtonLink={heroButtonLink}
-          eventTheme={eventTheme}
+          eventTheme={theme}
         />
         <BottomWaypoint>
           <Waypoint
@@ -121,7 +118,7 @@ class Hero extends Component {
 }
 
 Hero.propTypes = {
-  eventTheme: PropTypes.shape({
+  theme: PropTypes.shape({
     name: PropTypes.string.isRequired,
   }).isRequired,
   heroTitle: PropTypes.string.isRequired,

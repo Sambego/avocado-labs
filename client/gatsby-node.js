@@ -1,80 +1,82 @@
 const Promise = require('bluebird')
 const path = require('path')
+const fs = require('fs')
 
-exports.createPages = ({ graphql, actions }) => {
+exports.createPages = async({ graphql, actions }) => {
     const { createPage, createRedirect } = actions
     const toSnakeCase = (string) =>
         string.replace(/\s-\s/g, '-').replace(/\s/g, '-').toLowerCase()
     const generateRecordingSlug = (title) =>
         encodeURIComponent(toSnakeCase(title))
 
-    return new Promise((resolve, reject) => {
+    const createEventPages = (events) => {
         const eventPage = path.resolve('./src/templates/event.tsx')
+
+        events.forEach((event) => {
+            console.log('---- Creating event page:', `/events/${event.node.slug}/`)
+            createPage({
+                path: `/events/${event.node.slug}/`,
+                component: eventPage,
+                context: {
+                    slug: event.node.slug,
+                },
+            })
+        })
+    }
+
+    const createVideoPages = (videos) => {
         const videoPage = path.resolve('./src/templates/recording.tsx')
-        resolve(
-            graphql(`
-        {
-          allContentfulLandingPageEvent(filter: { node_locale: { eq: "en" } }) {
-            edges {
-              node {
-                contentfulid
-              }
-            }
-          }
-          allYoutubeVideo {
-            edges {
-              node {
-                id
-                title
-              }
-            }
+
+        videos.forEach((video) => {
+            console.log(
+                '---- Creating recording page:',
+                `/recordings/${generateRecordingSlug(video.node.title)}/`
+            )
+            createPage({
+                path: `/recordings/${generateRecordingSlug(video.node.title)}/`,
+                component: videoPage,
+                context: {
+                    id: video.node.id,
+                    slug: generateRecordingSlug(video.node.title),
+                },
+            })
+
+            // Create  redirects for old slugs using the ID to the slugs using the title
+            createRedirect({
+                fromPath: `/recordings/${video.node.id}/`,
+                toPath: `/recordings/${generateRecordingSlug(video.node.title)}/`,
+                isPermanent: true,
+            })
+        })
+    }
+
+    const { data, errors } = await graphql(`
+    {
+      allEventsJson {
+        edges {
+          node {
+            slug
           }
         }
-      `).then(({ data, errors }) => {
-                if (errors) {
-                    console.log(errors)
-                    reject(errors)
-                }
+      }
+      allYoutubeVideo {
+        edges {
+          node {
+            id
+            title
+          }
+        }
+      }
+    }
+  `)
 
-                // Create all event pages
-                const events = data.allContentfulLandingPageEvent.edges
-                events.forEach((event) => {
-                    console.log(
-                        '---- Creating event page:',
-                        `/events/${event.node.contentfulid}/`
-                    )
-                    createPage({
-                        path: `/events/${event.node.contentfulid}/`,
-                        component: eventPage,
-                        context: {
-                            slug: event.node.contentfulid,
-                        },
-                    })
-                })
+    if (errors) {
+        console.error(errors)
+    }
 
-                // Create all video pages
-                const videos = data.allYoutubeVideo.edges
-                videos.forEach((video) => {
-                    console.log(
-                        '---- Creating recording page:',
-                        `/recordings/${generateRecordingSlug(video.node.title)}/`
-                    )
-                    createPage({
-                        path: `/recordings/${generateRecordingSlug(video.node.title)}/`,
-                        component: videoPage,
-                        context: {
-                            id: video.node.id,
-                            slug: generateRecordingSlug(video.node.title),
-                        },
-                    })
-                    console.log(createRedirect)
-                    createRedirect({
-                        fromPath: `/recordings/${video.node.id}/`,
-                        toPath: `/recordings/${generateRecordingSlug(video.node.title)}/`,
-                        isPermanent: true,
-                    })
-                })
-            })
-        )
-    })
+    // Create all event pages
+    createEventPages(data.allEventsJson.edges)
+
+    // Create all video pages
+    createVideoPages(data.allYoutubeVideo.edges)
 }

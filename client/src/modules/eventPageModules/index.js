@@ -1,7 +1,7 @@
 import eventPageModules from './eventPageModules'
 
 export default function renderEventPageModule(module, eventTheme, index) {
-    const moduleKey = module.sys.contentType.sys.id
+    const moduleKey = module.type
     if (eventPageModules[moduleKey]) {
         return eventPageModules[moduleKey](module, eventTheme, index)
     }

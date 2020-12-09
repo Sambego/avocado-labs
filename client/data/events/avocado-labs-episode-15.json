@@ -1,0 +1,206 @@
+{
+    "id": "bc8afae5-091f-5301-80f5-f6fc7e3c3a54",
+    "contentfulid": "avocado-labs-episode-15",
+    "title": "What is Extensibility?",
+    "metaTags": {
+        "title": "What is Extensibility?",
+        "description": {
+            "description": "Let's explore what extensibility means in the SaaS world, diving into concepts like serverless functions and third-party integrations. In this talk, you'll learn what sort of customization features to look for when researching solutions and see examples with a back-stage pass to Auth0's next-gen extensibility platform. "
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/what-is-extensibility.jpg",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-11-16",
+    "navigationTime": "18:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 18:00h CEST",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/274338561/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "What is Extensibility?",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Let's explore what extensibility means in the SaaS world, diving into concepts like serverless functions and third-party integrations. In this talk, you'll learn what sort of customization features to look for when researching solutions and see examples with a back-stage pass to Auth0's next-gen extensibility platform. \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Shafiq Shivji",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Shafiq leads Product Marketing for Auth0's Ecosystem and Extensibility domains. He brings vast experience from previous roles as a Product Manager and Sales Engineer working in adjacent SaaS industries like machine learning, web/mobile apps, and communications. He especially enjoys the creative process of conceiving and taking high-impact products to market."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Product Marketing Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5dp8LeOjFEcc4RaJllUvoH/43f5e9790139bf97f13d9f53a476d075/Shafiq.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Darin LaFramboise",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Darin joined Auth0 in March 2020 as the Principal Product Manager for Ecosystem. He has been in tech for about 12 years now, starting in the e-commerce side in analytics and making his way to enterprise SaaS products. He has a passion for platform ecosystems, a level playing field where someone with a good idea and some working knowledge of code can turn any idea into a sustainable means of income. \n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Principal PM, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2H2VyfY7WVjzj7tmOIHTwt/c6cc3fdb1c2b4d9b360ca36688bd5cdc/Darin_LaFramboise.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Chris Geihsler",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "For the past 15 years, Chris has worked as a software engineer in the healthcare, ed tech, and IAM industries. He’s passionate about finding simple solutions to complex problems. When he’s not coding, you’ll probably find him camping somewhere in the Northeast US."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Engineer",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5myi4ZPzquh64ANUTo7WGR/73c1ea435d74f6cb319b2f582ec682fe/hris.jpeg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule ",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "What is Extensibility? - Auth0 team"
+                    }
+                },
+                {
+                    "hour": "18:40",
+                    "description": { "description": "Q&A with the Auth0 team" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-15",
+    "parts": [{
+            "title": "Talk",
+            "overviewSubsections": [{
+                "title": "What is Extensibility?",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Let's explore what extensibility means in the SaaS world, diving into concepts like serverless functions and third-party integrations. In this talk, you'll learn what sort of customization features to look for when researching solutions and see examples with a back-stage pass to Auth0's next-gen extensibility platform. \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Shafiq Shivji",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Shafiq leads Product Marketing for Auth0's Ecosystem and Extensibility domains. He brings vast experience from previous roles as a Product Manager and Sales Engineer working in adjacent SaaS industries like machine learning, web/mobile apps, and communications. He especially enjoys the creative process of conceiving and taking high-impact products to market."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Product Marketing Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5dp8LeOjFEcc4RaJllUvoH/43f5e9790139bf97f13d9f53a476d075/Shafiq.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Darin LaFramboise",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Darin joined Auth0 in March 2020 as the Principal Product Manager for Ecosystem. He has been in tech for about 12 years now, starting in the e-commerce side in analytics and making his way to enterprise SaaS products. He has a passion for platform ecosystems, a level playing field where someone with a good idea and some working knowledge of code can turn any idea into a sustainable means of income. \n"
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Principal PM, Ecosystem",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2H2VyfY7WVjzj7tmOIHTwt/c6cc3fdb1c2b4d9b360ca36688bd5cdc/Darin_LaFramboise.jpeg"
+                        }
+                    }
+                },
+                {
+                    "name": "Chris Geihsler",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "For the past 15 years, Chris has worked as a software engineer in the healthcare, ed tech, and IAM industries. He’s passionate about finding simple solutions to complex problems. When he’s not coding, you’ll probably find him camping somewhere in the Northeast US."
+                    },
+                    "githubAccount": null,
+                    "company": "Auth0",
+                    "title": "Senior Engineer",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5myi4ZPzquh64ANUTo7WGR/73c1ea435d74f6cb319b2f582ec682fe/hris.jpeg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule ",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "What is Extensibility? - Auth0 team"
+                    }
+                },
+                {
+                    "hour": "18:40",
+                    "description": { "description": "Q&A with the Auth0 team" }
+                },
+                { "hour": "18:45", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

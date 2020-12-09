@@ -1,0 +1,226 @@
+{
+    "id": "644f2652-c74b-565f-b0db-16b1a7ca71a8",
+    "contentfulid": "avocado-labs-talks-episode-2",
+    "title": "Tech tips: Building Cross-Cultural Teams and Taking Command of your Editor",
+    "metaTags": {
+        "title": "Avocado Labs - Online Talks",
+        "description": {
+            "description": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. These episodes will be hosted and moderated by our Auth0 developer advocates."
+        },
+        "ogImage": "https://cdn.auth0.com/website/avocado-labs/twitter-card.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-05-04",
+    "navigationTime": "4PM CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online Talks",
+    "heroButtonText": "Join us at 16:00h CEST 4th May",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/270174823/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Tech tips: Building Cross-Cultural Teams and Taking Command of your Editor",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode, we will be getting tips from the Pros! These tips will be focused on two main aspects. The first is Building High-Performing Cross-Cultural Teams, by Emma Bostian, she will help us understand how culture impacts our efficacy as a team and how that can drastically improve our day-to-day collaboration. On the other hand, we tend to use code editors on a daily basis and sometimes we see ourselves repeating things over and over again, John is here to help us finally take command of our editor.\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Building High-Performing Cross-Cultural Teams",
+                    "speaker": [{ "name": "TBD", "company": "LogMeIn" }],
+                    "description": {
+                        "description": "Everything we do, from the way in which we write our emails, to the method in which we provide negative feedback and evaluate performance, governs the performance of our teams. And understanding how culture impacts our efficacy as a team can drastically improve our day-to-day collaboration.\nIn this session you'll learn:\n- How different cultures communicate.\n- How different cultures evaluate performance and give constructive criticism.\n- How different cultures make decisions.\n- How different cultures trust.\n- How different cultures perceive time."
+                    }
+                },
+                {
+                    "title": "Take Command of Your Editor",
+                    "speaker": [{ "name": "TBD", "company": "Microsoft" }],
+                    "description": {
+                        "description": "How do you debug in VS Code? What are those key combinations to edit code so quickly? What extensions are the ones I shouldn't code without? Get ready to hit the ground running in this fast-paced, demo-heavy presentation that takes you through some of the best and most effective tips and tricks in VS Code. Learn how to setup your environment and customize it the way you like it. You'll walk out with several tips on how to be more efficient with one of the hottest tools on the Web today!\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Judges",
+            "speakers": [{
+                    "name": "TBD",
+                    "linkedInAccount": null,
+                    "intro": { "intro": "Coming soon" },
+                    "githubAccount": null,
+                    "company": "LogMeIn",
+                    "title": "Software Engineer",
+                    "twitterAccount": "https://twitter.com/EmmaBostian",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/6wWJqNOga64mzPqHyzHxJy/193def2dfac7f896fca241169325e94f/me_500x500.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "TBD",
+                    "linkedInAccount": null,
+                    "intro": { "intro": "Coming soon" },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Principal Developer Advocate Lead",
+                    "twitterAccount": "https://twitter.com/john_papa",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/gfni1FNVgnZ7fKfTWBG0j/25c7d7cce01a7446aa7c716f5448e6df/John_500x500.jpg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "De-Coding The Technical Interview Process - Emma Bostian\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Emma Bostian\n" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Take Command of Your Editor - John Papa\n"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with John Papa" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-talks-episode-2",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Tech tips: Building Cross-Cultural Teams and Taking Command of your Editor",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode, we will be getting tips from the Pros! These tips will be focused on two main aspects. The first is Building High-Performing Cross-Cultural Teams, by Emma Bostian, she will help us understand how culture impacts our efficacy as a team and how that can drastically improve our day-to-day collaboration. On the other hand, we tend to use code editors on a daily basis and sometimes we see ourselves repeating things over and over again, John is here to help us finally take command of our editor.\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Building High-Performing Cross-Cultural Teams",
+                    "speaker": [{ "name": "TBD", "company": "LogMeIn" }],
+                    "description": {
+                        "description": "Everything we do, from the way in which we write our emails, to the method in which we provide negative feedback and evaluate performance, governs the performance of our teams. And understanding how culture impacts our efficacy as a team can drastically improve our day-to-day collaboration.\nIn this session you'll learn:\n- How different cultures communicate.\n- How different cultures evaluate performance and give constructive criticism.\n- How different cultures make decisions.\n- How different cultures trust.\n- How different cultures perceive time."
+                    }
+                },
+                {
+                    "title": "Take Command of Your Editor",
+                    "speaker": [{ "name": "TBD", "company": "Microsoft" }],
+                    "description": {
+                        "description": "How do you debug in VS Code? What are those key combinations to edit code so quickly? What extensions are the ones I shouldn't code without? Get ready to hit the ground running in this fast-paced, demo-heavy presentation that takes you through some of the best and most effective tips and tricks in VS Code. Learn how to setup your environment and customize it the way you like it. You'll walk out with several tips on how to be more efficient with one of the hottest tools on the Web today!\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Judges",
+            "speakers": [{
+                    "name": "TBD",
+                    "linkedInAccount": null,
+                    "intro": { "intro": "Coming soon" },
+                    "githubAccount": null,
+                    "company": "LogMeIn",
+                    "title": "Software Engineer",
+                    "twitterAccount": "https://twitter.com/EmmaBostian",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/6wWJqNOga64mzPqHyzHxJy/193def2dfac7f896fca241169325e94f/me_500x500.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "TBD",
+                    "linkedInAccount": null,
+                    "intro": { "intro": "Coming soon" },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Principal Developer Advocate Lead",
+                    "twitterAccount": "https://twitter.com/john_papa",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/gfni1FNVgnZ7fKfTWBG0j/25c7d7cce01a7446aa7c716f5448e6df/John_500x500.jpg"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "De-Coding The Technical Interview Process - Emma Bostian\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Emma Bostian\n" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Take Command of Your Editor - John Papa\n"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with John Papa" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

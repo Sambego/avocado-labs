@@ -1,0 +1,234 @@
+{
+    "id": "c6e9889d-4957-5207-96ad-05b85b7df373",
+    "contentfulid": "avocado-labs-talks-episode-4",
+    "title": "Avocado Labs - The future of the web is here",
+    "metaTags": {
+        "title": "Avocado Labs - The future of the web is here",
+        "description": {
+            "description": "Browsers are finally ready for Web Components and we are going to take a look to see why Web Components are the way of the future with Mike Hartington. Then we will be looking into a new era of Static Web Apps with Wassim Chegham who will teach us how to build and deploy Serverless Static Web Apps! Don’t miss out on this opportunity to ask your questions to the speakers by joining our episode."
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-4.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-06-18",
+    "navigationTime": "16:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 16:00h CEST 4th June",
+    "heroButtonLink": "https://auth0.zoom.us/webinar/register/WN_mFxpCaanTea6UD40UbnLuQ",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n"
+        }
+    },
+    "zoomId": 94971122372,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "The future of the web is here",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Browsers are finally ready for Web Components and we are going to take a look to see why Web Components are the way of the future with Mike Hartington. Then we will be looking into a new era of Static Web Apps with Wassim Chegham who will teach us how to build and deploy Serverless Static Web Apps! Don’t miss out on this opportunity to ask your questions to the speakers by joining our episode."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Simplified Component model with Stencil",
+                    "speaker": [{ "name": "Mike Hartington", "company": "Ionic" }],
+                    "description": {
+                        "description": "Have you ever found an awesome component online, but couldn’t use it because it’s written for a different framework? For too long now, frameworks have gotten in the way of developers sharing code that they’ve written. With different APIs to work with, developers would have to rewrite a component multiple times to be able to work with React, Angular, Vue, or even Ember. Enter Web Components. Built on open web standards, Web Components provide a way for creating reusable components that can work within every framework, and even outside of them. Find out what Ionic’s been experimenting with and see why Web Components are the way of the future."
+                    }
+                },
+                {
+                    "title": "The new era of Static Web Apps",
+                    "speaker": [{ "name": "Wassim Chegham", "company": "Microsoft" }],
+                    "description": {
+                        "description": "The Web has always been shaped by several trends, and the emerging landscape is exciting. \nIn the upcoming decade, we will witness a new era of Web applications: Static Web Apps. \nStatic Web Apps are designed to be fast, reliable, engaging, and serverless.\nThey are built with traditional JavaScript frameworks, like Angular, yet they load and render instantly. \nJoin us in this talk to learn how to build and deploy modern geo-distributed Serverless Static Web Apps."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Mike Hartington",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Mike is a developer, Angular GDE, and Ionic Developer Advocate who’s been working in the mobile landscape for most of his professional career. When he’s not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and craft beer lover."
+                    },
+                    "githubAccount": null,
+                    "company": "Ionic",
+                    "title": "Developer Advocate",
+                    "twitterAccount": "https://twitter.com/mhartington",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/4FakylBCygqxz8YAHP2Yww/5372fa85d379d7913b299ac97c533011/mike-hartington.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Wassim Chegham",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Hi, I'm Wassim. I'm an open-source author and maintainer. I build tools and apps for developers. I work as a Senior Cloud Advocate at Microsoft."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Senior Cloud Advocate",
+                    "twitterAccount": "https://twitter.com/manekinekko",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/pmtgZjzaPLV5LJ9Lfo0zB/011d08062b37204a04137a5b549d0a61/Wassim.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:10",
+                    "description": {
+                        "description": "The new era of Static Web Apps - Wassim Chegham"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Wassim Chegham" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Simplified Component model with Stencil - Mike Hartington"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Mike Hartington" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-talks-episode-4",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "The future of the web is here",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Browsers are finally ready for Web Components and we are going to take a look to see why Web Components are the way of the future with Mike Hartington. Then we will be looking into a new era of Static Web Apps with Wassim Chegham who will teach us how to build and deploy Serverless Static Web Apps! Don’t miss out on this opportunity to ask your questions to the speakers by joining our episode."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Simplified Component model with Stencil",
+                    "speaker": [{ "name": "Mike Hartington", "company": "Ionic" }],
+                    "description": {
+                        "description": "Have you ever found an awesome component online, but couldn’t use it because it’s written for a different framework? For too long now, frameworks have gotten in the way of developers sharing code that they’ve written. With different APIs to work with, developers would have to rewrite a component multiple times to be able to work with React, Angular, Vue, or even Ember. Enter Web Components. Built on open web standards, Web Components provide a way for creating reusable components that can work within every framework, and even outside of them. Find out what Ionic’s been experimenting with and see why Web Components are the way of the future."
+                    }
+                },
+                {
+                    "title": "The new era of Static Web Apps",
+                    "speaker": [{ "name": "Wassim Chegham", "company": "Microsoft" }],
+                    "description": {
+                        "description": "The Web has always been shaped by several trends, and the emerging landscape is exciting. \nIn the upcoming decade, we will witness a new era of Web applications: Static Web Apps. \nStatic Web Apps are designed to be fast, reliable, engaging, and serverless.\nThey are built with traditional JavaScript frameworks, like Angular, yet they load and render instantly. \nJoin us in this talk to learn how to build and deploy modern geo-distributed Serverless Static Web Apps."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Mike Hartington",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Mike is a developer, Angular GDE, and Ionic Developer Advocate who’s been working in the mobile landscape for most of his professional career. When he’s not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and craft beer lover."
+                    },
+                    "githubAccount": null,
+                    "company": "Ionic",
+                    "title": "Developer Advocate",
+                    "twitterAccount": "https://twitter.com/mhartington",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/4FakylBCygqxz8YAHP2Yww/5372fa85d379d7913b299ac97c533011/mike-hartington.jpg"
+                        }
+                    }
+                },
+                {
+                    "name": "Wassim Chegham",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Hi, I'm Wassim. I'm an open-source author and maintainer. I build tools and apps for developers. I work as a Senior Cloud Advocate at Microsoft."
+                    },
+                    "githubAccount": null,
+                    "company": "Microsoft",
+                    "title": "Senior Cloud Advocate",
+                    "twitterAccount": "https://twitter.com/manekinekko",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/pmtgZjzaPLV5LJ9Lfo0zB/011d08062b37204a04137a5b549d0a61/Wassim.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:10",
+                    "description": {
+                        "description": "The new era of Static Web Apps - Wassim Chegham"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Wassim Chegham" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Simplified Component model with Stencil - Mike Hartington"
+                    }
+                },
+                {
+                    "hour": "17:10",
+                    "description": { "description": "Q&A with Mike Hartington" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "id": "4474826d-4e06-57fc-bb0a-ca0026a7e02e",
+    "contentfulid": "avocado-labs-episode-7",
+    "title": "Avocado Labs - From DevOps to Gatsby JS",
+    "metaTags": {
+        "title": "Avocado Labs - From DevOps to Gatsby JS",
+        "description": {
+            "description": "This episode is jam packed with knowledge, we will first be taking a look at the DevOps culture which will be explained to us in a simple way by the one and only Diana Rodriguez. Then, the amazing Obinna Ekwuno will show us how we can build our first web app with Gatsby JS! "
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-7.png",
+        "twitterSite": "@Avocado Labs",
+        "twitterCreator": "@Avocado Labs"
+    },
+    "eventDate": "2020-07-30",
+    "navigationTime": "18:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 18:00h CEST 4th June",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/271964715/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.\n"
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "From DevOps to Gatsby JS",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "This episode is jam packed with knowledge, we will first be taking a look at the DevOps culture which will be explained to us in a simple way by the one and only Diana Rodriguez. Then, the amazing Obinna Ekwuno will show us how we can build our first web app with Gatsby JS! \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Fostering DevOps Culture for Success",
+                    "speaker": [{ "name": "Diana Rodriguez", "company": "Vonage" }],
+                    "description": {
+                        "description": "When it comes to the DevOps approach, we are not talking about the latest diet or fad or fashion. The DevOps culture explained in a simple way and its approach in the world of Web & IOT and how does it benefit the process, improving pipelines and improving the quality of our releases device, code and infrastructure wise. What about security? what is the state? did we know that the majority of developers don’t trust the same systems/devices/firmware they are releasing?, are we shipping to production based on pressure and/or the whims of a non-understanding market? What is it there to do to make sure we release quality over quantity?. How does this all relate?. I will share the secrets and not so secret information and leave you with it… you decide your course of action!!\n"
+                    }
+                },
+                {
+                    "title": "Gatsby JS building blocks",
+                    "speaker": [{ "name": "Obinna Ekwuno", "company": "Gatsby INC. " }],
+                    "description": {
+                        "description": "In this talk we will look at a simple Gatsby JS web app and how we can query data in this application from a headless CMS like SanityIO\n\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Diana Rodriguez",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Diana Rodriguez is a Full Stack Developer/DevOps, Google Developer Expert, Microsoft MVP and Auth0 Ambassador. With 20 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt."
+                    },
+                    "githubAccount": null,
+                    "company": "Vonage",
+                    "title": "Python Developer Advocate",
+                    "twitterAccount": "https://twitter.com/cotufa82",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/oORan3yHvaBzykplAyNp9/d17672c1477957c290a98b05e8f64c84/Diana.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Obinna Ekwuno",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Obinna Ekwuno is a Software Engineer with a passion for teaching currently working at Gatsby, he is also a Cloudinary Media Developer Expert and writes about a lot of exciting stuff on Scotch.io and logRocket some of which include topics around JavaScript, Jamstack and the MERN stack. He is mostly nerding out about web accessibility and web performance.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Gatsby INC. ",
+                    "title": "Software Engineer, DevRel. ",
+                    "twitterAccount": "https://twitter.com/Obinnaspeaks",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1xvFBezB6ukdO9aJvVd0LS/1d324c4269b060b90b0db0d8dc85e6ce/Obinna.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Fostering DevOps Culture for Success\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Diana Rodriguez " }
+                },
+                {
+                    "hour": "18:40",
+                    "description": { "description": "Gatsby JS building blocks" }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Obinna Ekwuno" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-7",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "From DevOps to Gatsby JS",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "This episode is jam packed with knowledge, we will first be taking a look at the DevOps culture which will be explained to us in a simple way by the one and only Diana Rodriguez. Then, the amazing Obinna Ekwuno will show us how we can build our first web app with Gatsby JS! \n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Fostering DevOps Culture for Success",
+                    "speaker": [{ "name": "Diana Rodriguez", "company": "Vonage" }],
+                    "description": {
+                        "description": "When it comes to the DevOps approach, we are not talking about the latest diet or fad or fashion. The DevOps culture explained in a simple way and its approach in the world of Web & IOT and how does it benefit the process, improving pipelines and improving the quality of our releases device, code and infrastructure wise. What about security? what is the state? did we know that the majority of developers don’t trust the same systems/devices/firmware they are releasing?, are we shipping to production based on pressure and/or the whims of a non-understanding market? What is it there to do to make sure we release quality over quantity?. How does this all relate?. I will share the secrets and not so secret information and leave you with it… you decide your course of action!!\n"
+                    }
+                },
+                {
+                    "title": "Gatsby JS building blocks",
+                    "speaker": [{ "name": "Obinna Ekwuno", "company": "Gatsby INC. " }],
+                    "description": {
+                        "description": "In this talk we will look at a simple Gatsby JS web app and how we can query data in this application from a headless CMS like SanityIO\n\n"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Diana Rodriguez",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Diana Rodriguez is a Full Stack Developer/DevOps, Google Developer Expert, Microsoft MVP and Auth0 Ambassador. With 20 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt."
+                    },
+                    "githubAccount": null,
+                    "company": "Vonage",
+                    "title": "Python Developer Advocate",
+                    "twitterAccount": "https://twitter.com/cotufa82",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/oORan3yHvaBzykplAyNp9/d17672c1477957c290a98b05e8f64c84/Diana.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Obinna Ekwuno",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Obinna Ekwuno is a Software Engineer with a passion for teaching currently working at Gatsby, he is also a Cloudinary Media Developer Expert and writes about a lot of exciting stuff on Scotch.io and logRocket some of which include topics around JavaScript, Jamstack and the MERN stack. He is mostly nerding out about web accessibility and web performance.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Gatsby INC. ",
+                    "title": "Software Engineer, DevRel. ",
+                    "twitterAccount": "https://twitter.com/Obinnaspeaks",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/1xvFBezB6ukdO9aJvVd0LS/1d324c4269b060b90b0db0d8dc85e6ce/Obinna.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "18:00", "description": { "description": "Welcome!" } },
+                {
+                    "hour": "18:05",
+                    "description": {
+                        "description": "Fostering DevOps Culture for Success\n"
+                    }
+                },
+                {
+                    "hour": "18:35",
+                    "description": { "description": "Q&A with Diana Rodriguez " }
+                },
+                {
+                    "hour": "18:40",
+                    "description": { "description": "Gatsby JS building blocks" }
+                },
+                {
+                    "hour": "19:10",
+                    "description": { "description": "Q&A with Obinna Ekwuno" }
+                },
+                { "hour": "19:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

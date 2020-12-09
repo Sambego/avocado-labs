@@ -1,0 +1,240 @@
+{
+    "id": "1ce3e514-40ab-5348-9057-b96ece58cbcb",
+    "contentfulid": "avocado-labs-talks-episode-6",
+    "title": "No code required",
+    "metaTags": {
+        "title": "No code required",
+        "description": {
+            "description": " In this episode we are going find out ways we can build websites and platforms without knowing how to code! Non-coders are no longer limited to templatey themes!"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-6.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-07-02",
+    "navigationTime": "19:00h AEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 19:00h AEST 2nd July",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/271519082/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "No code required",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we are going find out ways we can build websites and platform without knowing how to code! Non-coders are no longer limited to templatey themes!\n\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "How to build a marketplace without code - An intro to No Code",
+                    "speaker": [
+                        { "name": "Connor Finlayson", "company": "Unicorn Factory" }
+                    ],
+                    "description": {
+                        "description": "No Code or Visual Development tools are empowering thousands of designers and marketers all around the world to build online platforms without needing to know how to code. In this talk, Connor will be showing us how he created Unicorn Factory, a freelancer marketplace in New Zealand using Webflow, Zapier and Airtable. \n"
+                    }
+                },
+                {
+                    "title": "There's a plugin for that! Killer No Code websites with WordPress",
+                    "speaker": [
+                        { "name": "Jo Marie Minney ", "company": "House Digital" }
+                    ],
+                    "description": {
+                        "description": "WordPress is possibly the most powerful CMS (content management system) in the world, and it currently powers over a third of the internet. From the humble blog to complex eCommerce sites, there's not much you CAN'T do with WordPress!\n\nWith the growing emergence of Page Builders, non-coders are no longer limited to templatey themes - and combined with the thousands of WordPress plugins available you can let your creativity and ideas go wild.\nFrom the basic WordPress workflow to choosing the right theme and builder, WordPress evangelist Jo Minney is here to share how to developer killer websites - with or without code."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Connor Finlayson",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Connor is a No Code Consultant from Wellington, New Zealand. He teaches non-technical entrepreneurs all over the world how to build and grow their own online businesses from scratch using No Code tools.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Unicorn Factory",
+                    "title": "Founder",
+                    "twitterAccount": "https://twitter.com/FinlaysonConnor",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5bV3B2zSI1GaxSpx84iuuK/76a19f07f2960fb44e00aca90423d6b5/Connor.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Jo Marie Minney ",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Jo Minney is a small business founder and web developer based (for now) in Perth, Western Australia. She is passionate about UX, data-driven decision making, cats and travel – not necessarily in that order.\nIn her non-existent free time, Jo consults with the federally funded Australian Small Business Advisory Service providing accessible advice and training to Aussie small business owners. She is also an ambassador for SheCodes Australia, a not for profit organisation aiming at making tech jobs more accessible for women.\n\nJo is an international conference speaker, and a nominee for both the 2019 Women in Tech WA awards and the 2020 Telstra Businesswoman of the Year awards.\nShe is easily recognisable by her bright purple hair and dorky glasses. You can find her on Facebook in the Perth WordPress Community group or Women who WordPress group (both of which she manages), or at the monthly Perth WordPress meetup."
+                    },
+                    "githubAccount": null,
+                    "company": "House Digital",
+                    "title": "Digital Happiness Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2nzTSvSkIeooj247aBvFrj/49f55e509b7aa18debd9c3f2a456dd15/jo.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "19:00", "description": { "description": "Welcome" } },
+                {
+                    "hour": "19:05",
+                    "description": {
+                        "description": "How to build a marketplace without code: An intro to No Code - Connor Finlayson"
+                    }
+                },
+                {
+                    "hour": "19:35",
+                    "description": { "description": "Q&A with Connor Finlayson" }
+                },
+                {
+                    "hour": "19:40",
+                    "description": {
+                        "description": "There's a plugin for that! Killer No Code websites with WordPress - Jo Marie Minney "
+                    }
+                },
+                {
+                    "hour": "20:10",
+                    "description": { "description": "Q&A with Jo Marie Minney " }
+                }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-talks-episode-6",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "No code required",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we are going find out ways we can build websites and platform without knowing how to code! Non-coders are no longer limited to templatey themes!\n\n"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "How to build a marketplace without code - An intro to No Code",
+                    "speaker": [
+                        { "name": "Connor Finlayson", "company": "Unicorn Factory" }
+                    ],
+                    "description": {
+                        "description": "No Code or Visual Development tools are empowering thousands of designers and marketers all around the world to build online platforms without needing to know how to code. In this talk, Connor will be showing us how he created Unicorn Factory, a freelancer marketplace in New Zealand using Webflow, Zapier and Airtable. \n"
+                    }
+                },
+                {
+                    "title": "There's a plugin for that! Killer No Code websites with WordPress",
+                    "speaker": [
+                        { "name": "Jo Marie Minney ", "company": "House Digital" }
+                    ],
+                    "description": {
+                        "description": "WordPress is possibly the most powerful CMS (content management system) in the world, and it currently powers over a third of the internet. From the humble blog to complex eCommerce sites, there's not much you CAN'T do with WordPress!\n\nWith the growing emergence of Page Builders, non-coders are no longer limited to templatey themes - and combined with the thousands of WordPress plugins available you can let your creativity and ideas go wild.\nFrom the basic WordPress workflow to choosing the right theme and builder, WordPress evangelist Jo Minney is here to share how to developer killer websites - with or without code."
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Connor Finlayson",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Connor is a No Code Consultant from Wellington, New Zealand. He teaches non-technical entrepreneurs all over the world how to build and grow their own online businesses from scratch using No Code tools.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Unicorn Factory",
+                    "title": "Founder",
+                    "twitterAccount": "https://twitter.com/FinlaysonConnor",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/5bV3B2zSI1GaxSpx84iuuK/76a19f07f2960fb44e00aca90423d6b5/Connor.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Jo Marie Minney ",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Jo Minney is a small business founder and web developer based (for now) in Perth, Western Australia. She is passionate about UX, data-driven decision making, cats and travel – not necessarily in that order.\nIn her non-existent free time, Jo consults with the federally funded Australian Small Business Advisory Service providing accessible advice and training to Aussie small business owners. She is also an ambassador for SheCodes Australia, a not for profit organisation aiming at making tech jobs more accessible for women.\n\nJo is an international conference speaker, and a nominee for both the 2019 Women in Tech WA awards and the 2020 Telstra Businesswoman of the Year awards.\nShe is easily recognisable by her bright purple hair and dorky glasses. You can find her on Facebook in the Perth WordPress Community group or Women who WordPress group (both of which she manages), or at the monthly Perth WordPress meetup."
+                    },
+                    "githubAccount": null,
+                    "company": "House Digital",
+                    "title": "Digital Happiness Manager",
+                    "twitterAccount": null,
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2nzTSvSkIeooj247aBvFrj/49f55e509b7aa18debd9c3f2a456dd15/jo.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "19:00", "description": { "description": "Welcome" } },
+                {
+                    "hour": "19:05",
+                    "description": {
+                        "description": "How to build a marketplace without code: An intro to No Code - Connor Finlayson"
+                    }
+                },
+                {
+                    "hour": "19:35",
+                    "description": { "description": "Q&A with Connor Finlayson" }
+                },
+                {
+                    "hour": "19:40",
+                    "description": {
+                        "description": "There's a plugin for that! Killer No Code websites with WordPress - Jo Marie Minney "
+                    }
+                },
+                {
+                    "hour": "20:10",
+                    "description": { "description": "Q&A with Jo Marie Minney " }
+                }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

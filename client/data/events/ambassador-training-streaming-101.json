@@ -1,0 +1,88 @@
+{
+    "id": "975e96c1-659c-54f9-ae9a-082e3c774ba3",
+    "contentfulid": "ambassador-training-streaming-101",
+    "title": "Streaming 101: Hints and Tips for Effective Streaming",
+    "metaTags": {
+        "title": "Streaming 101: Hints and Tips for Effective Streaming",
+        "description": {
+            "description": "26th May at 14:00 AEST - Everyone's invited to our Ambassador training session, covering getting started with streaming and video content creation; ways to make a big difference to the quality of your videos; tools and processes to make your life easier during video creation; and some nice-to-haves that can tweak your production value a bit more."
+        },
+        "ogImage": "https://images.ctfassets.net/kbkgmx9upatd/4mpewtW9fwHmhklKTSLVj1/c544472148d827ee0e3ab2dcf4e02fb2/Streaming_101_OG_Image.png",
+        "twitterSite": "@Auth0Ambassador",
+        "twitterCreator": "@Auth0Ambassador"
+    },
+    "eventDate": "2020-05-26",
+    "navigationTime": "14:00 AEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Hints and tips for effective streaming",
+    "heroButtonText": "Join us!",
+    "heroButtonLink": "https://calendly.com/bendechrai-auth0/streaming-101?month=2020-05&date=2020-05-26",
+    "heroDescription": {
+        "heroDescription": "If you typically engage with audiences in physical settings, the impact of the current health pandemic on this aspect of your role will not be insignificant to you.\n\nThe adoption of prerecorded video and live streaming has rocketed, and while current technology makes light work of getting online quickly, the 80-20 rules dictates that big improvements should be achievable with just a few tweaks.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "If you typically engage with audiences in physical settings, the impact of the current health pandemic on this aspect of your role will not be insignificant to you.\n\nThe adoption of prerecorded video and live streaming has rocketed, and while current technology makes light work of getting online quickly, the 80-20 rules dictates that big improvements should be achievable with just a few tweaks."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Ambassador Training Session",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Through the [Ambassador program](https://auth0.com/ambassador-program), Auth0 loves to give back to the community by sharing knowledge. Benefits include access and training with security experts on authentication, security, and identity topics.\n\nWith so many people moving to running events online right now, we feel that this session could be valuable to others beyond the Ambassador Program, so we're excited to do just that."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/3cCECASYHEs676OFsbAsU7/df34ab2e6dcc44a7d499c2405371941d/Ambassador.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Topics",
+            "description": null,
+            "topicsSubsections": [{
+                "title": "Streaming 101",
+                "speaker": [{ "name": "Ben Dechrai", "company": "Auth0" }],
+                "description": {
+                    "description": "There are so many tools for streaming. OBS, StreamYard, Streamlabs, ... What do they all do, and which is best? And when it comes to platforms, is Zoom good enough? Should you use Twitch? Can you broadcast to more than one? And what happens to your video after the stream has finished?\n\nSolving the software aspects isn't all you might be wondering about though. Maybe you're trying to work out what camera and microphone to use, how to set up your lighting, or whether to get a green screen.\n\nIn this session, we'll discuss:\n\n* how to get started with streaming and video content creation;\n* simple and cost effective ways to make a big difference to the quality of your videos;\n* tools and processes to make your life easier during video creation; and\n* some nice-to-haves that can tweak your production value a bit more."
+                }
+            }],
+            "type": "eventPageTopicsSection"
+        }
+    ],
+    "slug": "ambassador-training-streaming-101",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "Ambassador Training Session",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "Through the [Ambassador program](https://auth0.com/ambassador-program), Auth0 loves to give back to the community by sharing knowledge. Benefits include access and training with security experts on authentication, security, and identity topics.\n\nWith so many people moving to running events online right now, we feel that this session could be valuable to others beyond the Ambassador Program, so we're excited to do just that."
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/3cCECASYHEs676OFsbAsU7/df34ab2e6dcc44a7d499c2405371941d/Ambassador.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Topics",
+            "description": null,
+            "topicsSubsections": [{
+                "title": "Streaming 101",
+                "speaker": [{ "name": "Ben Dechrai", "company": "Auth0" }],
+                "description": {
+                    "description": "There are so many tools for streaming. OBS, StreamYard, Streamlabs, ... What do they all do, and which is best? And when it comes to platforms, is Zoom good enough? Should you use Twitch? Can you broadcast to more than one? And what happens to your video after the stream has finished?\n\nSolving the software aspects isn't all you might be wondering about though. Maybe you're trying to work out what camera and microphone to use, how to set up your lighting, or whether to get a green screen.\n\nIn this session, we'll discuss:\n\n* how to get started with streaming and video content creation;\n* simple and cost effective ways to make a big difference to the quality of your videos;\n* tools and processes to make your life easier during video creation; and\n* some nice-to-haves that can tweak your production value a bit more."
+                }
+            }],
+            "type": "eventPageTopicsSection"
+        }
+    ]
+}

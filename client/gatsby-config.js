@@ -17,20 +17,19 @@ module.exports = {
         'gatsby-plugin-sitemap',
         'gatsby-plugin-next-seo',
         'gatsby-plugin-client-side-redirect',
+        `gatsby-transformer-json`,
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                path: `./data/`,
+            },
+        },
         {
             resolve: `gatsby-source-youtube`,
             options: {
                 playlistId: process.env.GATSBY_YOUTUBE_PLAYLIST_ID,
                 apiKey: process.env.GATSBY_YOUTUBE_API_KEY,
                 maxVideos: 50, // Defaults to 50
-            },
-        },
-        {
-            resolve: 'gatsby-source-contentful',
-            options: {
-                spaceId: process.env.GATSBY_CONTENTFUL_SPACE,
-                accessToken: process.env.GATSBY_CONTENFUL_DELIVERY_ACCESS_TOKEN,
-                forceFullSync: true,
             },
         },
         {

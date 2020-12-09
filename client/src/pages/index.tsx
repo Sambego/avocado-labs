@@ -13,7 +13,7 @@ import {
   Subtitle,
 } from '../components/styled.js'
 import EventGrid from '../components/EventContent/EventsGrid'
-
+import theme from '../../data/theme.json'
 type EventsPage = {
   data: any
   location: string
@@ -26,13 +26,13 @@ const heroImage =
 
 const EventsPage = ({ data, location }: EventsPage) => {
   const siteMetadata = data.site.siteMetadata
-  const events = data.allContentfulLandingPageEvent.edges
+  const events = data.allEventsJson.edges
   const now = new Date()
   const upcoming = events.filter(
     (event) => new Date(event.node.eventDate) > now
   )
   const past = events.filter((event) => new Date(event.node.eventDate) < now)
-
+  console.log(events)
   return (
     <Layout location={location}>
       <Helmet title={siteMetadata.title} />
@@ -84,11 +84,11 @@ const EventsPage = ({ data, location }: EventsPage) => {
         {upcoming.length > 0 && (
           <>
             <h2>Upcoming</h2>
-            <EventGrid events={upcoming} />
+            <EventGrid events={upcoming} theme={theme} />
           </>
         )}
         <h2>Past</h2>
-        <EventGrid events={past} past />
+        <EventGrid events={past} past theme={theme} />
       </Container>
     </Layout>
   )
@@ -108,26 +108,13 @@ export const pageQuery = graphql`
         twitterSite
       }
     }
-    allContentfulLandingPageEvent(
-      filter: {
-        eventTheme: { name: { eq: "Avocado Labs" } }
-        node_locale: { eq: "en" }
-      }
-      sort: { order: ASC, fields: eventDate }
-    ) {
+    allEventsJson(sort: { order: ASC, fields: eventDate }) {
       edges {
         node {
           id
           contentfulid
           eventDate
-          shortTitle
-          eventTheme {
-            indexCard {
-              file {
-                url
-              }
-            }
-          }
+          title
         }
       }
     }

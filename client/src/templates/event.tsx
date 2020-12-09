@@ -4,6 +4,7 @@ import { Helmet } from 'react-helmet'
 import { GatsbySeo } from 'gatsby-plugin-next-seo'
 import Layout from '../components/layout'
 import EventContent from '../components/EventContent/index.js'
+import theme from '../../data/theme.json'
 
 type EventPage = {
   data: any
@@ -12,7 +13,7 @@ type EventPage = {
 
 const EventPage = ({ data, location }: EventPage) => {
   const siteMetadata = data.site.siteMetadata
-  const event = data.allContentfulLandingPageEvent.edges[0].node
+  const event = data.allEventsJson.edges[0].node
   const meta = {
     title: (event.metaTags && event.metaTags.title) || siteMetadata.title,
     description: {
@@ -30,7 +31,6 @@ const EventPage = ({ data, location }: EventPage) => {
       siteMetadata.twitterSite,
   }
   const {
-    eventTheme,
     eventDate,
     navigationTime,
     navigationLocation,
@@ -38,7 +38,7 @@ const EventPage = ({ data, location }: EventPage) => {
     heroDescription,
     heroButtonText,
     heroButtonLink,
-    subModules,
+    parts,
     zoomId,
   } = event
   const navigationDate = event.eventDate
@@ -70,17 +70,17 @@ const EventPage = ({ data, location }: EventPage) => {
         }}
       />
       <EventContent
-        eventTheme={eventTheme}
+        eventTheme={theme}
         navigationDate={navigationDate}
         navigationTime={navigationTime}
         navigationLocation={navigationLocation}
         heroTitle={heroTitle}
-        heroDescription={heroDescription.childMarkdownRemark.rawMarkdownBody}
+        heroDescription={heroDescription.heroDescription}
         heroSideImage={heroSideImage}
         heroButtonText={heroButtonText}
         heroButtonLink={heroButtonLink}
         heroBackgroundImage={heroBackgroundImage}
-        subModules={subModules}
+        subModules={parts}
         eventDate={eventDate}
         zoomId={zoomId}
       />
@@ -103,9 +103,7 @@ export const pageQuery = graphql`
         twitterSite
       }
     }
-    allContentfulLandingPageEvent(
-      filter: { contentfulid: { eq: $slug }, node_locale: { eq: "en" } }
-    ) {
+    allEventsJson(filter: { contentfulid: { eq: $slug } }) {
       edges {
         node {
           id
@@ -120,36 +118,6 @@ export const pageQuery = graphql`
             twitterCreator
           }
           eventDate
-          eventTheme {
-            highlightColor
-            name
-            backgroundImage {
-              description
-              file {
-                url
-                fileName
-              }
-              title
-            }
-            badgeImage {
-              description
-              title
-              file {
-                url
-                fileName
-              }
-            }
-            buildingImage {
-              description
-              title
-              file {
-                url
-              }
-            }
-            indexCard {
-              description
-            }
-          }
           navigationTime
           navigationLocation
           heroTitle
@@ -157,130 +125,55 @@ export const pageQuery = graphql`
           heroButtonLink
           heroDescription {
             heroDescription
-            childMarkdownRemark {
-              rawMarkdownBody
-            }
           }
           zoomId
-          subModules {
-            ... on ContentfulEventPageMapSection {
-              id
-              venueName
-              sys {
-                contentType {
-                  sys {
-                    id
-                    type
-                    linkType
-                    contentful_id
-                  }
+          parts {
+            title
+            type
+            venueName
+            speakers {
+              company
+              githubAccount
+              linkedInAccount
+              intro {
+                intro
+              }
+              name
+              picture {
+                file {
+                  url
                 }
               }
-            }
-            ... on ContentfulEventPageOverviewSection {
-              id
               title
-              overviewSubsections {
-                title
-                description {
-                  childMarkdownRemark {
-                    rawMarkdownBody
-                  }
-                }
-                image {
-                  file {
-                    url
-                  }
-                }
-              }
-              sys {
-                contentType {
-                  sys {
-                    id
-                    type
-                    linkType
-                    contentful_id
-                  }
-                }
-              }
+              twitterAccount
             }
-            ... on ContentfulEventPageScheduleSection {
-              id
-              title
-              schedule {
-                hour
-                description {
-                  description
-                }
+            topicsSubsections {
+              description {
+                description
               }
-              sys {
-                contentType {
-                  sys {
-                    id
-                    type
-                    linkType
-                    contentful_id
-                  }
-                }
-              }
-            }
-            ... on ContentfulEventPageSpeakersSection {
-              id
-              title
-              speakers {
-                name
-                linkedInAccount
-                intro {
-                  intro
-                }
-                githubAccount
+              speaker {
                 company
-                title
-                twitterAccount
-                picture {
-                  file {
-                    url
-                  }
-                }
+                name
               }
-              sys {
-                contentType {
-                  sys {
-                    id
-                    type
-                    linkType
-                    contentful_id
-                  }
-                }
-              }
-            }
-            ... on ContentfulEventPageTopicsSection {
-              id
               title
+            }
+            overviewSubsections {
               description {
                 childMarkdownRemark {
                   rawMarkdownBody
                 }
               }
-              sys {
-                contentType {
-                  sys {
-                    id
-                    type
-                    linkType
-                    contentful_id
-                  }
+              image {
+                file {
+                  url
                 }
               }
-              topicsSubsections {
-                title
-                speaker {
-                  name
-                  company
-                }
-                description {
-                  description
-                }
+              title
+            }
+            schedule {
+              hour
+              description {
+                description
               }
             }
           }

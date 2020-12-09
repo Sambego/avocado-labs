@@ -1,0 +1,234 @@
+{
+    "id": "73ccf69b-829c-5efc-8144-6fa3d8a4c621",
+    "contentfulid": "avocado-labs-episode-9",
+    "title": "All things Angular",
+    "metaTags": {
+        "title": "All things Angular",
+        "description": {
+            "description": "In this episode we have two experts who will be talking about all things Angular. Starting with a deep dive into Scully with the one and only Natalia Venditto, next we’ll be digging deeper into Angular and gain a good understanding of Angular’s change detection and how to go Zone-less with the amazing Michael Hladky!"
+        },
+        "ogImage": "https://cdn.auth0.com/blog/avocado-labs/episode-9.png",
+        "twitterSite": "@Avocado_Labs",
+        "twitterCreator": "@Avocado_Labs"
+    },
+    "eventDate": "2020-08-24",
+    "navigationTime": "16:00h CEST",
+    "navigationLocation": "Online",
+    "heroTitle": "Avocado Labs - Online talks",
+    "heroButtonText": "Join us at 16:00h CEST 24th August",
+    "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/272651199/",
+    "heroDescription": {
+        "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment.",
+        "childMarkdownRemark": {
+            "rawMarkdownBody": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+        }
+    },
+    "zoomId": null,
+    "subModules": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All things Angular",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we have two experts who will be talking about all things Angular. Starting with a deep dive into Scully with the one and only Natalia Venditto, next we’ll be digging deeper into Angular and gain a good understanding of Angular’s change detection and how to go Zone-less with the amazing Michael Hladky!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Adding that JAM to your Angular Stack with Scully!",
+                    "speaker": [{ "name": "Natalia Venditto", "company": "Netcentric" }],
+                    "description": {
+                        "description": "In this talk we will describe the advantages of pre-rendering and install Scully to convert our existing app, to the JAM stack! \n"
+                    }
+                },
+                {
+                    "title": "Fully Zone-Less - High-Performance Angular applications in post IVY",
+                    "speaker": [{ "name": "Michael Hladky", "company": "Trilon.io" }],
+                    "description": {
+                        "description": "The async pipe is boring! 😴\n\nUnderstand the guts of Angulars change detection and why zone.js is your biggest enemy.\nLearn the trick on template bindings, component rendering, and where you pay the biggest price.\nAs the sugar on top, you will learn how to identify and avoid blocking UIs by analyzing flame charts and leverage task scheduling.\nIn the end, you will be able to build applications with zone-less performance even in a zone-full environment. 🤯"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Natalia Venditto",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "With broad experience in the web design and development, Natalia works as an Enterprise Scale Platforms Frontend Tech Lead with a strong focus in Solutions Architecture and Performance, bringing to life high-traffic and high-performance web and mobile applications for large clients across the world.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Netcentric",
+                    "title": "Principal Frontend Software Engineer",
+                    "twitterAccount": "https://twitter.com/AnfibiaCreativa",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/79EuOf8MSTEQRr58Twwytp/e68d19190e9309662a33fc41b6f0ff54/Natalia.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Michael Hladky",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Michael Hladky is a Google Developer Expert (GDE), Microsoft MVP, trainer, and consultant with a focus on Angular and RxJS. For years he has helped companies and developers to setup scalable architectures and performant processes enabling teams to keep up with state of the art development. A vibrant member of the tech community, he organizes multiple community events and workshops each year to give back."
+                    },
+                    "githubAccount": null,
+                    "company": "Trilon.io",
+                    "title": "Lead Instructor",
+                    "twitterAccount": "https://twitter.com/Michael_Hladky",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2FLNPa4qfnnrYIzYydwmbP/732e79441b0eafb9958f9a38a34d4988/Michael_Hladky.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Adding that JAM to your Angular Stack with Scully! - Natalia Venditto\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Natalia Venditto" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Fully Zone-Less - High-Performance Angular applications in post IVY - Michael Hladky"
+                    }
+                },
+                {
+                    "hour": "17:15",
+                    "description": { "description": "Q&A with Michael Hladky" }
+                },
+                { "hour": "17:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ],
+    "slug": "avocado-labs-episode-9",
+    "parts": [{
+            "title": "Overview",
+            "overviewSubsections": [{
+                "title": "All things Angular",
+                "description": {
+                    "childMarkdownRemark": {
+                        "rawMarkdownBody": "In this episode we have two experts who will be talking about all things Angular. Starting with a deep dive into Scully with the one and only Natalia Venditto, next we’ll be digging deeper into Angular and gain a good understanding of Angular’s change detection and how to go Zone-less with the amazing Michael Hladky!"
+                    }
+                },
+                "image": {
+                    "file": {
+                        "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+                    }
+                }
+            }],
+            "type": "eventPageOverviewSection"
+        },
+        {
+            "title": "Talks",
+            "description": null,
+            "topicsSubsections": [{
+                    "title": "Adding that JAM to your Angular Stack with Scully!",
+                    "speaker": [{ "name": "Natalia Venditto", "company": "Netcentric" }],
+                    "description": {
+                        "description": "In this talk we will describe the advantages of pre-rendering and install Scully to convert our existing app, to the JAM stack! \n"
+                    }
+                },
+                {
+                    "title": "Fully Zone-Less - High-Performance Angular applications in post IVY",
+                    "speaker": [{ "name": "Michael Hladky", "company": "Trilon.io" }],
+                    "description": {
+                        "description": "The async pipe is boring! 😴\n\nUnderstand the guts of Angulars change detection and why zone.js is your biggest enemy.\nLearn the trick on template bindings, component rendering, and where you pay the biggest price.\nAs the sugar on top, you will learn how to identify and avoid blocking UIs by analyzing flame charts and leverage task scheduling.\nIn the end, you will be able to build applications with zone-less performance even in a zone-full environment. 🤯"
+                    }
+                }
+            ],
+            "type": "eventPageTopicsSection"
+        },
+        {
+            "title": "Speakers",
+            "speakers": [{
+                    "name": "Natalia Venditto",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "With broad experience in the web design and development, Natalia works as an Enterprise Scale Platforms Frontend Tech Lead with a strong focus in Solutions Architecture and Performance, bringing to life high-traffic and high-performance web and mobile applications for large clients across the world.\n"
+                    },
+                    "githubAccount": null,
+                    "company": "Netcentric",
+                    "title": "Principal Frontend Software Engineer",
+                    "twitterAccount": "https://twitter.com/AnfibiaCreativa",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/79EuOf8MSTEQRr58Twwytp/e68d19190e9309662a33fc41b6f0ff54/Natalia.png"
+                        }
+                    }
+                },
+                {
+                    "name": "Michael Hladky",
+                    "linkedInAccount": null,
+                    "intro": {
+                        "intro": "Michael Hladky is a Google Developer Expert (GDE), Microsoft MVP, trainer, and consultant with a focus on Angular and RxJS. For years he has helped companies and developers to setup scalable architectures and performant processes enabling teams to keep up with state of the art development. A vibrant member of the tech community, he organizes multiple community events and workshops each year to give back."
+                    },
+                    "githubAccount": null,
+                    "company": "Trilon.io",
+                    "title": "Lead Instructor",
+                    "twitterAccount": "https://twitter.com/Michael_Hladky",
+                    "picture": {
+                        "file": {
+                            "url": "//images.ctfassets.net/kbkgmx9upatd/2FLNPa4qfnnrYIzYydwmbP/732e79441b0eafb9958f9a38a34d4988/Michael_Hladky.png"
+                        }
+                    }
+                }
+            ],
+            "type": "eventPageSpeakersSection"
+        },
+        {
+            "title": "Schedule",
+            "schedule": [
+                { "hour": "16:00", "description": { "description": "Welcome! " } },
+                {
+                    "hour": "16:05",
+                    "description": {
+                        "description": "Adding that JAM to your Angular Stack with Scully! - Natalia Venditto\n"
+                    }
+                },
+                {
+                    "hour": "16:35",
+                    "description": { "description": "Q&A with Natalia Venditto" }
+                },
+                {
+                    "hour": "16:40",
+                    "description": {
+                        "description": "Fully Zone-Less - High-Performance Angular applications in post IVY - Michael Hladky"
+                    }
+                },
+                {
+                    "hour": "17:15",
+                    "description": { "description": "Q&A with Michael Hladky" }
+                },
+                { "hour": "17:15", "description": { "description": "Goodbye!" } }
+            ],
+            "type": "eventPageScheduleSection"
+        }
+    ]
+}

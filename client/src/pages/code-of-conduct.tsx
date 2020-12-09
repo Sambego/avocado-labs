@@ -5,6 +5,7 @@ import { GatsbySeo } from 'gatsby-plugin-next-seo'
 import Layout from '../components/layout'
 import { BorderedContainer, Container } from '../components/styled.js'
 import ReactMarkdown from 'react-markdown'
+import coc from '../../data/coc.json'
 
 type EventsPage = {
   data: any
@@ -13,7 +14,6 @@ type EventsPage = {
 
 const EventsPage = ({ data, location }: EventsPage) => {
   const siteMetadata = data.site.siteMetadata
-  const coc = data.allContentfulEventPageCodeOfConductPage.edges[0].node
   return (
     <Layout location={location}>
       <Helmet title={siteMetadata.title} />
@@ -42,9 +42,7 @@ const EventsPage = ({ data, location }: EventsPage) => {
       <BorderedContainer>
         <Container>
           <h1>{coc.title}</h1>
-          <ReactMarkdown>
-            {coc.text.childMarkdownRemark.rawMarkdownBody}
-          </ReactMarkdown>
+          <ReactMarkdown>{coc.coc}</ReactMarkdown>
         </Container>
       </BorderedContainer>
       >
@@ -64,23 +62,6 @@ export const pageQuery = graphql`
         ogImage
         twitterCreator
         twitterSite
-      }
-    }
-    allContentfulEventPageCodeOfConductPage(
-      filter: {
-        contentful_id: { eq: "3HZ3ZXKGAFu4JEgaANhn9e" }
-        node_locale: { eq: "en" }
-      }
-    ) {
-      edges {
-        node {
-          title
-          text {
-            childMarkdownRemark {
-              rawMarkdownBody
-            }
-          }
-        }
       }
     }
   }
