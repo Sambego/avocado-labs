@@ -32,7 +32,6 @@ const EventsPage = ({ data, location }: EventsPage) => {
     (event) => new Date(event.node.eventDate) > now
   )
   const past = events.filter((event) => new Date(event.node.eventDate) < now)
-  console.log(events)
   return (
     <Layout location={location}>
       <Helmet title={siteMetadata.title} />

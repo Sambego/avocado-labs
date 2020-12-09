@@ -130,7 +130,6 @@ export const pageQuery = graphql`
           parts {
             title
             type
-            venueName
             speakers {
               company
               githubAccount
