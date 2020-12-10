@@ -103,11 +103,12 @@ export const pageQuery = graphql`
         twitterSite
       }
     }
-    allEventsJson(filter: { contentfulid: { eq: $slug } }) {
+    allEventsJson(filter: { slug: { eq: $slug } }) {
       edges {
         node {
           id
           contentfulid
+          slug
           metaTags {
             title
             description {

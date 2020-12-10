@@ -14,7 +14,6 @@ import {
   Title,
   Subtitle,
 } from './styled'
-import theme from '../../../../data/theme.json'
 
 class Hero extends Component {
   state = {
@@ -73,7 +72,7 @@ class Hero extends Component {
       navigationTime,
       navigationLocation,
       eventDate,
-      zoomId,
+      theme
     } = this.props
     return (
       <HeroStyled
