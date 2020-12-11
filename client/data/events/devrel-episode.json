@@ -1,0 +1,161 @@
+{
+  "title": "Meet the Auth0 DevRel team",
+  "slug": "meet-the-auth0-devrel-team",
+  "metaTags": {
+    "title": "Meet the Auth0 DevRel team",
+    "description": {
+      "description": "Come and meet the Auth0 Developer Relations team and ask all your questions about DevRel and how to become one!"
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/devrel-episode.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2020-12-14",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/275099304/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Meet the Auth0 DevRel Team!",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Dev Rel, Developer Relations, Developer Advocacy, Developer avocado… What does it all mean? In this episode you will have the chance to connect and ask your questions about all of this to the very own Auth0 Dev Rel team. Maybe you just want to know what we do, or how we got here. Maybe you want to learn how to get into Dev Rel. Or maybe you just want to meet us and say hi! Whatever your reason, don't miss this episode where we will also be hosting a secret santa live! Why? Well, that way you can also get to know us better by seeing what we would buy each other this season. "
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "James Quick",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "James is a developer, speaker, and teacher with a passion for web development, design, and developer tools. He is a Senior Developer Advocate at Auth0 and has over 7 years of experience in Advocacy and Software Development. In his spare time, he runs a YouTube channel, plays co-ed soccer with his wife, spends time with his dogs, and can solve a Rubik’s cube in under two minutes."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/jamesqquick",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/2SHcWto6vZqfviu0lXoR8T/6e08d88239ad47d39e3ba9190a31848d/JamesQuick.png"
+            }
+          }
+        },
+        {
+          "name": "Sam Bellen",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/sambego",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/35ccsiRzGpONMLcUojZ6yD/e3397854fde5be8318c69ef3064a0750/Sam_Bellen.png"
+            }
+          }
+        },
+        {
+          "name": "Ana Cidre",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Ana is a Developer Advocate at Auth0. She has a degree in Fine Arts and a Master in International Business Economics and Management, so she is not your usual software developer. She loves to code and she especially likes Angular. As a very active member of the community, she regularly organises meetups and conferences, like the amazing ngSpain. In Spain, where she’s currently based, she’s an organiser of GDG Vigo and the founder of GalsTech, a group for women in tech from Galicia. Because she is so passionate about diversity, she has also been named a Women Techmaker Ambassador."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/AnaCidre_",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/1k7BExAJewaNC1oQV4yFZk/f55785f1de6d1f18904ff3aaf723dfd1/AnaCidre.png"
+            }
+          }
+        },
+        {
+          "name": "Sam Julien",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Sam Julien is a Sr. Developer Advocate Engineer at Auth0 and a Google Developer Expert for Angular and Web Technologies. He’s also an instructor for egghead and the author of Getting Started in Developer Relations and the Developer Microskills newsletter. His favorite thing in the world is sitting outside drinking good scotch next to a fire he built himself. You can find more of Sam’s work at samjulien.com."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/samjulien",
+          "picture": {
+            "file": {
+              "url": "https://pbs.twimg.com/profile_images/1328132127846670337/eeWwPzQe_400x400.jpg"
+            }
+          }
+        },
+        {
+          "name": "Tyler Clark",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Tyler is a developer advocate engineer at Auth0, an egghead.io instructor, and a conference speaker. He's worked primarily as a software engineer for the past seven years and loves getting his hands-on coding projects. His passion is in the frontend, but he also enjoys working on backend tasks. If he's not in his office working, he's either with his family or out playing some kind of sport."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/iamtylerwclark",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/auziros/tyler-clark.jpeg"
+            }
+          }
+        },
+        {
+          "name": "Kristy Gutierrez ",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Kristy is a Project Manager at Auth0. New to working in the tech world, Kristy's background is rooted in outdoor education and international adventure travel. While working at Auth0 may sound like an odd fit at first, Kristy thrives on managing complex logistics, organizing information, and solving problems. She finds the behind-the-scenes work of building more efficient processes for things like our ambassador program and events very familiar turf. When she's not tidying up her to-do list, she loves to cook, kayak, and mountain bike."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Product Management Consultant",
+          "twitterAccount": "https://twitter.com/",
+          "picture": {
+            "file": {
+              "url": "https://pbs.twimg.com/profile_images/1305222402201120768/uhKb7fHS_400x400.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": { "description": "Meet the Auth0 DevRel Team" }
+        },
+        {
+          "hour": "18:40",
+          "description": { "description": "Secret Santa" }
+        },
+        { "hour": "19:00", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
