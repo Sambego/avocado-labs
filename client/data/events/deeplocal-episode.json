@@ -1,0 +1,77 @@
+{
+  "title": "Meet Matthew Pegula",
+  "slug": "meet-matthew-pegula",
+  "metaTags": {
+    "title": "Meet Matthew Pegula",
+    "description": {
+      "description": "Matthew Pegula works at Deeplocal, a creative technology and experience design studio who use technology to tell stories and create experiences in novel ways."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/devrel-episode.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2020-12-21",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/275121854/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Meet Matthew Pegula",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Matthew Pegula works at Deeplocal, a creative technology and experience design studio based in Pittsburgh, PA.  We're a group of engineers and creatives who use technology to tell stories and create experiences in novel ways.  At first glance, our projects don't always jump out as being overly technical or software-driven, but that's sort of the idea: the technology enables the story, it doesn't overshadow it.  We're going to show a few of our favorite projects, talk about the technology that's driving them, and some of the challenges we ran into along the way."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Matthew Pegula ",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Matthew Pegula is a software engineer who has been lucky enough to blend his interests in technology, design, writing, and engineering into a career that encompasses them all.  He has a BS in computer science from Allegheny College and leads the Creative Technology team at Deeplocal."
+          },
+          "githubAccount": null,
+          "company": "Deeplocal",
+          "title": "Director of Creative Technology",
+          "twitterAccount": "https://twitter.com/pegula",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/matthewpegula.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": { "description": "Meet Matthew Pegula" }
+        },
+        { "hour": "18:40", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
