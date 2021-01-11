@@ -1,0 +1,109 @@
+{
+  "title": "How to build a community!",
+  "slug": "how-to-build-a-community",
+  "metaTags": {
+    "title": "How to build a community!",
+    "description": {
+      "description": "What is a developer community? Why are they so important? How can I build one? Have all your questions answered by the experts."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-community.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-01-21",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/275687118/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "How to build a community!",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "What is a developer community? Why are they so important? How do you become a part of one? How do you even build one? All of these questions will be answered during this episode and don't forget to bring your own questions which you can ask in the chat! We have our experts to answer all your questions!"
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Sherry List",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Sherry works as an Azure Developer Engagement Lead at Microsoft. For the past 15 years, she has worked as a web developer in 3 different countries. Apart from her everyday job, she is the Chairwoman of Hack Your Future Denmark, a co-organizer of ngCopenhagen and Women Techmakers Meetup groups, and a co-organizer of two angular conferences in Europe: ngVikings and ngSpain. She loves animals and supports various non-profit animal protection organizations and helps out whenever she can."
+          },
+          "githubAccount": null,
+          "company": "Microsoft",
+          "title": "Azure Developer Engagement Lead",
+          "twitterAccount": "https://twitter.com/sherrrylst",
+          "picture": {
+            "file": {
+              "url": "https://pbs.twimg.com/profile_images/1033941361890938881/Wqsu-kgL_400x400.jpg"
+            }
+          }
+        },
+        {
+          "name": "Andres-Leonardo Martínez-Ortiz",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Andres-Leonardo Martinez-Ortiz a.k.a almo is a member of the Google Engineering team, leading Google Cloud Ecosystem program in Europe. Based in Zurich, he drives the success of Google's developer products and the Open Web by creating a thriving ecosystem of developers. He meets with experts and partners in large companies, startups, universities and enterprises, promoting Open standards and Google technologies. He is also a member of IEEE, ACM, Linux Foundation and Computer Society."
+          },
+          "githubAccount": null,
+          "company": "Google",
+          "title": "DevRel Ecosystem PM",
+          "twitterAccount": "https://twitter.com/davilagrau",
+          "picture": {
+            "file": {
+              "url": "http://1.gravatar.com/avatar/310d8d5585fa0437e1ba8791818d60fb?s=400"
+            }
+          }
+        },
+        {
+          "name": "Ana Cidre",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Ana is a Developer Advocate at Auth0. She has a degree in Fine Arts and a Master in International Business Economics and Management, so she is not your usual software developer. She loves to code and she especially likes Angular. As a very active member of the community, she regularly organises meetups and conferences, like the amazing ngSpain. In Spain, where she’s currently based, she’s an organiser of GDG Vigo and the founder of GalsTech, a group for women in tech from Galicia. Because she is so passionate about diversity, she has also been named a Women Techmaker Ambassador."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/AnaCidre_",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/1k7BExAJewaNC1oQV4yFZk/f55785f1de6d1f18904ff3aaf723dfd1/AnaCidre.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": { "description": "How to build a community" }
+        },
+        { "hour": "18:40", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
