@@ -1,0 +1,85 @@
+{
+  "title": "Technical Principles of Developer Experience with Shodipo",
+  "slug": "technical-principles-dx",
+  "metaTags": {
+    "title": "Technical Principles of Developer Experience with Shodipo",
+    "description": {
+      "description": "Developer experience (DX) is similar to how you see and understand user experience (UX) but the difference is DX focus is strictly on developers who consume certain API services, SDKs, or other services owned by a company or an organization."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/dwane-hemmings.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-02-11",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/276102331/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Technical Principles of Developer Experience",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Developer experience (DX) is similar to how you see and understand user experience (UX) but the difference is DX focus is strictly on developers who consume certain API services, SDKs, or other services owned by a company or an organization. This talk will explore why developer experience matters in every company providing a technical service, what makes a great developer experience team, and the relationship between building a great developer experience flow in a company with the public. You will learn how Developer Experience increases product usage and how users can become advocates themselves for a product that has a great user-centric experience. Lastly, you will learn the role and what someone who is into creating a smooth and easy Developer Experience (DX) at a company does and the skills required to attract a similar role to you."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Shodipo Ayomide",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Shodipo Ayomide is a Developer Relations Manager at Stack Overflow with 9 years of experience and a track record in web & mobile applications development, community management and product design on a global scale. He is based in Lagos, Nigeria. Giving talks/workshops at developer conferences around the globe at React Atlanta, FutureSync Conference, VueJS Amsterdam, VueJS Toronto, APIDAYS Hong Kong, Frontend Love Conference Amsterdam among many, he is also one of the organizers of the Developer Circles Lagos from Facebook, unStack Africa, Open-Source Community Africa, and various other communities empowering Africa and the world. In addition, he is an Expert and Instructor at egghead.io Among his latest topics we can find: Progressive Imaging & Handling: React + WebPack, Fast and Furious with VueJS & WebPack, Getting up to Speed With Deno, Automating Workflow Processes Using GitHub Actions, Design from the Realm of Open-Source,Technical Principles to Developer Experience and others."
+          },
+          "githubAccount": null,
+          "company": "Stack Overflow",
+          "title": "Developer Relations Manager",
+          "twitterAccount": "https://twitter.com/developerayo",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/shodipo.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": {
+            "description": "Technical Principles of Developer Experience"
+          }
+        },
+        {
+          "hour": "18:35",
+          "description": {
+            "description": "Q&A with Shodipo Ayomide"
+          }
+        },
+        { "hour": "18:40", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
