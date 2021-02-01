@@ -71,6 +71,12 @@
             "description": "Let's build a Web Component using Open-WC"
           }
         },
+        {
+          "hour": "18:35",
+          "description": {
+            "description": "Q&A with Dwane Hemmings"
+          }
+        },
         { "hour": "18:40", "description": { "description": "Goodbye!" } }
       ],
       "type": "eventPageScheduleSection"
