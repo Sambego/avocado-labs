@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 import { BorderedContainer, Container } from '../components/styled.js'
 import ReadMoreLink from '../components/EventContent/ReadMoreLink'
 import { formatDate } from '../modules/date'
-import { toSnakeCase } from '../utilities/toSnakeCase'
+import { slugify } from '../utilities/slugify'
 
 import {
   Grid,
@@ -67,8 +67,8 @@ const RecordingsPage = ({ data, location }: RecordingsPage) => {
                   </time>
                   <h3> {video.node.title} </h3>
                   <ReadMoreLink
-                    Href={`/recordings/${encodeURIComponent(
-                      toSnakeCase(video.node.title)
+                    Href={`/recordings/${(
+                      slugify(video.node.title)
                     )}`}
                     center
                   >
