@@ -1,0 +1,85 @@
+{
+  "title": "Why Actively joining a developer community is essential",
+  "slug": "actively-join-a-developer-community",
+  "metaTags": {
+    "title": "Actively joining a developer community",
+    "description": {
+      "description": "Building or joining a developer community is one good way to grow fast and get exposed to opportunities. In this talk I will like to share my personal experience in  developer communities and how it has been of great help."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-opene-victoria-2.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-02-25",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/276102223/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Why Actively joining a developer community is essential",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Building or joining a developer community is one good way to grow fast and get exposed to opportunities. In this talk I will like to share my personal experience in  developer communities and how it has been of great help."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Victoria Opene",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "I am an aspiring computer Engineer who is into web, technical writing, digital marketing, product, and building developer communities."
+          },
+          "githubAccount": null,
+          "company": "Facebook developer circles Benin",
+          "title": "Community Lead",
+          "twitterAccount": "https://twitter.com/lifelongdev",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/opene-victoria.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": {
+            "description": "Why Actively joining a developer community is essential"
+          }
+        },
+        {
+          "hour": "18:35",
+          "description": {
+            "description": "Q&A with Opene Victoria"
+          }
+        },
+        { "hour": "18:40", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
