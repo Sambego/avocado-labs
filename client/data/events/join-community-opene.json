@@ -1,5 +1,5 @@
 {
-  "title": "Why Actively joining a developer community is essential",
+  "title": "Why actively joining a developer community is essential",
   "slug": "actively-join-a-developer-community",
   "metaTags": {
     "title": "Actively joining a developer community",
@@ -24,7 +24,7 @@
       "title": "Talk",
       "overviewSubsections": [
         {
-          "title": "Why Actively joining a developer community is essential",
+          "title": "Why actively joining a developer community is essential",
           "description": {
             "childMarkdownRemark": {
               "rawMarkdownBody": "Building or joining a developer community is one good way to grow fast and get exposed to opportunities. In this talk I will like to share my personal experience in  developer communities and how it has been of great help."
@@ -68,7 +68,7 @@
         {
           "hour": "18:05",
           "description": {
-            "description": "Why Actively joining a developer community is essential"
+            "description": "Why actively joining a developer community is essential"
           }
         },
         {
