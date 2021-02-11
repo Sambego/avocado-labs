@@ -28,12 +28,11 @@ const EventsPage = ({ data, location }: EventsPage) => {
   const siteMetadata = data.site.siteMetadata
   const events = data.allEventsJson.edges
   const today = new Date();
-  const tomorrow = new Date(today.getDate()+1)
-  const yesterday = new Date(today.getDate()-1)
+  today.setHours(0,0,0,0);
   const upcoming = events.filter(
-    (event) => new Date(event.node.eventDate) >= tomorrow
+    (event) => new Date(event.node.eventDate) >= today
   )
-  const past = events.filter((event) => new Date(event.node.eventDate) <= yesterday)
+  const past = events.filter((event) => new Date(event.node.eventDate) < today)
   return (
     <Layout location={location}>
       <Helmet title={siteMetadata.title} />
