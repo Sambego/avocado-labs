@@ -1,0 +1,85 @@
+{
+  "title": "8 healthy recipes using Angular and RxJS",
+  "slug": "healthy-recipes-using-angular-and-rxJS",
+  "metaTags": {
+    "title": "8 healthy recipes using Angular and RxJS",
+    "description": {
+      "description": "In this talk I will walk you through some common use cases in an Angular application that you can implement at the lowest cost using RxJS. There is also a recipe for performant apps ;) "
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-lamis-chebbi.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-03-04",
+  "navigationTime": "18:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 18:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/276397184/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "8 healthy recipes using Angular and RxJS",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "In this talk I will walk you through some common use cases in an Angular application that you can implement at the lowest cost using RxJS. There is also a recipe for performant apps ;)"
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Lamis Chebbi",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Lamis is a Google Developer Expert for Angular. She's an enthusiastic software engineer with a strong passion for the modern web. She's the founder of Angular Tunisia, a member of WWCode Community, speaker, content creator, and a trainer."
+          },
+          "githubAccount": null,
+          "company": "",
+          "title": "Senior Software engineer",
+          "twitterAccount": "https://twitter.com/LamisChebbi",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/lamis-chebbi"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "18:05",
+          "description": {
+            "description": "8 healthy recipes using Angular and RxJS"
+          }
+        },
+        {
+          "hour": "18:35",
+          "description": {
+            "description": "Q&A with Lamis Chebbi"
+          }
+        },
+        { "hour": "18:40", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
