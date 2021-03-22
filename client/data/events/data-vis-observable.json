@@ -6,7 +6,7 @@
     "description": {
       "description": "In this talk I will walk you through some common use cases in an Angular application that you can implement at the lowest cost using RxJS. There is also a recipe for performant apps ;) "
     },
-    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-anjana.png",
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-anjana.jpg",
     "twitterSite": "@Avocado_Labs",
     "twitterCreator": "@Avocado_Labs"
   },
