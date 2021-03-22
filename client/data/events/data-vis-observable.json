@@ -4,7 +4,7 @@
   "metaTags": {
     "title": "Visualizing Open-Source Code, Contributions, & Communities",
     "description": {
-      "description": "In this talk I will walk you through some common use cases in an Angular application that you can implement at the lowest cost using RxJS. There is also a recipe for performant apps ;) "
+      "description": "As developers we're used to looking at open-source code all day, but how well do we really see what's going on with our codebases, contributions, & communities? In this talk we'll explore some ways that data visualization can help us better understand & make decisions about our open-source projects. We'll learn how to create insightful visualizations of Github data using Observable, which lets us quickly create interactive prototypes by forking & remixing visualizations from the community to adapt them to our projects."
     },
     "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-anjana.jpg",
     "twitterSite": "@Avocado_Labs",
