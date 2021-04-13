@@ -1,10 +1,10 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const Container = styled.div `
+export const Container = styled.div`
   max-width: 100%;
   padding: 0 2rem;
-  margin: 0 auto;
+  margin: 4rem auto;
 
   ${media.lg`
     max-width: 102rem;
@@ -93,7 +93,7 @@ export const HeaderNav = styled.nav`
 export const Button = styled.button`
   display: block;
   padding: 8px 10px;
-  
+
   border: 1px solid transparent;
   border-radius: 4px;
   font-size: 1.3rem;

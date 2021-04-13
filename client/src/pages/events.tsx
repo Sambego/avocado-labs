@@ -11,12 +11,9 @@ import {
   MediaContent,
   Title,
   Subtitle,
-  ModalTitle,
 } from '../components/styled.js'
 import EventGrid from '../components/EventContent/EventsGrid'
 import theme from '../../data/theme.json'
-import TeamItem from '../components/HomeContent/TeamItem'
-
 type EventsPage = {
   data: any
   location: string
@@ -27,11 +24,11 @@ const heroBackground =
 const heroImage =
   '//images.ctfassets.net/kbkgmx9upatd/4kBiKcxdsFx43DYA6hOPXy/be322ed50aa235e7b80236992393b1a6/Logo_Black-Sticker_Vertical2.png'
 
-const HomePage = ({ data, location }: EventsPage) => {
+const EventsPage = ({ data, location }: EventsPage) => {
   const siteMetadata = data.site.siteMetadata
   const events = data.allEventsJson.edges
-  const today = new Date()
-  today.setHours(0, 0, 0, 0)
+  const today = new Date();
+  today.setHours(0,0,0,0);
   const upcoming = events.filter(
     (event) => new Date(event.node.eventDate) >= today
   )
@@ -90,57 +87,17 @@ const HomePage = ({ data, location }: EventsPage) => {
             <EventGrid events={upcoming} theme={theme} />
           </>
         )}
+        <h2>Past</h2>
+        <EventGrid events={past} past theme={theme} />
       </Container>
-      <HeroStyled bgImage={heroBackground}>
-        <Container>
-          <Title>Meet the Auth0 Developer Relations Team</Title>
-          <InnerContent>
-            <TeamItem
-              name="Ana Cidre"
-              picture="https://pbs.twimg.com/profile_images/1236034260177481728/dqFx0Nty_400x400.jpg"
-              twitter="https://twitter.com/AnaCidre_"
-            />
-            <TeamItem
-              name="Sam Bellen"
-              picture="https://pbs.twimg.com/profile_images/999601981009248256/rwyZINc0_400x400.jpg"
-              twitter="https://twitter.com/sambego"
-            />
-            <TeamItem
-              name="James Quick"
-              picture="https://pbs.twimg.com/profile_images/1228449356426219521/jIN5Ci7H_400x400.jpg"
-              twitter="https://twitter.com/jamesqquick"
-            />
-            <TeamItem
-              name="Jessica Temporal"
-              picture="https://pbs.twimg.com/profile_images/1368916210419699717/6mi49p88_400x400.jpg"
-              twitter="https://twitter.com/jesstemporal"
-            />
-            <TeamItem
-              name="Ben Dechrai"
-              picture="https://pbs.twimg.com/profile_images/1362954102049705986/70eo71xe_400x400.jpg"
-              twitter="https://twitter.com/bendechrai"
-            />
-            <TeamItem
-              name="Tyler Clark"
-              picture="https://pbs.twimg.com/profile_images/1034092696711847938/AMsDvqAy_400x400.jpg"
-              twitter="https://twitter.com/iamtylerwclark"
-            />
-            <TeamItem
-              name="Sam Julien"
-              picture="https://pbs.twimg.com/profile_images/1340055522377003008/PhDtP3YS_400x400.jpg"
-              twitter="https://twitter.com/samjulien"
-            />
-          </InnerContent>
-        </Container>
-      </HeroStyled>
     </Layout>
   )
 }
 
-export default HomePage
+export default EventsPage
 
 export const pageQuery = graphql`
-  query HomeQuery {
+  query EventsQuery {
     site {
       siteMetadata {
         title
