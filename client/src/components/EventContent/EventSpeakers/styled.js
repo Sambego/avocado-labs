@@ -1,9 +1,9 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const SpeakersStyled = styled.section ``
+export const SpeakersStyled = styled.section``
 
-export const Container = styled.div `
+export const Container = styled.div`
   max-width: 100%;
   padding: 0 2rem;
   margin: 0 auto;

@@ -15,13 +15,13 @@ const EventHeader = () => {
     <Header>
       <Container>
         <InnerHeader>
-          <LogoLink href="https://auth0.com/developers/">
-            <PoweredBy> Powered by </PoweredBy> <WhiteLogo />
-          </LogoLink>
           <HeaderNav>
             <ul>
               <li>
-                <a href="/"> Events </a>
+                <a href="/"> Home </a>
+              </li>
+              <li>
+                <a href="/events"> Events </a>
               </li>
               <li>
                 <a href="/recordings"> Recordings </a>
@@ -31,6 +31,9 @@ const EventHeader = () => {
               </li>
             </ul>
           </HeaderNav>
+          <LogoLink href="https://auth0.com/developers/">
+            <PoweredBy> Powered by </PoweredBy> <WhiteLogo />
+          </LogoLink>
         </InnerHeader>
       </Container>
     </Header>

@@ -1,7 +1,7 @@
 import styled, { keyframes } from 'styled-components'
 import { media } from '../utilities/style-utils-new'
 
-export const FadeIn = keyframes `
+export const FadeIn = keyframes`
   0% {
     transform: translateY(2rem);
     opacity: 0;
@@ -13,7 +13,7 @@ export const FadeIn = keyframes `
   }
 `
 
-export const HeroStyled = styled.section `
+export const HeroStyled = styled.section`
   position: relative;
   counter-reset: section;
   padding-top: 8rem;
@@ -36,7 +36,7 @@ export const HeroStyled = styled.section `
 
 export const Container = styled.div`
   max-width: 100%;
-  margin: 0 auto;
+  margin: 4rem auto;
   padding: 0 2rem;
 
   ${media.lg`
@@ -46,11 +46,13 @@ export const Container = styled.div`
 
 export const InnerContent = styled.div`
   display: flex;
-  flex-direction: column;
   padding: 3rem 0;
   text-align: center;
   opacity: 0;
   animation: ${FadeIn} 1s cubic-bezier(0.4, 0, 0.2, 1) 0.35s forwards;
+  flex-wrap: wrap;
+  flex-flow: row;
+  justify-content: space-between;
 
   ${media.md`
     flex-direction: row;
