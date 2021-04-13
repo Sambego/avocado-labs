@@ -46,15 +46,32 @@ export const Container = styled.div`
 
 export const InnerContent = styled.div`
   display: flex;
+  flex-direction: column;
+  padding: 3rem 0;
+  text-align: center;
+  opacity: 0;
+  animation: ${FadeIn} 1s cubic-bezier(0.4, 0, 0.2, 1) 0.35s forwards;
+
+  ${media.md`
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5rem 0 8rem;
+    text-align: left;
+  `}
+`
+export const InnerContentRow = styled.div`
+  display: flex;
   padding: 3rem 0;
   text-align: center;
   opacity: 0;
   animation: ${FadeIn} 1s cubic-bezier(0.4, 0, 0.2, 1) 0.35s forwards;
   flex-wrap: wrap;
-  flex-flow: row;
+  flex-flow: column;
   justify-content: space-between;
 
   ${media.md`
+    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
