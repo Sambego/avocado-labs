@@ -1,0 +1,79 @@
+{
+  "title": "Meet Jessica Temporal",
+  "slug": "meet-jessica-temporal",
+  "metaTags": {
+    "title": "Meet Jessica Temporal",
+    "description": {
+      "description": "In this episode we are going to get to know Jessica Temporal, our new Developer Advocate at Auth0! We will talk about Jessica’s efforts in the Python community and what she has achieved in Brazil. Then we will look at her passion about making the Python community a more diverse and welcoming place along with Pyladies. We’ll also see how Jessica got into Tech and learn more about her journey."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-jessica.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-04-15",
+  "navigationTime": "16:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 16:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/276397184/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Visualizing Open-Source Code, Contributions, & Communities",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "As developers we're used to looking at open-source code all day, but how well do we really see what's going on with our codebases, contributions, & communities? In this talk we'll explore some ways that data visualization can help us better understand & make decisions about our open-source projects. We'll learn how to create insightful visualizations of Github data using Observable, which lets us quickly create interactive prototypes by forking & remixing visualizations from the community to adapt them to our projects."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Jessica Temporal",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Jessica Temporal is a Senior Developer Advocate at Auth0 and co-founder of the first Brazilian data science podcast called Pizza de Dados. She’s also a part of DataBootcamp and LinkedIn Learning instructors teams. Jessica helped develop the AI that identifies possible unlawful expenses from Brazilian politicians. She is part of the Pyladies initiative that works to improve diversity and inclusion in technology. In her free time, she likes to knit, play video games, and tries to learn to play the keyboard."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/AnjanaVakil",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/jessica-temporal.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "16:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "16:05",
+          "description": {
+            "description": "Panel discussion with Jessica Temporal"
+          }
+        },
+        { "hour": "16:45", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
