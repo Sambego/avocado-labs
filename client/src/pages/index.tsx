@@ -7,6 +7,7 @@ import {
   HeroStyled,
   Container,
   InnerContent,
+  InnerContentRow,
   TextContent,
   MediaContent,
   Title,
@@ -94,7 +95,7 @@ const HomePage = ({ data, location }: EventsPage) => {
       <HeroStyled bgImage={heroBackground}>
         <Container>
           <Title>Meet the Auth0 Developer Relations Team</Title>
-          <InnerContent>
+          <InnerContentRow>
             <TeamItem
               name="Ana Cidre"
               picture="https://pbs.twimg.com/profile_images/1236034260177481728/dqFx0Nty_400x400.jpg"
@@ -130,7 +131,7 @@ const HomePage = ({ data, location }: EventsPage) => {
               picture="https://pbs.twimg.com/profile_images/1340055522377003008/PhDtP3YS_400x400.jpg"
               twitter="https://twitter.com/samjulien"
             />
-          </InnerContent>
+          </InnerContentRow>
         </Container>
       </HeroStyled>
     </Layout>
