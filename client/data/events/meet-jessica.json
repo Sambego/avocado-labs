@@ -27,7 +27,7 @@
           "title": "Meet Jessica Temporal",
           "description": {
             "childMarkdownRemark": {
-              "rawMarkdownBody": "As developers we're used to looking at open-source code all day, but how well do we really see what's going on with our codebases, contributions, & communities? In this talk we'll explore some ways that data visualization can help us better understand & make decisions about our open-source projects. We'll learn how to create insightful visualizations of Github data using Observable, which lets us quickly create interactive prototypes by forking & remixing visualizations from the community to adapt them to our projects."
+              "rawMarkdownBody": "In this episode we are going to get to know Jessica Temporal, our new Developer Advocate at Auth0! We will talk about Jessica’s efforts in the Python community and what she has achieved in Brazil. Then we will look at her passion about making the Python community a more diverse and welcoming place along with Pyladies. We’ll also see how Jessica got into Tech and learn more about her journey."
             }
           },
           "image": {
