@@ -113,7 +113,7 @@ const HomePage = ({ data, location }: EventsPage) => {
             />
             <TeamItem
               name="Jessica Temporal"
-              picture="https://pbs.twimg.com/profile_images/1368916210419699717/6mi49p88_400x400.jpg"
+              picture="https://pbs.twimg.com/profile_images/1382684688096112641/r7sn1MLr_400x400.jpg"
               twitter="https://twitter.com/jesstemporal"
             />
             <TeamItem
