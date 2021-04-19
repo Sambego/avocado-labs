@@ -1,0 +1,79 @@
+{
+  "title": "Meet Santosh Yadav",
+  "slug": "meet-santosh-yadav",
+  "metaTags": {
+    "title": "Meet Santosh Yadav",
+    "description": {
+      "description": "Santosh Yadav is an incredibly active community member and in this episode we're going to get to know all about Santosh, he's journey into Tech and the developer community. We'll also get an inside look at his community efforts such as 'Tech Talks with Santosh' and his open source contributions. Don't forget to bring your questions for Santosh!"
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-santosh.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-04-22",
+  "navigationTime": "16:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 16:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/277661156/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Meet Santosh Yadav",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Santosh Yadav is an incredibly active community member and in this episode we're going to get to know all about Santosh, he's journey into Tech and the developer community. We'll also get an inside look at his community efforts such as 'Tech Talks with Santosh' and his open source contributions. Don't forget to bring your questions for Santosh!"
+            }
+          },
+          "image": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/6lpY0TmKsNO3zwpa01kwGe/8b91a26994da3e822ccdadc5acfdf4f5/avocado_entero_2.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Santosh Yadav",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Santosh is a GDE for Angular, GitHub Star, and an Auth0 Ambassador, he loves contributing to Angular and NgRx. He works as a software consultant and writes for indepth.dev. He is also the author of the Ngx-Builders package and part of NestJsAddOns core Team. He is also running Tech Talks with Santosh talk show, where he invites the industry experts to discuss different technologies."
+          },
+          "githubAccount": null,
+          "company": "",
+          "title": "Software Consultant",
+          "twitterAccount": "https://twitter.com/SantoshYadavDev",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/santosh-yadav.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "16:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "16:05",
+          "description": {
+            "description": "Panel discussion with Santosh Yadav"
+          }
+        },
+        { "hour": "16:45", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
