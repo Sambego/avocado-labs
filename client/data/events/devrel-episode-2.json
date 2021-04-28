@@ -1,33 +1,33 @@
 {
-  "title": "Meet the Auth0 DevRel team",
-  "slug": "meet-the-auth0-devrel-team",
+  "title": "Chill with the Auth0 DevRel team",
+  "slug": "chill-with-the-auth0-devrel-team",
   "metaTags": {
-    "title": "Meet the Auth0 DevRel team",
+    "title": "Chill with the Auth0 DevRel team",
     "description": {
       "description": "Come and meet the Auth0 Developer Relations team and ask all your questions about DevRel and how to become one!"
     },
-    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/devrel-episode.jpg",
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/devrel-avocado-2.jpg",
     "twitterSite": "@Avocado_Labs",
     "twitterCreator": "@Avocado_Labs"
   },
-  "eventDate": "2020-12-14",
-  "navigationTime": "18:00 CET",
+  "eventDate": "2021-04-29",
+  "navigationTime": "16:30 CET",
   "navigationLocation": "Online",
   "heroTitle": "Avocado Labs - Online talks",
-  "heroButtonText": "Join us at 18:00 CET",
-  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/275099304/",
+  "heroButtonText": "Join us at 16:30 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/277847967/",
   "heroDescription": {
-    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+    "heroDescription": "Do you have questions about Dev Rel, Developer Relations, Developer Advocacy, Developer avocados? Then come and hang out with the Auth0 DevRel team to know more about what our day-to-day looks like and what cool projects and initiatives we are all working on!"
   },
   "parts": [
     {
       "title": "Talk",
       "overviewSubsections": [
         {
-          "title": "Meet the Auth0 DevRel Team!",
+          "title": "Chill with the Auth0 DevRel team",
           "description": {
             "childMarkdownRemark": {
-              "rawMarkdownBody": "Dev Rel, Developer Relations, Developer Advocacy, Developer avocado… What does it all mean? In this episode you will have the chance to connect and ask your questions about all of this to the very own Auth0 Dev Rel team. Maybe you just want to know what we do, or how we got here. Maybe you want to learn how to get into Dev Rel. Or maybe you just want to meet us and say hi! Whatever your reason, don't miss this episode where we will also be hosting a secret santa live! Why? Well, that way you can also get to know us better by seeing what we would buy each other this season. "
+              "rawMarkdownBody": "Do you have questions about Dev Rel, Developer Relations, Developer Advocacy, Developer avocados? Then come and hang out with the Auth0 DevRel team to know more about what our day-to-day looks like and what cool projects and initiatives we are all working on!"
             }
           },
           "image": {
@@ -40,7 +40,7 @@
       "type": "eventPageOverviewSection"
     },
     {
-      "title": "Speaker",
+      "title": "Panel",
       "speakers": [
         {
           "name": "James Quick",
@@ -91,22 +91,6 @@
           }
         },
         {
-          "name": "Sam Julien",
-          "linkedInAccount": null,
-          "intro": {
-            "intro": "Sam Julien is a Sr. Developer Advocate Engineer at Auth0 and a Google Developer Expert for Angular and Web Technologies. He’s also an instructor for egghead and the author of Getting Started in Developer Relations and the Developer Microskills newsletter. His favorite thing in the world is sitting outside drinking good scotch next to a fire he built himself. You can find more of Sam’s work at samjulien.com."
-          },
-          "githubAccount": null,
-          "company": "Auth0",
-          "title": "Senior Developer Advocate",
-          "twitterAccount": "https://twitter.com/samjulien",
-          "picture": {
-            "file": {
-              "url": "https://pbs.twimg.com/profile_images/1328132127846670337/eeWwPzQe_400x400.jpg"
-            }
-          }
-        },
-        {
           "name": "Tyler Clark",
           "linkedInAccount": null,
           "intro": {
@@ -121,22 +105,6 @@
               "url": "https://cdn.auth0.com/blog/auziros/tyler-clark.jpeg"
             }
           }
-        },
-        {
-          "name": "Kristy Gutierrez ",
-          "linkedInAccount": null,
-          "intro": {
-            "intro": "Kristy is a Project Manager at Auth0. New to working in the tech world, Kristy's background is rooted in outdoor education and international adventure travel. While working at Auth0 may sound like an odd fit at first, Kristy thrives on managing complex logistics, organizing information, and solving problems. She finds the behind-the-scenes work of building more efficient processes for things like our ambassador program and events very familiar turf. When she's not tidying up her to-do list, she loves to cook, kayak, and mountain bike."
-          },
-          "githubAccount": null,
-          "company": "Auth0",
-          "title": "Product Management Consultant",
-          "twitterAccount": "https://twitter.com/",
-          "picture": {
-            "file": {
-              "url": "https://pbs.twimg.com/profile_images/1305222402201120768/uhKb7fHS_400x400.jpg"
-            }
-          }
         }
       ],
       "type": "eventPageSpeakersSection"
@@ -144,16 +112,13 @@
     {
       "title": "Schedule",
       "schedule": [
-        { "hour": "18:00", "description": { "description": "Welcome!" } },
+        { "hour": "16:30", "description": { "description": "Welcome!" } },
         {
-          "hour": "18:05",
+          "hour": "16:35",
           "description": { "description": "Meet the Auth0 DevRel Team" }
         },
-        {
-          "hour": "18:40",
-          "description": { "description": "Secret Santa" }
-        },
-        { "hour": "19:00", "description": { "description": "Goodbye!" } }
+
+        { "hour": "17:05", "description": { "description": "Goodbye!" } }
       ],
       "type": "eventPageScheduleSection"
     }
