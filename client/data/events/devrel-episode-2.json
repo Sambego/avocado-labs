@@ -105,6 +105,22 @@
               "url": "https://cdn.auth0.com/blog/auziros/tyler-clark.jpeg"
             }
           }
+        },
+        {
+          "name": "Jessica Temporal",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Jessica Temporal is a Senior Developer Advocate at Auth0 and co-founder of the first Brazilian data science podcast called Pizza de Dados. She’s also a part of DataBootcamp and LinkedIn Learning instructors teams. Jessica helped develop the AI that identifies possible unlawful expenses from Brazilian politicians. She is part of the Pyladies initiative that works to improve diversity and inclusion in technology. In her free time, she likes to knit, play video games, and tries to learn to play the keyboard."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/jesstemporal",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/jessica-temporal.jpg"
+            }
+          }
         }
       ],
       "type": "eventPageSpeakersSection"
