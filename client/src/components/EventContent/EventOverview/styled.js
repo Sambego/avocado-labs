@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const Container = styled.div `
+export const Container = styled.div`
   max-width: 100%;
   padding: 0 2rem;
   margin: 0 auto;
@@ -39,6 +39,7 @@ export const Article = styled.article`
   ${media.md`
     grid-template-columns: 380px auto;
     grid-column-gap: 100px;
+    align-items: center;
 
     &:nth-child(even) {
       direction: rtl;

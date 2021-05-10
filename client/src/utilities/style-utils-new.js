@@ -1,4 +1,4 @@
-import styled, { css, keyframes } from 'styled-components';
+import styled, { css, keyframes } from 'styled-components'
 
 const sizes = {
   sm: '(min-width: 600px)',
@@ -6,7 +6,7 @@ const sizes = {
   lg: '(min-width: 1200px)',
   xl: '(min-width: 1500px)',
   xxl: '(min-width: 1800px)',
-};
+}
 
 export const theme = {
   dark: {
@@ -26,21 +26,20 @@ export const theme = {
   defaultLinkColor: '#0D96C6',
   defaultLinkBg: 'rgba(0, 0, 0, 0.05)',
   defaultLinkBgHover: 'rgba(0, 0, 0, 0.1)',
-};
+}
 
-export const getValueFromTheme = value => ({ dark }) => dark
-  ? theme.dark[value]
-  : theme.light[value];
+export const getValueFromTheme = (value) => ({ dark }) =>
+  dark ? theme.dark[value] : theme.light[value]
 
 export const media = Object.keys(sizes).reduce((accumulator, label) => {
-  const query = sizes[label];
+  const query = sizes[label]
   accumulator[label] = (...args) => css`
     @media screen and ${query} {
       ${css(...args)}
     }
-  `;
-  return accumulator;
-}, {});
+  `
+  return accumulator
+}, {})
 
 export const grid = css`
   width: 100%;
@@ -53,12 +52,12 @@ export const grid = css`
     grid-gap: 12.6rem;
     padding: 0;
   `}
-`;
+`
 
 export const SlideInTop = keyframes`
     0% { max-height: 0px; }
     100% { max-height: 500px; }
-`;
+`
 
 export const Navigation = styled.nav`
   grid-template-columns: 1fr;
@@ -99,7 +98,7 @@ export const Navigation = styled.nav`
     position: relative;
     }
   `}
-`;
+`
 
 export const Page = styled.div`
   width: 100%;
@@ -169,15 +168,14 @@ export const Page = styled.div`
     max-width: 90%;
   `}
   }
-`;
+`
 
-export const Content = styled.div`
-`;
+export const Content = styled.div``
 
 export const Container = styled.div`
   display: grid;
   height: inherit;
-`;
+`
 
 export const NavListTitle = styled.h3`
   font-weight: 600 !important;
@@ -187,8 +185,8 @@ export const NavListTitle = styled.h3`
   letter-spacing: 0.135rem !important;
   margin: 0 0 1.6rem 3.2rem !important;
   color: #606060;
-`;
+`
 export const NavList = styled.ul`
   display: grid;
   padding-inline-start: 0;
-`;
+`

@@ -1,33 +1,33 @@
 {
-    "highlightColor": "#08BD6E",
-    "name": "Avocado Labs",
-    "backgroundImage": {
-        "description": "Avocado Labs Background",
-        "file": {
-            "url": "//images.ctfassets.net/kbkgmx9upatd/EdgWFyaNxF6DdOu12Ti36/da9f0e1b0c50b90cacdccd43d091da47/Background.png",
-            "fileName": "Background.png"
-        },
-        "title": "Avocado Labs Background"
+  "highlightColor": "#1bc99f",
+  "name": "Avocado Labs",
+  "backgroundImage": {
+    "description": "Avocado Labs Background",
+    "file": {
+      "url": "https://cdn.auth0.com/blog/avocado-labs/avocado-background-home.jpg",
+      "fileName": "Background.png"
     },
-    "badgeImage": {
-        "description": "Avocado Labs Logo Black",
-        "title": "Avocado Labs Logo Black",
-        "file": {
-            "url": "//images.ctfassets.net/kbkgmx9upatd/4kBiKcxdsFx43DYA6hOPXy/be322ed50aa235e7b80236992393b1a6/Logo_Black-Sticker_Vertical2.png",
-            "fileName": "Logo_Black-Sticker_Vertical2.png"
-        }
-    },
-    "buildingImage": {
-        "description": "Avocado Labs Mascot",
-        "title": "Avocado Labs Mascot",
-        "file": {
-            "url": "//images.ctfassets.net/kbkgmx9upatd/4A0BHVm2JhHZ7JHZ0MjcnC/f70f1889497549597b361b4455384162/Avocado-1.svg"
-        }
-    },
-    "indexCard": {
-        "description": "Index Card Avocado Labs",
-        "file": {
-            "url": "//images.ctfassets.net/kbkgmx9upatd/3eWKpOamfWT4VCnHeLa0w8/1f0dac93ddf2726b7da82dfc385f261d/Logo_Square__1_.png"
-        }
+    "title": "Avocado Labs Background"
+  },
+  "badgeImage": {
+    "description": "Avocado Labs Mascot",
+    "title": "Avocado Labs Logo Black",
+    "file": {
+      "url": "https://cdn.auth0.com/blog/avocado-labs/avocado-hello.png",
+      "fileName": "Logo_Black-Sticker_Vertical2.png"
     }
+  },
+  "buildingImage": {
+    "description": "Avocado Labs Mascot",
+    "title": "Avocado Labs Mascot",
+    "file": {
+      "url": "https://cdn.auth0.com/blog/avocado-labs/auth0-avocado.png"
+    }
+  },
+  "indexCard": {
+    "description": "Index Card Avocado Labs",
+    "file": {
+      "url": "https://cdn.auth0.com/blog/avocado-labs/al-sqaure-dark.jpg"
+    }
+  }
 }

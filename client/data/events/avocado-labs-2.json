@@ -1,0 +1,95 @@
+{
+  "title": "Avocado Labs 2.0",
+  "slug": "avocado-labs-2",
+  "metaTags": {
+    "title": "Avocado Labs 2.0",
+    "description": {
+      "description": "In this episode we are going to get to know Jessica Temporal, our new Developer Advocate at Auth0! We will talk about Jessica’s efforts in the Python community and what she has achieved in Brazil. Then we will look at her passion about making the Python community a more diverse and welcoming place along with Pyladies. We’ll also see how Jessica got into Tech and learn more about her journey."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/avocado-jessica.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-05-20",
+  "navigationTime": "16:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 16:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/277539675/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Avocado Labs 2.0",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Come and learn about Avocado Labs 2.0!! We have a lot of stuff in store for you and we can't wait to share it all with you!"
+            }
+          },
+          "image": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/avocado-dark-logo.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Sam Bellen",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "I'm a Google Developer Expert who works as a Senior Developer Advocate Engineer at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.\nAfter office hours I like to play around with the web-audio API, and other \"exotic\" browser APIs. One of my side projects is a library to add audio effects to an audio input using JavaScript."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/sambego",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/35ccsiRzGpONMLcUojZ6yD/e3397854fde5be8318c69ef3064a0750/Sam_Bellen.png"
+            }
+          }
+        },
+        {
+          "name": "Ana Cidre",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Ana is a Developer Advocate at Auth0. She has a degree in Fine Arts and a Master in International Business Economics and Management, so she is not your usual software developer. She loves to code and she especially likes Angular. As a very active member of the community, she regularly organises meetups and conferences, like the amazing ngSpain. In Spain, where she’s currently based, she’s an organiser of GDG Vigo and the founder of GalsTech, a group for women in tech from Galicia. Because she is so passionate about diversity, she has also been named a Women Techmaker Ambassador."
+          },
+          "githubAccount": null,
+          "company": "Auth0",
+          "title": "Senior Developer Advocate",
+          "twitterAccount": "https://twitter.com/AnaCidre_",
+          "picture": {
+            "file": {
+              "url": "//images.ctfassets.net/kbkgmx9upatd/1k7BExAJewaNC1oQV4yFZk/f55785f1de6d1f18904ff3aaf723dfd1/AnaCidre.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "16:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "16:05",
+          "description": {
+            "description": "Avocado Labs 2.0 - what's in store"
+          }
+        },
+        { "hour": "16:45", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}

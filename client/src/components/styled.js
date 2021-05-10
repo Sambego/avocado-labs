@@ -118,7 +118,7 @@ export const Title = styled.h1`
 `
 
 export const Subtitle = styled.div`
-  margin: 0 0 6rem;
+  margin: 4rem 0 6rem 0;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.6;
@@ -175,7 +175,7 @@ export const Input = styled.input`
   &:hover,
   &:focus,
   &:active {
-    boder-color: #08bd6e;
+    boder-color: #1bc99f;
   }
 `
 
@@ -185,34 +185,34 @@ export const InputCheck = styled.input`
 `
 
 export const Button = styled.button`
-  display: block;
-  width: 100%;
-  padding: 8px 10px;
+         display: block;
+         width: 100%;
+         padding: 8px 10px;
 
-  border: 1px solid transparent;
-  border-radius: 4px;
-  font-size: 1.3rem;
-  font-weight: 600;
-  line-height: 1.4;
-  letter-spacing: 1.1px;
-  text-align: center;
-  text-transform: uppercase;
-  color: #ffffff;
-  transition: all 0.25s ease-in;
-  &:hover,
-  &:focus,
-  &:active {
-    border-color: #000000;
-    background-color: #000000;
-    color: #ffffff;
-    transition: all 0.25s ease-out;
-  }
-  ${media.md`
+         border: 1px solid transparent;
+         border-radius: 4px;
+         font-size: 1.3rem;
+         font-weight: 600;
+         line-height: 1.4;
+         letter-spacing: 1.1px;
+         text-align: center;
+         text-transform: uppercase;
+         color: #ffffff;
+         transition: all 0.25s ease-in;
+         &:hover,
+         &:focus,
+         &:active {
+           border-color: #1bc99f;
+           background-color: #1bc99f;
+           color: #ffffff;
+           transition: all 0.25s ease-out;
+         }
+         ${media.md`
     display: initial;
   `}
 
-  background-color: #08BD6E;
-`
+         background-color: #08BD6E;
+       `
 
 export const ModalBackground = styled.div`
   position: fixed;
@@ -225,10 +225,10 @@ export const ModalBackground = styled.div`
 
 export const BorderedContainer = styled.div`
   padding: 1.5rem 0;
-  border-top: 18rem solid #00b96e;
+  border-top: 18rem solid #000;
 
   ${media.md`
-         border-top: 13rem solid #00b96e;
+         border-top: 13rem solid #000;
   `}
 `
 

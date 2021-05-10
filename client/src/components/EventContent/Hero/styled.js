@@ -1,7 +1,7 @@
 import styled, { keyframes } from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const FadeIn = keyframes `
+export const FadeIn = keyframes`
   0% {
     transform: translateY(2rem);
     opacity: 0;
@@ -13,7 +13,7 @@ export const FadeIn = keyframes `
   }
 `
 
-export const HeroStyled = styled.section `
+export const HeroStyled = styled.section`
   position: relative;
   counter-reset: section;
   padding-top: 8rem;
@@ -176,7 +176,7 @@ export const Input = styled.input`
   &:hover,
   &:focus,
   &:active {
-    boder-color: #08bd6e;
+    boder-color: #1bc99f;
   }
 `
 
