@@ -87,6 +87,7 @@ export const HeaderNav = styled.nav`
 
   a {
     color: white;
+font-size: 16px;
     &:hover {
       color: #1bc99f;
     }
