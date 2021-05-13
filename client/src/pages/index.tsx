@@ -69,9 +69,9 @@ const HomePage = ({ data, location }: EventsPage) => {
             <TextContent>
               <img src={wordMark} alt="Avocado Labs - Online Talks" />
               <Subtitle>
-                A welcoming space to learn about all things web developement. We
+                A welcoming space to learn about all things web development. We
                 have 3 tracks! <br />- The learners track, focused on learning
-                about new technoliges.
+                about new technologies.
                 <br />- The Ambassadors track, to learn about identity and
                 security.
                 <br />- Community hour, full of panel discussions, fun and
