@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const Section = styled.section `
+export const Section = styled.section`
   position: relative;
   padding: 6rem 0;
   background-color: ${({ isDark }) => (isDark ? '#1C1C1C' : '#FFF')};
@@ -78,7 +78,7 @@ export const SignupButton = styled.button`
   width: 100%;
   height: 5rem;
   border: 1px solid transparent;
-  background: ${({ overrideColor }) => overrideColor || '#000000'};
+  background: ${({ overrideColor }) => overrideColor || '#1bc99f'};
   color: #ffffff;
 
   &:hover,
@@ -92,18 +92,18 @@ export const SignupButton = styled.button`
 `
 
 export const SalesButton = styled.button`
-  box-shadow: inset 0 0 0 1px #828282;
-  color: ${({ isDefault }) => (isDefault ? '#FFF' : '#000000')};
-  width: 100%;
-  height: 5rem;
+         box-shadow: inset 0 0 0 1px #828282;
+         color: ${({ isDefault }) => (isDefault ? '#FFF' : '#1bc99f')};
+         width: 100%;
+         height: 5rem;
 
-  &:hover,
-  &:focus,
-  &:active {
-    border-color: #ffffff;
-    background: #000000;
-    color: #ffffff;
-    transition: all 0.25s ease-out;
-    text-decoration: none;
-  }
-`
+         &:hover,
+         &:focus,
+         &:active {
+           border-color: #ffffff;
+           background: #000000;
+           color: #ffffff;
+           transition: all 0.25s ease-out;
+           text-decoration: none;
+         }
+       `

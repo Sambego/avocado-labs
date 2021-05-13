@@ -1,10 +1,10 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export default styled.a `
+export default styled.a`
   display: block;
   padding: 16px 20px;
-  
+
   border: 1px solid transparent;
   border-radius: 4px;
   font-size: 1.3rem;
@@ -27,5 +27,5 @@ export default styled.a `
     display: initial;
   `}
 
-  background-color: ${({ color }) => color || '#000000'};
+  background-color: ${({ color }) => color || '#1bc99f'};
 `

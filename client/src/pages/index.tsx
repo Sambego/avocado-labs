@@ -24,9 +24,10 @@ type EventsPage = {
 }
 
 const heroBackground =
-  '//images.ctfassets.net/kbkgmx9upatd/EdgWFyaNxF6DdOu12Ti36/da9f0e1b0c50b90cacdccd43d091da47/Background.png'
-const heroImage =
-  '//images.ctfassets.net/kbkgmx9upatd/4kBiKcxdsFx43DYA6hOPXy/be322ed50aa235e7b80236992393b1a6/Logo_Black-Sticker_Vertical2.png'
+  'https://cdn.auth0.com/blog/avocado-labs/avocado-background-home.jpg'
+const heroImage = 'https://cdn.auth0.com/blog/avocado-labs/avocado-hello.png'
+const wordMark =
+  'https://cdn.auth0.com/blog/avocado-labs/Al-wordmark-contra.png'
 
 const HomePage = ({ data, location }: EventsPage) => {
   const siteMetadata = data.site.siteMetadata
@@ -66,15 +67,15 @@ const HomePage = ({ data, location }: EventsPage) => {
         <Container>
           <InnerContent>
             <TextContent>
-              <Title>Avocado Labs - Online Talks</Title>
+              <img src={wordMark} alt="Avocado Labs - Online Talks" />
               <Subtitle>
-                Avocado Labs is a way to keep people connected online and have
-                access to quality talks. There will be live talks, which will
-                then be uploaded, where expert speakers can share their
-                knowledge. After each talk there will be a 5min Q&A where our
-                speakers will be able to answer any related questions you may
-                have. These episodes will be hosted and moderated by our Auth0
-                developer advocates to ensure a safe and friendly environment.
+                A welcoming space to learn about all things web developement. We
+                have 3 tracks! <br />- The learners track, focused on learning
+                about new technoliges.
+                <br />- The Ambassadors track, to learn about identity and
+                security.
+                <br />- Community hour, full of panel discussions, fun and
+                games.
               </Subtitle>
             </TextContent>
             <MediaContent>

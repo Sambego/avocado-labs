@@ -87,6 +87,9 @@ export const HeaderNav = styled.nav`
 
   a {
     color: white;
+    &:hover {
+      color: #1bc99f;
+    }
   }
 `
 
@@ -116,7 +119,7 @@ export const Button = styled.button`
     display: initial;
   `}
 
-  background-color: ${({ color }) => color || '#000000'};
+  background-color: ${({ color }) => color || '#1bc99f'};
 `
 export const AvatarContainer = styled.div`
   display: block;

@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { media } from '../../../utilities/style-utils-new'
 
-export const StickyIllustration = styled.div `
+export const StickyIllustration = styled.div`
   position: absolute;
   top: 0;
   left: 0;
@@ -15,7 +15,7 @@ export const StickyIllustration = styled.div `
   z-index: 100;
 `
 
-export const Container = styled.div `
+export const Container = styled.div`
   max-width: 100%;
   padding: 0 2rem;
   margin: 0 auto;
@@ -51,7 +51,7 @@ export const Layer2 = styled.div`
     left: initial;
     width: 400px;
     height: 745px;
-    max-height: 100%;
+    max-height: 90%;
     background-image: url(${({ bgImage }) => bgImage});
     background-repeat: no-repeat;
     background-size: contain;

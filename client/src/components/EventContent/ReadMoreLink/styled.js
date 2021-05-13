@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components'
 
 export default styled.a`
   display: flex;
@@ -9,7 +9,7 @@ export default styled.a`
   font-weight: 600;
   letter-spacing: 0.135rem;
   line-height: 1.7;
-  color: #0d96c6;
+  color: #1bc99f;
   transition: color 0.25s ease-in;
   cursor: pointer;
 
@@ -23,17 +23,17 @@ export default styled.a`
     border-top: 0.5rem solid transparent;
     border-right: 0.5rem solid transparent;
     border-bottom: 0.5rem solid transparent;
-    border-left: 0.5rem solid #0d96c6;
+    border-left: 0.5rem solid #1bc99f;
     transition: border 0.25s ease-in;
   }
 
   &:hover,
   &:focus {
-    color: #053b4e;
+    color: #000;
     transition: color 0.25s ease-in;
     &:after {
-      border-left: 0.5rem solid #053b4e;
+      border-left: 0.5rem solid #1bc99f;
       transition: border 0.25s ease-in;
     }
   }
-`;
+`
