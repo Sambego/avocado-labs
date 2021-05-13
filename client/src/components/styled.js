@@ -88,6 +88,10 @@ export const TextContent = styled.div`
     flex: 0 1 54rem;
     padding: 0;
   `}
+
+  img { 
+    width: 70%;
+  }
 `
 
 export const MediaContent = styled.div`
