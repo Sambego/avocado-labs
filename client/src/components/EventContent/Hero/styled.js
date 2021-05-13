@@ -16,7 +16,7 @@ export const FadeIn = keyframes`
 export const HeroStyled = styled.section`
   position: relative;
   counter-reset: section;
-  padding-top: 8rem;
+  padding-top: 14rem;
   padding-bottom: 1.5rem;
   background-color: ${({ bgColor }) => bgColor};
   background-image: url(${({ bgImage }) => bgImage});
