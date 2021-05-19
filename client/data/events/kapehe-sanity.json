@@ -1,8 +1,8 @@
 {
-  "title": "Intro to Sanity.io",
+  "title": "Intro to Sanity.io Q&A",
   "slug": "intro-to-sanityio",
   "metaTags": {
-    "title": "Intro to Sanity.io",
+    "title": "Intro to Sanity.io Q&A",
     "description": {
       "description": "Want to get up and running with Sanity.io? Your content is data and should be treated as such. When using Sanity, you are able to structure your content and use it wherever you need, however you need! In this video, I'll show you how to get Sanity started for any project."
     },
@@ -24,10 +24,10 @@
       "title": "Talk",
       "overviewSubsections": [
         {
-          "title": "Intro to Sanity.io",
+          "title": "Intro to Sanity.io Q&A",
           "description": {
             "childMarkdownRemark": {
-              "rawMarkdownBody": "Want to get up and running with Sanity.io? Your content is data and should be treated as such. When using Sanity, you are able to structure your content and use it wherever you need, however you need! In this video, I'll show you how to get Sanity started for any project."
+              "rawMarkdownBody": "Want to get up and running with Sanity.io? Your content is data and should be treated as such. When using Sanity, you are able to structure your content and use it wherever you need, however you need! In this video, I'll show you how to get Sanity started for any project. This is a Q&A sessions"
             }
           },
           "image": {
