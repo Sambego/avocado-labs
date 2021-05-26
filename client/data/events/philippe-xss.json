@@ -1,0 +1,79 @@
+{
+  "title": "Common XSS misconceptions - Q&A",
+  "slug": "common-xss-misconceptions",
+  "metaTags": {
+    "title": "Common XSS misconceptions - Q&A",
+    "description": {
+      "description": "Everyone agrees that Cross-Site Scripting (XSS) is a real threat to browser-based applications, but many underestimate the true power of XSS. In this talk, we take an in-depth look at the consequences of XSS. With practical examples, we illustrate how different payloads target an application. Mindblowing attack scenarios will focus on identity-specific features, such as stealing tokens from web applications. By the end of this session, you will understand the real threat of an XSS vulnerability in your application, allowing you to implement the right defense strategy."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/xss-misconceptions.jpg",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-06-01",
+  "navigationTime": "16:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 16:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/278418877/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Common XSS misconceptions - Q&A",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Everyone agrees that Cross-Site Scripting (XSS) is a real threat to browser-based applications, but many underestimate the true power of XSS. In this talk, we take an in-depth look at the consequences of XSS. With practical examples, we illustrate how different payloads target an application. Mindblowing attack scenarios will focus on identity-specific features, such as stealing tokens from web applications. By the end of this session, you will understand the real threat of an XSS vulnerability in your application, allowing you to implement the right defense strategy."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/avocado-dark-logo.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Philippe De Ryck",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Philippe De Ryck helps developers protect companies through better web security. His Ph.D. in web security from KU Leuven lies at the basis of his exceptional knowledge of the security landscape. As the founder of Pragmatic Web Security, Philippe delivers security training and security consulting to companies worldwide. His online course platform allows anyone to learn complex security topics at their own pace. Philippe is a Google Developer Expert and an Auth0 Ambassador/Expert for his community contributions on security of web applications and APIs."
+          },
+          "githubAccount": null,
+          "company": "Pragmatic Web Security",
+          "title": "Founder",
+          "twitterAccount": "https://twitter.com/PhilippeDeRyck",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/ambassadors/philippe-de-ryck.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "16:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "16:05",
+          "description": {
+            "description": "Q&A with Philippe"
+          }
+        },
+        { "hour": "16:30", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
