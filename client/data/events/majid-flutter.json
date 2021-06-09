@@ -1,0 +1,79 @@
+{
+  "title": "Q&A: Get started with Flutter",
+  "slug": "getting-started-with-flutter",
+  "metaTags": {
+    "title": "Q&A: Get started with Flutter",
+    "description": {
+      "description": "Flutter is a cross-platform, mobile development framework created by Google. With user-centric design in mind, Flutter allows developers to create beautiful apps several platforms from a single codebase. Flutter is well-known for its productive and fast development experiences which Majid shows in his video we have on YouTube."
+    },
+    "ogImage": "https://cdn.auth0.com/blog/avocado-labs/subtle-art-devrel.png",
+    "twitterSite": "@Avocado_Labs",
+    "twitterCreator": "@Avocado_Labs"
+  },
+  "eventDate": "2021-06-15",
+  "navigationTime": "16:00 CET",
+  "navigationLocation": "Online",
+  "heroTitle": "Avocado Labs - Online talks",
+  "heroButtonText": "Join us at 16:00 CET",
+  "heroButtonLink": "https://www.meetup.com/avocado-labs-talks/events/278719942/",
+  "heroDescription": {
+    "heroDescription": "Avocado Labs is a way to keep people connected online and have access to quality talks. There will be live talks, which will then be uploaded, where expert speakers can share their knowledge. After each talk there will be a 5min Q&A where our speakers will be able to answer any related questions you may have. These episodes will be hosted and moderated by our Auth0 developer advocates to ensure a safe and friendly environment."
+  },
+  "parts": [
+    {
+      "title": "Talk",
+      "overviewSubsections": [
+        {
+          "title": "Q&A: Get started with Flutter",
+          "description": {
+            "childMarkdownRemark": {
+              "rawMarkdownBody": "Flutter is a cross-platform, mobile development framework created by Google. With user-centric design in mind, Flutter allows developers to create beautiful apps several platforms from a single codebase. Flutter is well-known for its productive and fast development experiences which Majid shows in his video we have on YouTube."
+            }
+          },
+          "image": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/avocado-dark-logo.png"
+            }
+          }
+        }
+      ],
+      "type": "eventPageOverviewSection"
+    },
+    {
+      "title": "Speaker",
+      "speakers": [
+        {
+          "name": "Majid Hajian",
+          "linkedInAccount": null,
+          "intro": {
+            "intro": "Majid is a Google developer expert and passionate software developer with years of developing and architecting complex web and mobile applications. His passions are generally Flutter, PWA, and performance. He is an award-winning book author at Apress and instructor at PacktPub/Udemy and Pluralsight."
+          },
+          "githubAccount": null,
+          "company": "Telia",
+          "title": "Software architect",
+          "twitterAccount": "https://twitter.com/mhadaily",
+          "picture": {
+            "file": {
+              "url": "https://cdn.auth0.com/blog/avocado-labs/majid.jpg"
+            }
+          }
+        }
+      ],
+      "type": "eventPageSpeakersSection"
+    },
+    {
+      "title": "Schedule",
+      "schedule": [
+        { "hour": "16:00", "description": { "description": "Welcome!" } },
+        {
+          "hour": "16:05",
+          "description": {
+            "description": "Q&A: Get started with Flutter"
+          }
+        },
+        { "hour": "16:30", "description": { "description": "Goodbye!" } }
+      ],
+      "type": "eventPageScheduleSection"
+    }
+  ]
+}
