@@ -99,7 +99,7 @@
                 "title": "From DevOps to Gatsby JS",
                 "description": {
                     "childMarkdownRemark": {
-                        "rawMarkdownBody": "This episode is jam packed with knowledge, we will first be taking a look at the DevOps culture which will be explained to us in a simple way by the one and only Diana Rodriguez. Then, the amazing Obinna Ekwuno will show us how we can build our first web app with Gatsby JS! \n"
+                        "rawMarkdownBody": "This episode is jam packed with knowledge. The amazing Obinna Ekwuno will show us how we can build our first web app with Gatsby JS! \n"
                     }
                 },
                 "image": {
