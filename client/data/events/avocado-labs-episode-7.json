@@ -45,13 +45,6 @@
             "title": "Talks",
             "description": null,
             "topicsSubsections": [{
-                    "title": "Fostering DevOps Culture for Success",
-                    "speaker": [{ "name": "Diana Rodriguez", "company": "Vonage" }],
-                    "description": {
-                        "description": "When it comes to the DevOps approach, we are not talking about the latest diet or fad or fashion. The DevOps culture explained in a simple way and its approach in the world of Web & IOT and how does it benefit the process, improving pipelines and improving the quality of our releases device, code and infrastructure wise. What about security? what is the state? did we know that the majority of developers don’t trust the same systems/devices/firmware they are releasing?, are we shipping to production based on pressure and/or the whims of a non-understanding market? What is it there to do to make sure we release quality over quantity?. How does this all relate?. I will share the secrets and not so secret information and leave you with it… you decide your course of action!!\n"
-                    }
-                },
-                {
                     "title": "Gatsby JS building blocks",
                     "speaker": [{ "name": "Obinna Ekwuno", "company": "Gatsby INC. " }],
                     "description": {
@@ -64,22 +57,6 @@
         {
             "title": "Speakers",
             "speakers": [{
-                    "name": "Diana Rodriguez",
-                    "linkedInAccount": null,
-                    "intro": {
-                        "intro": "Diana Rodriguez is a Full Stack Developer/DevOps, Google Developer Expert, Microsoft MVP and Auth0 Ambassador. With 20 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt."
-                    },
-                    "githubAccount": null,
-                    "company": "Vonage",
-                    "title": "Python Developer Advocate",
-                    "twitterAccount": "https://twitter.com/cotufa82",
-                    "picture": {
-                        "file": {
-                            "url": "//images.ctfassets.net/kbkgmx9upatd/oORan3yHvaBzykplAyNp9/d17672c1477957c290a98b05e8f64c84/Diana.png"
-                        }
-                    }
-                },
-                {
                     "name": "Obinna Ekwuno",
                     "linkedInAccount": null,
                     "intro": {
@@ -102,16 +79,6 @@
             "title": "Schedule",
             "schedule": [
                 { "hour": "18:00", "description": { "description": "Welcome!" } },
-                {
-                    "hour": "18:05",
-                    "description": {
-                        "description": "Fostering DevOps Culture for Success\n"
-                    }
-                },
-                {
-                    "hour": "18:35",
-                    "description": { "description": "Q&A with Diana Rodriguez " }
-                },
                 {
                     "hour": "18:40",
                     "description": { "description": "Gatsby JS building blocks" }
@@ -147,13 +114,6 @@
             "title": "Talks",
             "description": null,
             "topicsSubsections": [{
-                    "title": "Fostering DevOps Culture for Success",
-                    "speaker": [{ "name": "Diana Rodriguez", "company": "Vonage" }],
-                    "description": {
-                        "description": "When it comes to the DevOps approach, we are not talking about the latest diet or fad or fashion. The DevOps culture explained in a simple way and its approach in the world of Web & IOT and how does it benefit the process, improving pipelines and improving the quality of our releases device, code and infrastructure wise. What about security? what is the state? did we know that the majority of developers don’t trust the same systems/devices/firmware they are releasing?, are we shipping to production based on pressure and/or the whims of a non-understanding market? What is it there to do to make sure we release quality over quantity?. How does this all relate?. I will share the secrets and not so secret information and leave you with it… you decide your course of action!!\n"
-                    }
-                },
-                {
                     "title": "Gatsby JS building blocks",
                     "speaker": [{ "name": "Obinna Ekwuno", "company": "Gatsby INC. " }],
                     "description": {
@@ -166,22 +126,6 @@
         {
             "title": "Speakers",
             "speakers": [{
-                    "name": "Diana Rodriguez",
-                    "linkedInAccount": null,
-                    "intro": {
-                        "intro": "Diana Rodriguez is a Full Stack Developer/DevOps, Google Developer Expert, Microsoft MVP and Auth0 Ambassador. With 20 years' experience and a strong background in back end and infrastructure, Diana likes to bring together the best of both worlds, spreading DevOps culture. She's super enthusiastic about everything to encourage people to start a career in development and a fan of female devs and DevOps. In her spare time she likes to play videogames, also a huge fan of sports, Diana is a rugby player and taekwondo black belt."
-                    },
-                    "githubAccount": null,
-                    "company": "Vonage",
-                    "title": "Python Developer Advocate",
-                    "twitterAccount": "https://twitter.com/cotufa82",
-                    "picture": {
-                        "file": {
-                            "url": "//images.ctfassets.net/kbkgmx9upatd/oORan3yHvaBzykplAyNp9/d17672c1477957c290a98b05e8f64c84/Diana.png"
-                        }
-                    }
-                },
-                {
                     "name": "Obinna Ekwuno",
                     "linkedInAccount": null,
                     "intro": {
@@ -204,16 +148,6 @@
             "title": "Schedule",
             "schedule": [
                 { "hour": "18:00", "description": { "description": "Welcome!" } },
-                {
-                    "hour": "18:05",
-                    "description": {
-                        "description": "Fostering DevOps Culture for Success\n"
-                    }
-                },
-                {
-                    "hour": "18:35",
-                    "description": { "description": "Q&A with Diana Rodriguez " }
-                },
                 {
                     "hour": "18:40",
                     "description": { "description": "Gatsby JS building blocks" }
