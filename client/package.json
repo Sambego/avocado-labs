@@ -17,7 +17,7 @@
         "gatsby-source-filesystem": "^2.5.0",
         "gatsby-source-youtube": "github:Sambego/gatsby-source-youtube",
         "gatsby-transformer-json": "^2.5.0",
-        "gatsby-transformer-remark": "^2.7.3",
+        "gatsby-transformer-remark": "^5.25.1",
         "gatsby-transformer-sharp": "^2.4.6",
         "lodash": "^4.17.15",
         "react": "^16.13.1",
